@@ -9,38 +9,82 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as LexiconRouteImport } from './routes/lexicon'
+import { Route as ColophonRouteImport } from './routes/colophon'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ArtifactSlugRouteImport } from './routes/artifact.$slug'
 
+const LexiconRoute = LexiconRouteImport.update({
+  id: '/lexicon',
+  path: '/lexicon',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ColophonRoute = ColophonRouteImport.update({
+  id: '/colophon',
+  path: '/colophon',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ArtifactSlugRoute = ArtifactSlugRouteImport.update({
+  id: '/artifact/$slug',
+  path: '/artifact/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/colophon': typeof ColophonRoute
+  '/lexicon': typeof LexiconRoute
+  '/artifact/$slug': typeof ArtifactSlugRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/colophon': typeof ColophonRoute
+  '/lexicon': typeof LexiconRoute
+  '/artifact/$slug': typeof ArtifactSlugRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/colophon': typeof ColophonRoute
+  '/lexicon': typeof LexiconRoute
+  '/artifact/$slug': typeof ArtifactSlugRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/colophon' | '/lexicon' | '/artifact/$slug'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/colophon' | '/lexicon' | '/artifact/$slug'
+  id: '__root__' | '/' | '/colophon' | '/lexicon' | '/artifact/$slug'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ColophonRoute: typeof ColophonRoute
+  LexiconRoute: typeof LexiconRoute
+  ArtifactSlugRoute: typeof ArtifactSlugRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/lexicon': {
+      id: '/lexicon'
+      path: '/lexicon'
+      fullPath: '/lexicon'
+      preLoaderRoute: typeof LexiconRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/colophon': {
+      id: '/colophon'
+      path: '/colophon'
+      fullPath: '/colophon'
+      preLoaderRoute: typeof ColophonRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -48,22 +92,22 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/artifact/$slug': {
+      id: '/artifact/$slug'
+      path: '/artifact/$slug'
+      fullPath: '/artifact/$slug'
+      preLoaderRoute: typeof ArtifactSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ColophonRoute: ColophonRoute,
+  LexiconRoute: LexiconRoute,
+  ArtifactSlugRoute: ArtifactSlugRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
-
-import type { getRouter } from './router.tsx'
-import type { startInstance } from './start.ts'
-declare module '@tanstack/react-start' {
-  interface Register {
-    ssr: true
-    router: Awaited<ReturnType<typeof getRouter>>
-    config: Awaited<ReturnType<typeof startInstance.getOptions>>
-  }
-}
