@@ -51,6 +51,40 @@
     }
   },
   {
+    "id": "climax-2018:seed-curation:climax-2018-seed-curation",
+    "artifactSlug": "climax-2018",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://climax-2018",
+    "sourceId": "climax-2018-seed-curation",
+    "postedAt": "2026-05-12T15:20:00.000Z",
+    "fetchedAt": "2026-05-12T15:20:00.000Z",
+    "lang": "en",
+    "body": "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "dogville-2003:seed-curation:dogville-2003-seed-curation",
+    "artifactSlug": "dogville-2003",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://dogville-2003",
+    "sourceId": "dogville-2003-seed-curation",
+    "postedAt": "2026-05-12T15:20:00.000Z",
+    "fetchedAt": "2026-05-12T15:20:00.000Z",
+    "lang": "en",
+    "body": "Dogville (2003) directed by Lars von Trier. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
     "id": "enemy:seed-curation:enemy-seed-curation",
     "artifactSlug": "enemy",
     "source": "seed-curation",
@@ -61,6 +95,23 @@
     "fetchedAt": "2026-05-12T05:55:31.285Z",
     "lang": "en",
     "body": "Enemy (2013) directed by Denis Villeneuve. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation",
+    "artifactSlug": "enter-the-void-2009",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://enter-the-void-2009",
+    "sourceId": "enter-the-void-2009-seed-curation",
+    "postedAt": "2026-05-12T15:20:00.000Z",
+    "fetchedAt": "2026-05-12T15:20:00.000Z",
+    "lang": "en",
+    "body": "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization.",
     "score": 50,
     "sourceReliability": 0.5,
     "metadata": {
@@ -187,6 +238,23 @@
     }
   },
   {
+    "id": "inception-2010:seed-curation:inception-2010-seed-curation",
+    "artifactSlug": "inception-2010",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://inception-2010",
+    "sourceId": "inception-2010-seed-curation",
+    "postedAt": "2026-05-12T15:20:00.000Z",
+    "fetchedAt": "2026-05-12T15:20:00.000Z",
+    "lang": "en",
+    "body": "Inception (2010) directed by Christopher Nolan. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
     "id": "inland-empire:seed-curation:inland-empire-seed-curation",
     "artifactSlug": "inland-empire",
     "source": "seed-curation",
@@ -231,6 +299,23 @@
     "fetchedAt": "2026-05-12T03:36:57.091Z",
     "lang": "en",
     "body": "Killers of the Flower Moon (2023) directed by Martin Scorsese. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation",
+    "artifactSlug": "mad-max-fury-road-2015",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://mad-max-fury-road-2015",
+    "sourceId": "mad-max-fury-road-2015-seed-curation",
+    "postedAt": "2026-05-12T08:15:00.000Z",
+    "fetchedAt": "2026-05-12T08:15:00.000Z",
+    "lang": "en",
+    "body": "Mad Max: Fury Road (2015) directed by George Miller. Curated baseline artifact for metric calibration and systematic scoring initialization.",
     "score": 50,
     "sourceReliability": 0.5,
     "metadata": {
@@ -340,6 +425,23 @@
     }
   },
   {
+    "id": "parasite-2019:seed-curation:parasite-2019-seed-curation",
+    "artifactSlug": "parasite-2019",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://parasite-2019",
+    "sourceId": "parasite-2019-seed-curation",
+    "postedAt": "2026-05-12T08:15:00.000Z",
+    "fetchedAt": "2026-05-12T08:15:00.000Z",
+    "lang": "en",
+    "body": "Parasite (2019) directed by Bong Joon-ho. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
     "id": "possession:seed-curation:possession-seed-curation",
     "artifactSlug": "possession",
     "source": "seed-curation",
@@ -367,6 +469,23 @@
     "fetchedAt": "2026-05-12T05:55:31.285Z",
     "lang": "en",
     "body": "Saint Maud (2019) directed by Rose Glass. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "showgirls-1995:seed-curation:showgirls-1995-seed-curation",
+    "artifactSlug": "showgirls-1995",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://showgirls-1995",
+    "sourceId": "showgirls-1995-seed-curation",
+    "postedAt": "2026-05-12T08:15:00.000Z",
+    "fetchedAt": "2026-05-12T08:15:00.000Z",
+    "lang": "en",
+    "body": "Showgirls (1995) directed by Paul Verhoeven. Curated baseline artifact for metric calibration and systematic scoring initialization.",
     "score": 50,
     "sourceReliability": 0.5,
     "metadata": {
@@ -493,6 +612,23 @@
     }
   },
   {
+    "id": "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation",
+    "artifactSlug": "the-banshees-of-inisherin-2022",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://the-banshees-of-inisherin-2022",
+    "sourceId": "the-banshees-of-inisherin-2022-seed-curation",
+    "postedAt": "2026-05-12T15:20:00.000Z",
+    "fetchedAt": "2026-05-12T15:20:00.000Z",
+    "lang": "en",
+    "body": "The Banshees of Inisherin (2022) directed by Martin McDonagh. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
     "id": "the-master:seed-curation:the-master-seed-curation",
     "artifactSlug": "the-master",
     "source": "seed-curation",
@@ -520,6 +656,40 @@
     "fetchedAt": "2026-05-12T05:55:31.285Z",
     "lang": "en",
     "body": "The Northman (2022) directed by Robert Eggers. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "the-room-2003:seed-curation:the-room-2003-seed-curation",
+    "artifactSlug": "the-room-2003",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://the-room-2003",
+    "sourceId": "the-room-2003-seed-curation",
+    "postedAt": "2026-05-12T08:15:00.000Z",
+    "fetchedAt": "2026-05-12T08:15:00.000Z",
+    "lang": "en",
+    "body": "The Room (2003) directed by Tommy Wiseau. Curated baseline artifact for metric calibration and systematic scoring initialization.",
+    "score": 50,
+    "sourceReliability": 0.5,
+    "metadata": {
+      "method": "systematic-movie-pipeline"
+    }
+  },
+  {
+    "id": "the-shining-1980:seed-curation:the-shining-1980-seed-curation",
+    "artifactSlug": "the-shining-1980",
+    "source": "seed-curation",
+    "sourceKind": "seed",
+    "sourceUrl": "seed://the-shining-1980",
+    "sourceId": "the-shining-1980-seed-curation",
+    "postedAt": "2026-05-12T08:15:00.000Z",
+    "fetchedAt": "2026-05-12T08:15:00.000Z",
+    "lang": "en",
+    "body": "The Shining (1980) directed by Stanley Kubrick. Curated baseline artifact for metric calibration and systematic scoring initialization.",
     "score": 50,
     "sourceReliability": 0.5,
     "metadata": {

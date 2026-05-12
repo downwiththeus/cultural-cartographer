@@ -2474,5 +2474,795 @@
       }
     ],
     "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "the-shining-1980",
+    "generatedAt": "2026-05-12T08:15:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 1,
+    "symbols": [
+      {
+        "term": "the",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "kubrick",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      },
+      {
+        "term": "1980",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-shining-1980:seed-curation:the-shining-1980-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "The Shining (1980) directed by Stanley Kubrick. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "showgirls-1995",
+    "generatedAt": "2026-05-12T08:15:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 1,
+    "symbols": [
+      {
+        "term": "showgirls",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "verhoeven",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      },
+      {
+        "term": "1995",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "showgirls-1995:seed-curation:showgirls-1995-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Showgirls (1995) directed by Paul Verhoeven. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "mad-max-fury-road-2015",
+    "generatedAt": "2026-05-12T08:15:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 1,
+    "symbols": [
+      {
+        "term": "mad",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "miller",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      },
+      {
+        "term": "2015",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "mad-max-fury-road-2015:seed-curation:mad-max-fury-road-2015-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Mad Max: Fury Road (2015) directed by George Miller. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "the-room-2003",
+    "generatedAt": "2026-05-12T08:15:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 1,
+    "symbols": [
+      {
+        "term": "the",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "wiseau",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "2003",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-room-2003:seed-curation:the-room-2003-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "The Room (2003) directed by Tommy Wiseau. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "parasite-2019",
+    "generatedAt": "2026-05-12T08:15:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 1,
+    "symbols": [
+      {
+        "term": "parasite",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "joon-ho",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      },
+      {
+        "term": "2019",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "parasite-2019:seed-curation:parasite-2019-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Parasite (2019) directed by Bong Joon-ho. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "inception-2010",
+    "generatedAt": "2026-05-12T15:20:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 0.43,
+    "symbols": [
+      {
+        "term": "inception",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "nolan",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "christopher",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      },
+      {
+        "term": "calibration",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "inception-2010:seed-curation:inception-2010-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Inception (2010) directed by Christopher Nolan. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "enter-the-void-2009",
+    "generatedAt": "2026-05-12T15:20:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 0.43,
+    "symbols": [
+      {
+        "term": "void",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "gaspar",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      },
+      {
+        "term": "calibration",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "enter-the-void-2009:seed-curation:enter-the-void-2009-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "the-banshees-of-inisherin-2022",
+    "generatedAt": "2026-05-12T15:20:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 0.43,
+    "symbols": [
+      {
+        "term": "banshees",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "inisherin",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "mcdonagh",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      },
+      {
+        "term": "calibration",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "the-banshees-of-inisherin-2022:seed-curation:the-banshees-of-inisherin-2022-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "The Banshees of Inisherin (2022) directed by Martin McDonagh. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "dogville-2003",
+    "generatedAt": "2026-05-12T15:20:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 0.43,
+    "symbols": [
+      {
+        "term": "dogville",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "trier",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "lars",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      },
+      {
+        "term": "calibration",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "dogville-2003:seed-curation:dogville-2003-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Dogville (2003) directed by Lars von Trier. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
+  },
+  {
+    "artifactSlug": "climax-2018",
+    "generatedAt": "2026-05-12T15:20:00.000Z",
+    "method": "heuristic-safe-extraction",
+    "guardrails": [
+      "Extraction/classification/summarization only",
+      "No invented ratings or criticism"
+    ],
+    "confidence": 0.43,
+    "symbols": [
+      {
+        "term": "climax",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "gaspar",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "directed",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "curated",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "baseline",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "artifact",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "metric",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      },
+      {
+        "term": "calibration",
+        "weight": 1,
+        "evidenceMentionIds": [
+          "climax-2018:seed-curation:climax-2018-seed-curation"
+        ]
+      }
+    ],
+    "discourseClusters": [
+      {
+        "label": "analytical",
+        "share": 1,
+        "summary": "analytical cluster derived from mention text classification",
+        "sampleQuotes": [
+          "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        ]
+      }
+    ],
+    "afterlifeEvents": []
   }
 ]

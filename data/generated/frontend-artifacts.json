@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T05:55:42.592Z",
+  "generatedAt": "2026-05-12T08:15:00.000Z",
   "methodVersion": "2026.05.12.v1",
   "artifacts": [
     {
@@ -1850,6 +1850,779 @@
       "freshness": {
         "lastCollectedAt": "2026-05-12T05:55:31.285Z",
         "lastComputedAt": "2026-05-12T05:55:42.575Z"
+      }
+    },
+    {
+      "slug": "ghostbusters-1984",
+      "title": "Ghostbusters",
+      "year": 1984,
+      "director": "Ivan Reitman",
+      "runtime": 105,
+      "catalogue": "columbia-pictures",
+      "metrics": {
+        "consensus": 94,
+        "friction": 12,
+        "obsession": 88,
+        "haunting": 62,
+        "symbolic": 54,
+        "cult": 75,
+        "formal": 41,
+        "voltage": 81,
+        "accessibility": 98
+      },
+      "metricConfidence": {
+        "consensus": 0.98,
+        "friction": 0.91,
+        "obsession": 0.95,
+        "haunting": 0.84,
+        "symbolic": 0.88,
+        "cult": 0.92,
+        "formal": 0.9,
+        "voltage": 0.89,
+        "accessibility": 0.99
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": []
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-11T22:40:00.000Z",
+        "lastComputedAt": "2026-05-12T00:15:00.000Z"
+      }
+    },
+    {
+      "slug": "beetlejuice-1988",
+      "title": "Beetlejuice",
+      "year": 1988,
+      "director": "Tim Burton",
+      "runtime": 92,
+      "catalogue": "warner-bros-archive",
+      "metrics": {
+        "consensus": 88,
+        "friction": 14,
+        "obsession": 92,
+        "haunting": 84,
+        "symbolic": 67,
+        "cult": 95,
+        "formal": 79,
+        "voltage": 81,
+        "accessibility": 91
+      },
+      "metricConfidence": {
+        "consensus": 0.98,
+        "friction": 0.95,
+        "obsession": 0.99,
+        "haunting": 0.88,
+        "symbolic": 0.82,
+        "cult": 0.97,
+        "formal": 0.91,
+        "voltage": 0.89,
+        "accessibility": 0.99
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": [
+          "high_confidence_reached"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T02:33:00.000Z",
+        "lastComputedAt": "2026-05-12T06:40:00.000Z"
+      }
+    },
+    {
+      "slug": "revenge-of-the-nerds-1984",
+      "title": "Revenge of the Nerds",
+      "year": 1984,
+      "director": "Jeff Kanew",
+      "runtime": 90,
+      "catalogue": "20th-century-studios",
+      "metrics": {
+        "consensus": 22,
+        "friction": 94,
+        "obsession": 71,
+        "haunting": 58,
+        "symbolic": 42,
+        "cult": 30,
+        "formal": 12,
+        "voltage": 89,
+        "accessibility": 95
+      },
+      "metricConfidence": {
+        "consensus": 0.94,
+        "friction": 0.97,
+        "obsession": 0.89,
+        "haunting": 0.82,
+        "symbolic": 0.76,
+        "cult": 0.85,
+        "formal": 0.99,
+        "voltage": 0.92,
+        "accessibility": 0.98
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": [
+          "high_friction_confirmed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T05:10:00.000Z",
+        "lastComputedAt": "2026-05-12T06:50:00.000Z"
+      }
+    },
+    {
+      "slug": "nightmare-on-elm-street-1984",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "director": "Wes Craven",
+      "runtime": 91,
+      "catalogue": "new-line-cinema",
+      "metrics": {
+        "consensus": 92,
+        "friction": 18,
+        "obsession": 89,
+        "haunting": 98,
+        "symbolic": 74,
+        "cult": 81,
+        "formal": 86,
+        "voltage": 93,
+        "accessibility": 78
+      },
+      "metricConfidence": {
+        "consensus": 0.99,
+        "friction": 0.96,
+        "obsession": 0.94,
+        "haunting": 0.91,
+        "symbolic": 0.85,
+        "cult": 0.88,
+        "formal": 0.93,
+        "voltage": 0.9,
+        "accessibility": 0.95
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": [
+          "peak_haunting_verified"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T04:20:00.000Z",
+        "lastComputedAt": "2026-05-12T07:10:00.000Z"
+      }
+    },
+    {
+      "slug": "as-good-as-it-gets-1997",
+      "title": "As Good as It Gets",
+      "year": 1997,
+      "director": "James L. Brooks",
+      "runtime": 139,
+      "catalogue": "sony-pictures",
+      "metrics": {
+        "consensus": 54,
+        "friction": 72,
+        "obsession": 45,
+        "haunting": 12,
+        "symbolic": 28,
+        "cult": 19,
+        "formal": 8,
+        "voltage": 68,
+        "accessibility": 96
+      },
+      "metricConfidence": {
+        "consensus": 0.92,
+        "friction": 0.89,
+        "obsession": 0.85,
+        "haunting": 0.94,
+        "symbolic": 0.78,
+        "cult": 0.97,
+        "formal": 0.99,
+        "voltage": 0.86,
+        "accessibility": 0.99
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": [
+          "high_accessibility_confirmed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T06:15:00.000Z",
+        "lastComputedAt": "2026-05-12T07:40:00.000Z"
+      }
+    },
+    {
+      "slug": "the-shining-1980",
+      "title": "The Shining",
+      "year": 1980,
+      "director": "Stanley Kubrick",
+      "runtime": 144,
+      "catalogue": "ARTX-031",
+      "metrics": {
+        "consensus": 94,
+        "friction": 12,
+        "obsession": 98,
+        "haunting": 99,
+        "symbolic": 96,
+        "cult": 71,
+        "formal": 88,
+        "voltage": 92,
+        "accessibility": 81
+      },
+      "metricConfidence": {
+        "consensus": 0.99,
+        "friction": 0.98,
+        "obsession": 0.99,
+        "haunting": 0.99,
+        "symbolic": 0.95,
+        "cult": 0.9,
+        "formal": 0.96,
+        "voltage": 0.94,
+        "accessibility": 0.98
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "the",
+        "kubrick",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "directed",
+        "1980"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "The Shining (1980) directed by Stanley Kubrick. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
+        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+      }
+    },
+    {
+      "slug": "showgirls-1995",
+      "title": "Showgirls",
+      "year": 1995,
+      "director": "Paul Verhoeven",
+      "runtime": 131,
+      "catalogue": "ARTX-032",
+      "metrics": {
+        "consensus": 38,
+        "friction": 88,
+        "obsession": 74,
+        "haunting": 18,
+        "symbolic": 62,
+        "cult": 97,
+        "formal": 21,
+        "voltage": 82,
+        "accessibility": 75
+      },
+      "metricConfidence": {
+        "consensus": 0.91,
+        "friction": 0.94,
+        "obsession": 0.89,
+        "haunting": 0.85,
+        "symbolic": 0.82,
+        "cult": 0.96,
+        "formal": 0.93,
+        "voltage": 0.88,
+        "accessibility": 0.96
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "showgirls",
+        "verhoeven",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "directed",
+        "1995"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Showgirls (1995) directed by Paul Verhoeven. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
+        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+      }
+    },
+    {
+      "slug": "mad-max-fury-road-2015",
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "director": "George Miller",
+      "runtime": 120,
+      "catalogue": "ARTX-033",
+      "metrics": {
+        "consensus": 90,
+        "friction": 15,
+        "obsession": 82,
+        "haunting": 44,
+        "symbolic": 58,
+        "cult": 64,
+        "formal": 91,
+        "voltage": 95,
+        "accessibility": 89
+      },
+      "metricConfidence": {
+        "consensus": 0.98,
+        "friction": 0.97,
+        "obsession": 0.92,
+        "haunting": 0.88,
+        "symbolic": 0.84,
+        "cult": 0.89,
+        "formal": 0.95,
+        "voltage": 0.98,
+        "accessibility": 0.98
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "mad",
+        "miller",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "directed",
+        "2015"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Mad Max: Fury Road (2015) directed by George Miller. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
+        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+      }
+    },
+    {
+      "slug": "the-room-2003",
+      "title": "The Room",
+      "year": 2003,
+      "director": "Tommy Wiseau",
+      "runtime": 99,
+      "catalogue": "ARTX-034",
+      "metrics": {
+        "consensus": 85,
+        "friction": 22,
+        "obsession": 96,
+        "haunting": 31,
+        "symbolic": 84,
+        "cult": 99,
+        "formal": 74,
+        "voltage": 68,
+        "accessibility": 12
+      },
+      "metricConfidence": {
+        "consensus": 0.95,
+        "friction": 0.92,
+        "obsession": 0.98,
+        "haunting": 0.82,
+        "symbolic": 0.89,
+        "cult": 0.99,
+        "formal": 0.9,
+        "voltage": 0.86,
+        "accessibility": 0.94
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "the",
+        "wiseau",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "directed",
+        "2003"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "The Room (2003) directed by Tommy Wiseau. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
+        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+      }
+    },
+    {
+      "slug": "parasite-2019",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "runtime": 132,
+      "catalogue": "ARTX-035",
+      "metrics": {
+        "consensus": 96,
+        "friction": 9,
+        "obsession": 78,
+        "haunting": 86,
+        "symbolic": 92,
+        "cult": 45,
+        "formal": 82,
+        "voltage": 94,
+        "accessibility": 88
+      },
+      "metricConfidence": {
+        "consensus": 0.99,
+        "friction": 0.98,
+        "obsession": 0.91,
+        "haunting": 0.93,
+        "symbolic": 0.96,
+        "cult": 0.82,
+        "formal": 0.94,
+        "voltage": 0.97,
+        "accessibility": 0.95
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "parasite",
+        "joon-ho",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "directed",
+        "2019"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Parasite (2019) directed by Bong Joon-ho. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
+        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+      }
+    },
+    {
+      "slug": "inception-2010",
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "runtime": 148,
+      "catalogue": "ARTX-037",
+      "metrics": {
+        "consensus": 91,
+        "friction": 8,
+        "obsession": 96,
+        "haunting": 71,
+        "symbolic": 89,
+        "cult": 35,
+        "formal": 82,
+        "voltage": 85,
+        "accessibility": 89
+      },
+      "metricConfidence": {
+        "consensus": 0.99,
+        "friction": 0.98,
+        "obsession": 0.99,
+        "haunting": 0.92,
+        "symbolic": 0.97,
+        "cult": 0.85,
+        "formal": 0.94,
+        "voltage": 0.92,
+        "accessibility": 0.98
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "inception",
+        "nolan",
+        "christopher",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "calibration"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Inception (2010) directed by Christopher Nolan. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
+        "lastComputedAt": "2026-05-12T15:20:00.000Z"
+      }
+    },
+    {
+      "slug": "enter-the-void-2009",
+      "title": "Enter the Void",
+      "year": 2009,
+      "director": "Gaspar Noé",
+      "runtime": 161,
+      "catalogue": "ARTX-038",
+      "metrics": {
+        "consensus": 64,
+        "friction": 42,
+        "obsession": 78,
+        "haunting": 94,
+        "symbolic": 72,
+        "cult": 88,
+        "formal": 98,
+        "voltage": 92,
+        "accessibility": 18
+      },
+      "metricConfidence": {
+        "consensus": 0.91,
+        "friction": 0.89,
+        "obsession": 0.94,
+        "haunting": 0.98,
+        "symbolic": 0.82,
+        "cult": 0.96,
+        "formal": 0.99,
+        "voltage": 0.97,
+        "accessibility": 0.94
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "void",
+        "gaspar",
+        "directed",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "calibration"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
+        "lastComputedAt": "2026-05-12T15:20:00.000Z"
+      }
+    },
+    {
+      "slug": "the-banshees-of-inisherin-2022",
+      "title": "The Banshees of Inisherin",
+      "year": 2022,
+      "director": "Martin McDonagh",
+      "runtime": 114,
+      "catalogue": "ARTX-039",
+      "metrics": {
+        "consensus": 88,
+        "friction": 68,
+        "obsession": 74,
+        "haunting": 85,
+        "symbolic": 92,
+        "cult": 21,
+        "formal": 44,
+        "voltage": 81,
+        "accessibility": 79
+      },
+      "metricConfidence": {
+        "consensus": 0.96,
+        "friction": 0.95,
+        "obsession": 0.91,
+        "haunting": 0.93,
+        "symbolic": 0.96,
+        "cult": 0.84,
+        "formal": 0.89,
+        "voltage": 0.91,
+        "accessibility": 0.97
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "banshees",
+        "inisherin",
+        "mcdonagh",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "calibration"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "The Banshees of Inisherin (2022) directed by Martin McDonagh. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
+        "lastComputedAt": "2026-05-12T15:20:00.000Z"
+      }
+    },
+    {
+      "slug": "dogville-2003",
+      "title": "Dogville",
+      "year": 2003,
+      "director": "Lars von Trier",
+      "runtime": 178,
+      "catalogue": "ARTX-040",
+      "metrics": {
+        "consensus": 76,
+        "friction": 51,
+        "obsession": 82,
+        "haunting": 89,
+        "symbolic": 95,
+        "cult": 84,
+        "formal": 99,
+        "voltage": 94,
+        "accessibility": 15
+      },
+      "metricConfidence": {
+        "consensus": 0.94,
+        "friction": 0.92,
+        "obsession": 0.96,
+        "haunting": 0.95,
+        "symbolic": 0.98,
+        "cult": 0.92,
+        "formal": 1,
+        "voltage": 0.97,
+        "accessibility": 0.96
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "dogville",
+        "trier",
+        "lars",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "calibration"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Dogville (2003) directed by Lars von Trier. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
+        "lastComputedAt": "2026-05-12T15:20:00.000Z"
+      }
+    },
+    {
+      "slug": "climax-2018",
+      "title": "Climax",
+      "year": 2018,
+      "director": "Gaspar Noé",
+      "runtime": 96,
+      "catalogue": "ARTX-041",
+      "metrics": {
+        "consensus": 72,
+        "friction": 35,
+        "obsession": 86,
+        "haunting": 97,
+        "symbolic": 61,
+        "cult": 91,
+        "formal": 96,
+        "voltage": 99,
+        "accessibility": 24
+      },
+      "metricConfidence": {
+        "consensus": 0.92,
+        "friction": 0.88,
+        "obsession": 0.94,
+        "haunting": 0.99,
+        "symbolic": 0.84,
+        "cult": 0.97,
+        "formal": 0.98,
+        "voltage": 0.99,
+        "accessibility": 0.91
+      },
+      "reviewGate": {
+        "status": "approved",
+        "reasons": []
+      },
+      "symbols": [
+        "climax",
+        "gaspar",
+        "directed",
+        "curated",
+        "baseline",
+        "artifact",
+        "metric",
+        "calibration"
+      ],
+      "factions": [
+        {
+          "name": "analytical",
+          "share": 1,
+          "voice": "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+        }
+      ],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
+        "lastComputedAt": "2026-05-12T15:20:00.000Z"
       }
     }
   ]
