@@ -518,7 +518,7 @@ type GeneratedArtifact = {
   metrics: Record<string, number>;
   symbols?: string[];
   factions?: { name: string; share: number; voice: string }[];
-  afterlife?: { year: number; kind: string; label: string; source?: string }[];
+  afterlife?: { year?: number; occurredAt?: string; kind: string; label: string; source?: string }[];
 };
 
 // Deterministic pseudo-random in [0,1) from a string (for atlas placement of generated entries).
@@ -557,8 +557,21 @@ function adaptGenerated(g: GeneratedArtifact): Artifact {
   const afterlife: AfterlifeEvent[] =
     g.afterlife && g.afterlife.length > 0
       ? g.afterlife
-          .filter((e) => ALLOWED_KINDS.has(e.kind))
-          .map((e) => ({ ...e, kind: e.kind as AfterlifeEvent["kind"] }))
+          .map((e) => {
+            const year =
+              typeof e.year === "number"
+                ? e.year
+                : e.occurredAt
+                  ? new Date(e.occurredAt).getUTCFullYear()
+                  : g.year;
+            return {
+              year,
+              kind: (ALLOWED_KINDS.has(e.kind) ? e.kind : "rediscovery") as AfterlifeEvent["kind"],
+              label: (e.label || "").slice(0, 160),
+              source: e.source,
+            };
+          })
+          .sort((a, b) => a.year - b.year)
       : [{ year: g.year, kind: "release", label: `${g.title} released.` }];
   const factions: Faction[] =
     g.factions && g.factions.length > 0
