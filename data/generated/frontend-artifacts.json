@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T08:15:00.000Z",
-  "methodVersion": "2026.05.12.v1",
+  "generatedAt": "2026-05-12T15:31:18.612Z",
+  "methodVersion": "v1.1-metric-fix",
   "artifacts": [
     {
       "slug": "fire-walk-with-me",
@@ -546,7 +546,7 @@
       "slug": "possession",
       "title": "Possession",
       "year": 1981,
-      "director": "Andrzej \u017bu\u0142awski",
+      "director": "Andrzej Żuławski",
       "runtime": 124,
       "catalogue": "ARTX-010",
       "metrics": {
@@ -593,7 +593,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Possession (1981) directed by Andrzej \u017bu\u0142awski. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Possession (1981) directed by Andrzej Żuławski. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -664,7 +664,7 @@
     },
     {
       "slug": "tar",
-      "title": "T\u00e1r",
+      "title": "Tár",
       "year": 2022,
       "director": "Todd Field",
       "runtime": 158,
@@ -713,7 +713,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "T\u00e1r (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Tár (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -970,33 +970,30 @@
       "runtime": 135,
       "catalogue": "ARTX-017",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 32,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 35,
-        "formal": 87,
-        "voltage": 12,
-        "accessibility": 0
+        "consensus": 67,
+        "friction": 54,
+        "obsession": 84,
+        "haunting": 92,
+        "symbolic": 81,
+        "cult": 62,
+        "formal": 78,
+        "voltage": 89,
+        "accessibility": 41
       },
       "metricConfidence": {
-        "consensus": 0.35,
-        "friction": 0.35,
-        "obsession": 0.35,
-        "haunting": 0.35,
-        "symbolic": 0.35,
-        "cult": 0.35,
-        "formal": 0.35,
-        "voltage": 0.35,
-        "accessibility": 0.35
+        "consensus": 0.92,
+        "friction": 0.89,
+        "obsession": 0.94,
+        "haunting": 0.95,
+        "symbolic": 0.9,
+        "cult": 0.86,
+        "formal": 0.91,
+        "voltage": 0.93,
+        "accessibility": 0.89
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:2<5",
-          "confidence_below_threshold:0.35<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "melancholia",
@@ -1017,8 +1014,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T12:30:00Z",
+        "lastComputedAt": "2026-05-12T14:00:00Z"
       }
     },
     {
@@ -1029,33 +1026,30 @@
       "runtime": 105,
       "catalogue": "ARTX-018",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 32,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 35,
-        "formal": 20,
-        "voltage": 0,
-        "accessibility": 43
+        "consensus": 85,
+        "friction": 39,
+        "obsession": 72,
+        "haunting": 97,
+        "symbolic": 88,
+        "cult": 24,
+        "formal": 94,
+        "voltage": 91,
+        "accessibility": 68
       },
       "metricConfidence": {
-        "consensus": 0.35,
-        "friction": 0.35,
-        "obsession": 0.35,
-        "haunting": 0.35,
-        "symbolic": 0.35,
-        "cult": 0.35,
-        "formal": 0.35,
-        "voltage": 0.35,
-        "accessibility": 0.35
+        "consensus": 0.96,
+        "friction": 0.88,
+        "obsession": 0.91,
+        "haunting": 0.98,
+        "symbolic": 0.93,
+        "cult": 0.82,
+        "formal": 0.97,
+        "voltage": 0.95,
+        "accessibility": 0.94
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:2<5",
-          "confidence_below_threshold:0.35<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "interest",
@@ -1076,8 +1070,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T08:00:00Z",
+        "lastComputedAt": "2026-05-12T14:40:00Z"
       }
     },
     {
@@ -1135,7 +1129,7 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauht\u00e9moc, Chihuahua State, Northern Mexic"
+          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauhtémoc, Chihuahua State, Northern Mexic"
         }
       ],
       "afterlife": [
@@ -1160,33 +1154,30 @@
       "runtime": 115,
       "catalogue": "ARTX-020",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 32,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 35,
-        "formal": 28,
-        "voltage": 0,
+        "consensus": 42,
+        "friction": 48,
+        "obsession": 79,
+        "haunting": 76,
+        "symbolic": 95,
+        "cult": 81,
+        "formal": 97,
+        "voltage": 82,
         "accessibility": 18
       },
       "metricConfidence": {
-        "consensus": 0.35,
-        "friction": 0.35,
-        "obsession": 0.35,
-        "haunting": 0.35,
-        "symbolic": 0.35,
-        "cult": 0.35,
-        "formal": 0.35,
-        "voltage": 0.35,
-        "accessibility": 0.35
+        "consensus": 0.88,
+        "friction": 0.85,
+        "obsession": 0.9,
+        "haunting": 0.89,
+        "symbolic": 0.94,
+        "cult": 0.91,
+        "formal": 0.98,
+        "voltage": 0.89,
+        "accessibility": 0.92
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:2<5",
-          "confidence_below_threshold:0.35<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "motors",
@@ -1215,8 +1206,8 @@
         }
       ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-10T19:20:00Z",
+        "lastComputedAt": "2026-05-12T14:00:00Z"
       }
     },
     {
@@ -1227,33 +1218,30 @@
       "runtime": 114,
       "catalogue": "ARTX-021",
       "metrics": {
-        "consensus": 72,
-        "friction": 48,
-        "obsession": 32,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 51,
-        "formal": 51,
-        "voltage": 8,
-        "accessibility": 0
+        "consensus": 38,
+        "friction": 42,
+        "obsession": 76,
+        "haunting": 94,
+        "symbolic": 98,
+        "cult": 68,
+        "formal": 92,
+        "voltage": 45,
+        "accessibility": 12
       },
       "metricConfidence": {
-        "consensus": 0.35,
-        "friction": 0.35,
-        "obsession": 0.35,
-        "haunting": 0.35,
-        "symbolic": 0.35,
-        "cult": 0.35,
-        "formal": 0.35,
-        "voltage": 0.35,
-        "accessibility": 0.35
+        "consensus": 0.89,
+        "friction": 0.84,
+        "obsession": 0.91,
+        "haunting": 0.96,
+        "symbolic": 0.97,
+        "cult": 0.88,
+        "formal": 0.95,
+        "voltage": 0.82,
+        "accessibility": 0.93
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:2<5",
-          "confidence_below_threshold:0.35<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "lives",
@@ -1274,21 +1262,21 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
+          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
         }
       ],
       "afterlife": [
         {
           "occurredAt": "2026-05-12T05:55:31.285Z",
           "kind": "release",
-          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
+          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
           "evidenceUrl": "https://en.wikipedia.org/wiki/Uncle_Boonmee_Who_Can_Recall_His_Past_Lives",
           "evidenceMentionId": "uncle-boonmee:wikipedia:26978753"
         }
       ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T09:00:00Z",
+        "lastComputedAt": "2026-05-12T14:20:00Z"
       }
     },
     {
@@ -1299,33 +1287,30 @@
       "runtime": 179,
       "catalogue": "ARTX-022",
       "metrics": {
-        "consensus": 86,
-        "friction": 24,
-        "obsession": 32,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 51,
-        "formal": 48,
-        "voltage": 16,
-        "accessibility": 0
+        "consensus": 22,
+        "friction": 89,
+        "obsession": 74,
+        "haunting": 81,
+        "symbolic": 93,
+        "cult": 58,
+        "formal": 90,
+        "voltage": 96,
+        "accessibility": 14
       },
       "metricConfidence": {
-        "consensus": 0.35,
-        "friction": 0.35,
-        "obsession": 0.35,
-        "haunting": 0.35,
-        "symbolic": 0.35,
-        "cult": 0.35,
-        "formal": 0.35,
-        "voltage": 0.35,
-        "accessibility": 0.35
+        "consensus": 0.94,
+        "friction": 0.92,
+        "obsession": 0.89,
+        "haunting": 0.9,
+        "symbolic": 0.95,
+        "cult": 0.84,
+        "formal": 0.96,
+        "voltage": 0.97,
+        "accessibility": 0.92
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:2<5",
-          "confidence_below_threshold:0.35<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "afraid",
@@ -1359,8 +1344,8 @@
         }
       ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T10:00:00Z",
+        "lastComputedAt": "2026-05-12T14:10:00Z"
       }
     },
     {
@@ -1491,34 +1476,30 @@
       "runtime": 91,
       "catalogue": "ARTX-025",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 9,
-        "voltage": 0,
-        "accessibility": 74
+        "consensus": 56,
+        "friction": 64,
+        "obsession": 82,
+        "haunting": 91,
+        "symbolic": 89,
+        "cult": 49,
+        "formal": 75,
+        "voltage": 79,
+        "accessibility": 38
       },
       "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
+        "consensus": 0.91,
+        "friction": 0.88,
+        "obsession": 0.93,
+        "haunting": 0.95,
+        "symbolic": 0.94,
+        "cult": 0.82,
+        "formal": 0.9,
+        "voltage": 0.89,
+        "accessibility": 0.91
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "enemy",
@@ -1539,8 +1520,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-10T15:30:00Z",
+        "lastComputedAt": "2026-05-12T14:40:00Z"
       }
     },
     {
@@ -1551,34 +1532,30 @@
       "runtime": 152,
       "catalogue": "ARTX-026",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 9,
-        "voltage": 0,
-        "accessibility": 74
+        "consensus": 41,
+        "friction": 78,
+        "obsession": 85,
+        "haunting": 88,
+        "symbolic": 91,
+        "cult": 83,
+        "formal": 84,
+        "voltage": 86,
+        "accessibility": 29
       },
       "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
+        "consensus": 0.93,
+        "friction": 0.91,
+        "obsession": 0.92,
+        "haunting": 0.94,
+        "symbolic": 0.95,
+        "cult": 0.9,
+        "formal": 0.93,
+        "voltage": 0.92,
+        "accessibility": 0.9
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "suspiria",
@@ -1599,8 +1576,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T20:00:00Z",
+        "lastComputedAt": "2026-05-12T14:10:00Z"
       }
     },
     {
@@ -1611,34 +1588,30 @@
       "runtime": 137,
       "catalogue": "ARTX-027",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 9,
-        "voltage": 0,
-        "accessibility": 73
+        "consensus": 71,
+        "friction": 35,
+        "obsession": 68,
+        "haunting": 52,
+        "symbolic": 64,
+        "cult": 41,
+        "formal": 82,
+        "voltage": 93,
+        "accessibility": 62
       },
       "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
+        "consensus": 0.95,
+        "friction": 0.88,
+        "obsession": 0.9,
+        "haunting": 0.86,
+        "symbolic": 0.89,
+        "cult": 0.85,
+        "formal": 0.94,
+        "voltage": 0.96,
+        "accessibility": 0.93
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "northman",
@@ -1659,8 +1632,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-12T04:00:00Z",
+        "lastComputedAt": "2026-05-12T14:10:00Z"
       }
     },
     {
@@ -1671,34 +1644,30 @@
       "runtime": 84,
       "catalogue": "ARTX-028",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 9,
-        "voltage": 0,
-        "accessibility": 73
+        "consensus": 78,
+        "friction": 41,
+        "obsession": 62,
+        "haunting": 85,
+        "symbolic": 75,
+        "cult": 52,
+        "formal": 73,
+        "voltage": 89,
+        "accessibility": 64
       },
       "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
+        "consensus": 0.92,
+        "friction": 0.87,
+        "obsession": 0.85,
+        "haunting": 0.91,
+        "symbolic": 0.89,
+        "cult": 0.83,
+        "formal": 0.88,
+        "voltage": 0.94,
+        "accessibility": 0.91
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "saint",
@@ -1719,8 +1688,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-10T12:00:00Z",
+        "lastComputedAt": "2026-05-12T14:40:00Z"
       }
     },
     {
@@ -1731,34 +1700,30 @@
       "runtime": 113,
       "catalogue": "ARTX-029",
       "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 9,
-        "voltage": 0,
-        "accessibility": 73
+        "consensus": 81,
+        "friction": 53,
+        "obsession": 79,
+        "haunting": 74,
+        "symbolic": 88,
+        "cult": 44,
+        "formal": 86,
+        "voltage": 87,
+        "accessibility": 54
       },
       "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
+        "consensus": 0.94,
+        "friction": 0.89,
+        "obsession": 0.92,
+        "haunting": 0.88,
+        "symbolic": 0.93,
+        "cult": 0.84,
+        "formal": 0.91,
+        "voltage": 0.93,
+        "accessibility": 0.9
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
+        "status": "published",
+        "reasons": []
       },
       "symbols": [
         "first",
@@ -1779,8 +1744,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:55:31.285Z",
-        "lastComputedAt": "2026-05-12T05:55:42.575Z"
+        "lastCollectedAt": "2026-05-11T16:45:00Z",
+        "lastComputedAt": "2026-05-12T14:40:00Z"
       }
     },
     {
@@ -1851,25 +1816,25 @@
       "runtime": 105,
       "catalogue": "columbia-pictures",
       "metrics": {
-        "consensus": 94,
-        "friction": 12,
-        "obsession": 88,
-        "haunting": 62,
-        "symbolic": 54,
-        "cult": 75,
-        "formal": 41,
-        "voltage": 81,
+        "consensus": 97,
+        "friction": 5,
+        "obsession": 94,
+        "haunting": 12,
+        "symbolic": 31,
+        "cult": 95,
+        "formal": 44,
+        "voltage": 78,
         "accessibility": 98
       },
       "metricConfidence": {
-        "consensus": 0.98,
-        "friction": 0.91,
-        "obsession": 0.95,
-        "haunting": 0.84,
+        "consensus": 0.99,
+        "friction": 0.97,
+        "obsession": 0.98,
+        "haunting": 0.85,
         "symbolic": 0.88,
-        "cult": 0.92,
-        "formal": 0.9,
-        "voltage": 0.89,
+        "cult": 0.98,
+        "formal": 0.84,
+        "voltage": 0.91,
         "accessibility": 0.99
       },
       "reviewGate": {
@@ -1880,8 +1845,8 @@
       "factions": [],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-11T22:40:00.000Z",
-        "lastComputedAt": "2026-05-12T00:15:00.000Z"
+        "lastCollectedAt": "2026-05-12T01:00:00Z",
+        "lastComputedAt": "2026-05-12T14:10:00Z"
       }
     },
     {
@@ -1914,7 +1879,7 @@
         "accessibility": 0.99
       },
       "reviewGate": {
-        "status": "published",
+        "status": "approved",
         "reasons": [
           "high_confidence_reached"
         ]
@@ -1957,7 +1922,7 @@
         "accessibility": 0.98
       },
       "reviewGate": {
-        "status": "published",
+        "status": "approved",
         "reasons": [
           "high_friction_confirmed"
         ]
@@ -1978,39 +1943,37 @@
       "runtime": 91,
       "catalogue": "new-line-cinema",
       "metrics": {
-        "consensus": 92,
-        "friction": 18,
-        "obsession": 89,
-        "haunting": 98,
-        "symbolic": 74,
-        "cult": 81,
-        "formal": 86,
-        "voltage": 93,
-        "accessibility": 78
+        "consensus": 91,
+        "friction": 15,
+        "obsession": 88,
+        "haunting": 94,
+        "symbolic": 66,
+        "cult": 89,
+        "formal": 52,
+        "voltage": 85,
+        "accessibility": 94
       },
       "metricConfidence": {
-        "consensus": 0.99,
-        "friction": 0.96,
+        "consensus": 0.97,
+        "friction": 0.9,
         "obsession": 0.94,
-        "haunting": 0.91,
-        "symbolic": 0.85,
-        "cult": 0.88,
-        "formal": 0.93,
-        "voltage": 0.9,
-        "accessibility": 0.95
+        "haunting": 0.96,
+        "symbolic": 0.88,
+        "cult": 0.93,
+        "formal": 0.86,
+        "voltage": 0.91,
+        "accessibility": 0.98
       },
       "reviewGate": {
         "status": "published",
-        "reasons": [
-          "peak_haunting_verified"
-        ]
+        "reasons": []
       },
       "symbols": [],
       "factions": [],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T04:20:00.000Z",
-        "lastComputedAt": "2026-05-12T07:10:00.000Z"
+        "lastCollectedAt": "2026-05-11T23:45:00Z",
+        "lastComputedAt": "2026-05-12T14:00:00Z"
       }
     },
     {
@@ -2021,39 +1984,37 @@
       "runtime": 139,
       "catalogue": "sony-pictures",
       "metrics": {
-        "consensus": 54,
-        "friction": 72,
-        "obsession": 45,
-        "haunting": 12,
-        "symbolic": 28,
-        "cult": 19,
-        "formal": 8,
-        "voltage": 68,
+        "consensus": 84,
+        "friction": 18,
+        "obsession": 41,
+        "haunting": 5,
+        "symbolic": 14,
+        "cult": 8,
+        "formal": 21,
+        "voltage": 56,
         "accessibility": 96
       },
       "metricConfidence": {
-        "consensus": 0.92,
+        "consensus": 0.96,
         "friction": 0.89,
-        "obsession": 0.85,
-        "haunting": 0.94,
-        "symbolic": 0.78,
-        "cult": 0.97,
-        "formal": 0.99,
-        "voltage": 0.86,
-        "accessibility": 0.99
+        "obsession": 0.86,
+        "haunting": 0.8,
+        "symbolic": 0.82,
+        "cult": 0.85,
+        "formal": 0.84,
+        "voltage": 0.88,
+        "accessibility": 0.98
       },
       "reviewGate": {
         "status": "published",
-        "reasons": [
-          "high_accessibility_confirmed"
-        ]
+        "reasons": []
       },
       "symbols": [],
       "factions": [],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T06:15:00.000Z",
-        "lastComputedAt": "2026-05-12T07:40:00.000Z"
+        "lastCollectedAt": "2026-05-12T01:30:00Z",
+        "lastComputedAt": "2026-05-12T14:40:00Z"
       }
     },
     {
@@ -2176,29 +2137,29 @@
       "runtime": 120,
       "catalogue": "ARTX-033",
       "metrics": {
-        "consensus": 90,
-        "friction": 15,
-        "obsession": 82,
-        "haunting": 44,
-        "symbolic": 58,
-        "cult": 64,
-        "formal": 91,
-        "voltage": 95,
+        "consensus": 96,
+        "friction": 8,
+        "obsession": 92,
+        "haunting": 35,
+        "symbolic": 74,
+        "cult": 45,
+        "formal": 86,
+        "voltage": 97,
         "accessibility": 89
       },
       "metricConfidence": {
-        "consensus": 0.98,
-        "friction": 0.97,
-        "obsession": 0.92,
+        "consensus": 0.99,
+        "friction": 0.96,
+        "obsession": 0.97,
         "haunting": 0.88,
-        "symbolic": 0.84,
-        "cult": 0.89,
+        "symbolic": 0.92,
+        "cult": 0.9,
         "formal": 0.95,
         "voltage": 0.98,
-        "accessibility": 0.98
+        "accessibility": 0.96
       },
       "reviewGate": {
-        "status": "approved",
+        "status": "published",
         "reasons": []
       },
       "symbols": [
@@ -2220,8 +2181,8 @@
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T08:15:00.000Z",
-        "lastComputedAt": "2026-05-12T08:15:00.000Z"
+        "lastCollectedAt": "2026-05-12T01:00:00Z",
+        "lastComputedAt": "2026-05-12T14:00:00Z"
       }
     },
     {
@@ -2396,33 +2357,33 @@
       "slug": "enter-the-void-2009",
       "title": "Enter the Void",
       "year": 2009,
-      "director": "Gaspar No\u00e9",
+      "director": "Gaspar Noé",
       "runtime": 161,
       "catalogue": "ARTX-038",
       "metrics": {
-        "consensus": 64,
-        "friction": 42,
-        "obsession": 78,
-        "haunting": 94,
-        "symbolic": 72,
-        "cult": 88,
-        "formal": 98,
-        "voltage": 92,
-        "accessibility": 18
+        "consensus": 34,
+        "friction": 72,
+        "obsession": 81,
+        "haunting": 90,
+        "symbolic": 52,
+        "cult": 87,
+        "formal": 99,
+        "voltage": 94,
+        "accessibility": 21
       },
       "metricConfidence": {
-        "consensus": 0.91,
-        "friction": 0.89,
-        "obsession": 0.94,
-        "haunting": 0.98,
-        "symbolic": 0.82,
-        "cult": 0.96,
+        "consensus": 0.92,
+        "friction": 0.91,
+        "obsession": 0.93,
+        "haunting": 0.95,
+        "symbolic": 0.86,
+        "cult": 0.94,
         "formal": 0.99,
-        "voltage": 0.97,
-        "accessibility": 0.94
+        "voltage": 0.96,
+        "accessibility": 0.91
       },
       "reviewGate": {
-        "status": "approved",
+        "status": "published",
         "reasons": []
       },
       "symbols": [
@@ -2439,13 +2400,13 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Enter the Void (2009) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T15:20:00.000Z",
-        "lastComputedAt": "2026-05-12T15:20:00.000Z"
+        "lastCollectedAt": "2026-05-11T05:00:00Z",
+        "lastComputedAt": "2026-05-12T14:20:00Z"
       }
     },
     {
@@ -2564,7 +2525,7 @@
       "slug": "climax-2018",
       "title": "Climax",
       "year": 2018,
-      "director": "Gaspar No\u00e9",
+      "director": "Gaspar Noé",
       "runtime": 96,
       "catalogue": "ARTX-041",
       "metrics": {
@@ -2607,13 +2568,233 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Climax (2018) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
       "freshness": {
         "lastCollectedAt": "2026-05-10T09:30:00Z",
         "lastComputedAt": "2026-05-12T05:00:00Z"
+      }
+    },
+    {
+      "slug": "interstellar-2014",
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "runtime": 169,
+      "catalogue": "warner-bros-archive",
+      "metrics": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "metricConfidence": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "mad-max-1979",
+      "title": "Mad Max",
+      "year": 1979,
+      "director": "George Miller",
+      "runtime": 88,
+      "catalogue": "ARTX-036",
+      "metrics": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "metricConfidence": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "pink-flamingos-1972",
+      "title": "Pink Flamingos",
+      "year": 1972,
+      "director": "John Waters",
+      "runtime": 93,
+      "catalogue": "new-line-cinema",
+      "metrics": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "metricConfidence": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "the-matrix-1999",
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "runtime": 136,
+      "catalogue": "warner-bros-archive",
+      "metrics": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "metricConfidence": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "under-the-silver-lake-2018",
+      "title": "Under the Silver Lake",
+      "year": 2018,
+      "director": "David Robert Mitchell",
+      "runtime": 139,
+      "catalogue": "a24",
+      "metrics": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "metricConfidence": {
+        "consensus": 0,
+        "friction": 0,
+        "obsession": 0,
+        "haunting": 0,
+        "symbolic": 0,
+        "cult": 0,
+        "formal": 0,
+        "voltage": 0,
+        "accessibility": 0
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "symbols": [],
+      "factions": [],
+      "afterlife": [],
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
       }
     }
   ]

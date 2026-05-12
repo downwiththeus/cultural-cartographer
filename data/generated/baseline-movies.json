@@ -6351,6 +6351,381 @@
         "lastCollectedAt": "2026-05-10T09:30:00Z",
         "lastComputedAt": "2026-05-12T05:00:00Z"
       }
+    },
+    {
+      "slug": "interstellar-2014",
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "runtime": 169,
+      "catalogue": "warner-bros-archive",
+      "metrics": {
+        "consensus": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "friction": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "obsession": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "haunting": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "symbolic": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "cult": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "formal": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "voltage": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "accessibility": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        }
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "mad-max-1979",
+      "title": "Mad Max",
+      "year": 1979,
+      "director": "George Miller",
+      "runtime": 88,
+      "catalogue": "ARTX-036",
+      "metrics": {
+        "consensus": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "friction": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "obsession": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "haunting": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "symbolic": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "cult": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "formal": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "voltage": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "accessibility": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        }
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "pink-flamingos-1972",
+      "title": "Pink Flamingos",
+      "year": 1972,
+      "director": "John Waters",
+      "runtime": 93,
+      "catalogue": "new-line-cinema",
+      "metrics": {
+        "consensus": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "friction": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "obsession": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "haunting": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "symbolic": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "cult": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "formal": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "voltage": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "accessibility": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        }
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "the-matrix-1999",
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "runtime": 136,
+      "catalogue": "warner-bros-archive",
+      "metrics": {
+        "consensus": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "friction": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "obsession": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "haunting": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "symbolic": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "cult": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "formal": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "voltage": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "accessibility": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        }
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
+    },
+    {
+      "slug": "under-the-silver-lake-2018",
+      "title": "Under the Silver Lake",
+      "year": 2018,
+      "director": "David Robert Mitchell",
+      "runtime": 139,
+      "catalogue": "a24",
+      "metrics": {
+        "consensus": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "friction": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "obsession": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "haunting": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "symbolic": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "cult": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "formal": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "voltage": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        },
+        "accessibility": {
+          "value": null,
+          "confidence": 0,
+          "components": {},
+          "evidence": []
+        }
+      },
+      "reviewGate": {
+        "status": "needs_review",
+        "reasons": [
+          "insufficient_evidence",
+          "not_computed"
+        ]
+      },
+      "freshness": {
+        "lastCollectedAt": null,
+        "lastComputedAt": null
+      }
     }
   ]
 }
