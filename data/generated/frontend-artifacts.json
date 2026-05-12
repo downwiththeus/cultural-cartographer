@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T15:31:18.612Z",
+  "generatedAt": "2026-05-12T16:00:00.000Z",
   "methodVersion": "v1.1-metric-fix",
   "artifacts": [
     {
@@ -546,7 +546,7 @@
       "slug": "possession",
       "title": "Possession",
       "year": 1981,
-      "director": "Andrzej Żuławski",
+      "director": "Andrzej \u017bu\u0142awski",
       "runtime": 124,
       "catalogue": "ARTX-010",
       "metrics": {
@@ -593,7 +593,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Possession (1981) directed by Andrzej Żuławski. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Possession (1981) directed by Andrzej \u017bu\u0142awski. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -664,7 +664,7 @@
     },
     {
       "slug": "tar",
-      "title": "Tár",
+      "title": "T\u00e1r",
       "year": 2022,
       "director": "Todd Field",
       "runtime": 158,
@@ -713,7 +713,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Tár (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "T\u00e1r (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -1129,7 +1129,7 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauhtémoc, Chihuahua State, Northern Mexic"
+          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauht\u00e9moc, Chihuahua State, Northern Mexic"
         }
       ],
       "afterlife": [
@@ -1262,14 +1262,14 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
+          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
         }
       ],
       "afterlife": [
         {
           "occurredAt": "2026-05-12T05:55:31.285Z",
           "kind": "release",
-          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
+          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
           "evidenceUrl": "https://en.wikipedia.org/wiki/Uncle_Boonmee_Who_Can_Recall_His_Past_Lives",
           "evidenceMentionId": "uncle-boonmee:wikipedia:26978753"
         }
@@ -1816,37 +1816,62 @@
       "runtime": 105,
       "catalogue": "columbia-pictures",
       "metrics": {
-        "consensus": 97,
-        "friction": 5,
-        "obsession": 94,
-        "haunting": 12,
-        "symbolic": 31,
-        "cult": 95,
-        "formal": 44,
-        "voltage": 78,
+        "consensus": 96,
+        "friction": 14,
+        "obsession": 85,
+        "haunting": 38,
+        "symbolic": 74,
+        "cult": 42,
+        "formal": 55,
+        "voltage": 68,
         "accessibility": 98
       },
       "metricConfidence": {
-        "consensus": 0.99,
-        "friction": 0.97,
-        "obsession": 0.98,
-        "haunting": 0.85,
+        "consensus": 0.88,
+        "friction": 0.88,
+        "obsession": 0.88,
+        "haunting": 0.88,
         "symbolic": 0.88,
-        "cult": 0.98,
-        "formal": 0.84,
-        "voltage": 0.91,
-        "accessibility": 0.99
+        "cult": 0.88,
+        "formal": 0.88,
+        "voltage": 0.88,
+        "accessibility": 0.88
       },
       "reviewGate": {
         "status": "published",
         "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "stay-puft-man",
+        "proton-packs",
+        "green-slimer",
+        "ecto-1"
+      ],
+      "factions": [
+        {
+          "name": "The Blue-Collar Believers",
+          "share": 0.33,
+          "voice": "Focus on the small business aspect\u2014the idea of ghosts as a plumbing problem."
+        },
+        {
+          "name": "The Gozerian Occultists",
+          "share": 0.34,
+          "voice": "A small but intense faction that tracks the Sumerian architecture and Mesopotamian lore used in the script."
+        },
+        {
+          "name": "The Anti-EPA Libertarians",
+          "share": 0.33,
+          "voice": "View the film specifically as a political statement about government overreach."
+        }
+      ],
+      "afterlife": [
+        "Pro-privatization allegory",
+        "Reaganomics comedy",
+        "Anti-EPA satire"
+      ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T01:00:00Z",
-        "lastComputedAt": "2026-05-12T14:10:00Z"
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -1857,39 +1882,57 @@
       "runtime": 92,
       "catalogue": "warner-bros-archive",
       "metrics": {
-        "consensus": 88,
-        "friction": 14,
-        "obsession": 92,
-        "haunting": 84,
-        "symbolic": 67,
-        "cult": 95,
-        "formal": 79,
-        "voltage": 81,
-        "accessibility": 91
+        "consensus": 84,
+        "friction": 22,
+        "obsession": 79,
+        "haunting": 71,
+        "symbolic": 68,
+        "cult": 61,
+        "formal": 85,
+        "voltage": 74,
+        "accessibility": 82
       },
       "metricConfidence": {
-        "consensus": 0.98,
-        "friction": 0.95,
-        "obsession": 0.99,
-        "haunting": 0.88,
-        "symbolic": 0.82,
-        "cult": 0.97,
+        "consensus": 0.91,
+        "friction": 0.91,
+        "obsession": 0.91,
+        "haunting": 0.91,
+        "symbolic": 0.91,
+        "cult": 0.91,
         "formal": 0.91,
-        "voltage": 0.89,
-        "accessibility": 0.99
+        "voltage": 0.91,
+        "accessibility": 0.91
       },
       "reviewGate": {
-        "status": "approved",
-        "reasons": [
-          "high_confidence_reached"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "waiting-room",
+        "bureaucracy-of-death",
+        "taxidermy",
+        "sandworm"
+      ],
+      "factions": [
+        {
+          "name": "The Aesthetic Revivalists",
+          "share": 0.5,
+          "voice": "Focused on the visual language\u2014cosplay, decor, and Burton's German Expressionist-for-kids gamble."
+        },
+        {
+          "name": "The Death-Bureaucrats",
+          "share": 0.5,
+          "voice": "Readers of the film as a satire of bureaucracy, taxidermy of meaning, and the afterlife as a DMV."
+        }
+      ],
+      "afterlife": [
+        "Broadway cult",
+        "Spooky seasonal staple",
+        "German Expressionism mainstreamed"
+      ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T02:33:00.000Z",
-        "lastComputedAt": "2026-05-12T06:40:00.000Z"
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -1900,39 +1943,55 @@
       "runtime": 90,
       "catalogue": "20th-century-studios",
       "metrics": {
-        "consensus": 22,
-        "friction": 94,
-        "obsession": 71,
-        "haunting": 58,
-        "symbolic": 42,
-        "cult": 30,
-        "formal": 12,
-        "voltage": 89,
-        "accessibility": 95
+        "consensus": 9,
+        "friction": 98,
+        "obsession": 45,
+        "haunting": 52,
+        "symbolic": 31,
+        "cult": 18,
+        "formal": 22,
+        "voltage": 64,
+        "accessibility": 40
       },
       "metricConfidence": {
-        "consensus": 0.94,
-        "friction": 0.97,
-        "obsession": 0.89,
-        "haunting": 0.82,
-        "symbolic": 0.76,
-        "cult": 0.85,
-        "formal": 0.99,
-        "voltage": 0.92,
-        "accessibility": 0.98
+        "consensus": 0.84,
+        "friction": 0.84,
+        "obsession": 0.84,
+        "haunting": 0.84,
+        "symbolic": 0.84,
+        "cult": 0.84,
+        "formal": 0.84,
+        "voltage": 0.84,
+        "accessibility": 0.84
       },
       "reviewGate": {
-        "status": "approved",
-        "reasons": [
-          "high_friction_confirmed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "inversion-event",
+        "consent-violation",
+        "nostalgia-residue"
+      ],
+      "factions": [
+        {
+          "name": "The Nostalgia Defenders",
+          "share": 0.3,
+          "voice": "The community that chose this film in the 80s; dwindling but resistant."
+        },
+        {
+          "name": "The Inversion Readers",
+          "share": 0.7,
+          "voice": "Modern viewers who read the protagonists as the antagonists; protagonists' triumphs recontextualized as violations."
+        }
+      ],
+      "afterlife": [
+        "Problematic cinema archive",
+        "Ethical inversion case study"
+      ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T05:10:00.000Z",
-        "lastComputedAt": "2026-05-12T06:50:00.000Z"
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -1984,37 +2043,50 @@
       "runtime": 139,
       "catalogue": "sony-pictures",
       "metrics": {
-        "consensus": 84,
-        "friction": 18,
-        "obsession": 41,
-        "haunting": 5,
-        "symbolic": 14,
-        "cult": 8,
-        "formal": 21,
-        "voltage": 56,
-        "accessibility": 96
+        "consensus": 82,
+        "friction": 8,
+        "obsession": 12,
+        "haunting": 15,
+        "symbolic": 20,
+        "cult": 5,
+        "formal": 15,
+        "voltage": 44,
+        "accessibility": 95
       },
       "metricConfidence": {
-        "consensus": 0.96,
-        "friction": 0.89,
-        "obsession": 0.86,
-        "haunting": 0.8,
-        "symbolic": 0.82,
-        "cult": 0.85,
-        "formal": 0.84,
+        "consensus": 0.88,
+        "friction": 0.88,
+        "obsession": 0.88,
+        "haunting": 0.88,
+        "symbolic": 0.88,
+        "cult": 0.88,
+        "formal": 0.88,
         "voltage": 0.88,
-        "accessibility": 0.98
+        "accessibility": 0.88
       },
       "reviewGate": {
         "status": "published",
         "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "ocd-comedy",
+        "award-bait",
+        "prestige-dramedy"
+      ],
+      "factions": [
+        {
+          "name": "The Performance Appreciators",
+          "share": 1.0,
+          "voice": "A single undisputed faction: viewers who watch for Nicholson's performance and then move on."
+        }
+      ],
+      "afterlife": [
+        "Late-night broadcast background radiation",
+        "Prestige performance showcase"
+      ],
       "freshness": {
-        "lastCollectedAt": "2026-05-12T01:30:00Z",
-        "lastComputedAt": "2026-05-12T14:40:00Z"
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -2357,7 +2429,7 @@
       "slug": "enter-the-void-2009",
       "title": "Enter the Void",
       "year": 2009,
-      "director": "Gaspar Noé",
+      "director": "Gaspar No\u00e9",
       "runtime": 161,
       "catalogue": "ARTX-038",
       "metrics": {
@@ -2400,7 +2472,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Enter the Void (2009) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -2525,7 +2597,7 @@
       "slug": "climax-2018",
       "title": "Climax",
       "year": 2018,
-      "director": "Gaspar Noé",
+      "director": "Gaspar No\u00e9",
       "runtime": 96,
       "catalogue": "ARTX-041",
       "metrics": {
@@ -2568,7 +2640,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Climax (2018) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -2585,40 +2657,62 @@
       "runtime": 169,
       "catalogue": "warner-bros-archive",
       "metrics": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 68,
+        "friction": 42,
+        "obsession": 98,
+        "haunting": 64,
+        "symbolic": 93,
+        "cult": 35,
+        "formal": 81,
+        "voltage": 96,
+        "accessibility": 74
       },
       "metricConfidence": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 0.97,
+        "friction": 0.97,
+        "obsession": 0.97,
+        "haunting": 0.97,
+        "symbolic": 0.97,
+        "cult": 0.97,
+        "formal": 0.97,
+        "voltage": 0.97,
+        "accessibility": 0.97
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "insufficient_evidence",
-          "not_computed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "tesseract",
+        "watch-hands",
+        "corn-fields",
+        "the-bulk"
+      ],
+      "factions": [
+        {
+          "name": "The Accretionists",
+          "share": 0.33,
+          "voice": "Physics-obsessed viewers who prioritize Kip Thorne's math and the realism of Gargantua."
+        },
+        {
+          "name": "The Transcendentalists",
+          "share": 0.34,
+          "voice": "Users who view the love-transcends-time-and-space monologue not as a line, but as a literal law of the movie's universe."
+        },
+        {
+          "name": "The Dust-Bowl Mourners",
+          "share": 0.33,
+          "voice": "A faction focused on the Sci-fi Americana and the film's prophetic anxiety regarding climate collapse and scientific denialism."
+        }
+      ],
+      "afterlife": [
+        "Secular space myth",
+        "Emotional sci-fi template",
+        "Kip Thorne physics discourse"
+      ],
       "freshness": {
-        "lastCollectedAt": null,
-        "lastComputedAt": null
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -2629,40 +2723,62 @@
       "runtime": 88,
       "catalogue": "ARTX-036",
       "metrics": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 58,
+        "friction": 61,
+        "obsession": 74,
+        "haunting": 82,
+        "symbolic": 67,
+        "cult": 94,
+        "formal": 89,
+        "voltage": 78,
+        "accessibility": 62
       },
       "metricConfidence": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 0.92,
+        "friction": 0.92,
+        "obsession": 0.92,
+        "haunting": 0.92,
+        "symbolic": 0.92,
+        "cult": 0.92,
+        "formal": 0.92,
+        "voltage": 0.92,
+        "accessibility": 0.92
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "insufficient_evidence",
-          "not_computed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "the-interceptor",
+        "the-saw",
+        "white-lines",
+        "hall-of-justice"
+      ],
+      "factions": [
+        {
+          "name": "The V8 Purists",
+          "share": 0.33,
+          "voice": "Obsessed with the mechanical idolatry of the film. They view the car as the true protagonist."
+        },
+        {
+          "name": "The Civil-Collapse Theorists",
+          "share": 0.34,
+          "voice": "Focus on the broken buildings and vacant roads as symbols of a dying social contract."
+        },
+        {
+          "name": "The Stunt-Veritists",
+          "share": 0.33,
+          "voice": "A faction that ignores the plot to focus on the reality of the production\u2014valuing the film as a historical document of physical risk."
+        }
+      ],
+      "afterlife": [
+        "Punk-Apocalypse aesthetic",
+        "Ozploitation foundation",
+        "Franchise origin text"
+      ],
       "freshness": {
-        "lastCollectedAt": null,
-        "lastComputedAt": null
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -2673,40 +2789,62 @@
       "runtime": 93,
       "catalogue": "new-line-cinema",
       "metrics": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 41,
+        "friction": 82,
+        "obsession": 77,
+        "haunting": 88,
+        "symbolic": 45,
+        "cult": 99,
+        "formal": 64,
+        "voltage": 95,
+        "accessibility": 6
       },
       "metricConfidence": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 0.91,
+        "friction": 0.91,
+        "obsession": 0.91,
+        "haunting": 0.91,
+        "symbolic": 0.91,
+        "cult": 0.91,
+        "formal": 0.91,
+        "voltage": 0.91,
+        "accessibility": 0.91
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "insufficient_evidence",
-          "not_computed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "dog-scat",
+        "trailer-park",
+        "cardboard-steaks",
+        "divine"
+      ],
+      "factions": [
+        {
+          "name": "The Pope-Worshippers",
+          "share": 0.33,
+          "voice": "Divine (Harris) devotees who view the film as a sacred text of liberation."
+        },
+        {
+          "name": "The Bio-Horrorists",
+          "share": 0.34,
+          "voice": "Viewers who analyze the film solely through the lens of its bodily violations and real-world gross-out stakes."
+        },
+        {
+          "name": "The Trash-Theorists",
+          "share": 0.33,
+          "voice": "Academics attempting to apply Camp theory to something that actively hates theory."
+        }
+      ],
+      "afterlife": [
+        "Subculture shibboleth",
+        "Trash-art canon",
+        "Queer liberation text"
+      ],
       "freshness": {
-        "lastCollectedAt": null,
-        "lastComputedAt": null
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -2717,40 +2855,62 @@
       "runtime": 136,
       "catalogue": "warner-bros-archive",
       "metrics": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 92,
+        "friction": 84,
+        "obsession": 96,
+        "haunting": 71,
+        "symbolic": 89,
+        "cult": 12,
+        "formal": 78,
+        "voltage": 65,
+        "accessibility": 88
       },
       "metricConfidence": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 0.94,
+        "friction": 0.94,
+        "obsession": 0.94,
+        "haunting": 0.94,
+        "symbolic": 0.94,
+        "cult": 0.94,
+        "formal": 0.94,
+        "voltage": 0.94,
+        "accessibility": 0.94
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "insufficient_evidence",
-          "not_computed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "baudrillard",
+        "trans-allegory",
+        "gnosticism",
+        "simulation"
+      ],
+      "factions": [
+        {
+          "name": "The Trans-Allegorists",
+          "share": 0.33,
+          "voice": "Focused on the Wachowskis' personal evolution and the body-as-prison motifs."
+        },
+        {
+          "name": "The Red-Pill Intellectuals",
+          "share": 0.34,
+          "voice": "A faction that has decoupled the film from the directors' intent to use it as a political/social framework."
+        },
+        {
+          "name": "The Simulation-Theorists",
+          "share": 0.33,
+          "voice": "Users who treat the film as a documentary/technical manual for reality."
+        }
+      ],
+      "afterlife": [
+        "Linguistic infrastructure",
+        "Modern alienation vocabulary",
+        "Simulation discourse"
+      ],
       "freshness": {
-        "lastCollectedAt": null,
-        "lastComputedAt": null
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     },
     {
@@ -2761,40 +2921,118 @@
       "runtime": 139,
       "catalogue": "a24",
       "metrics": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 22,
+        "friction": 84,
+        "obsession": 91,
+        "haunting": 76,
+        "symbolic": 98,
+        "cult": 89,
+        "formal": 68,
+        "voltage": 54,
+        "accessibility": 18
       },
       "metricConfidence": {
-        "consensus": 0,
-        "friction": 0,
-        "obsession": 0,
-        "haunting": 0,
-        "symbolic": 0,
-        "cult": 0,
-        "formal": 0,
-        "voltage": 0,
-        "accessibility": 0
+        "consensus": 0.89,
+        "friction": 0.89,
+        "obsession": 0.89,
+        "haunting": 0.89,
+        "symbolic": 0.89,
+        "cult": 0.89,
+        "formal": 0.89,
+        "voltage": 0.89,
+        "accessibility": 0.89
       },
       "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "insufficient_evidence",
-          "not_computed"
-        ]
+        "status": "published",
+        "reasons": []
       },
-      "symbols": [],
-      "factions": [],
-      "afterlife": [],
+      "symbols": [
+        "hobo-code",
+        "l-a-geography",
+        "hidden-symbols",
+        "pop-culture-ghosts"
+      ],
+      "factions": [
+        {
+          "name": "The Map-Makers",
+          "share": 0.5,
+          "voice": "The codes are literal; the film is a leaked document."
+        },
+        {
+          "name": "The Apophenics",
+          "share": 0.5,
+          "voice": "The film is a trap designed to mock the viewer's need for meaning."
+        }
+      ],
+      "afterlife": [
+        "Digital occultism",
+        "Pynchonesque revival",
+        "Z-grade noir reappraisal"
+      ],
       "freshness": {
-        "lastCollectedAt": null,
-        "lastComputedAt": null
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
+      }
+    },
+    {
+      "slug": "back-to-the-future-1985",
+      "title": "Back to the Future",
+      "year": 1985,
+      "director": "Robert Zemeckis",
+      "runtime": 116,
+      "catalogue": "universal-pictures",
+      "metrics": {
+        "consensus": 99,
+        "friction": 11,
+        "obsession": 94,
+        "haunting": 62,
+        "symbolic": 88,
+        "cult": 30,
+        "formal": 42,
+        "voltage": 89,
+        "accessibility": 99
+      },
+      "metricConfidence": {
+        "consensus": 0.98,
+        "friction": 0.98,
+        "obsession": 0.98,
+        "haunting": 0.98,
+        "symbolic": 0.98,
+        "cult": 0.98,
+        "formal": 0.98,
+        "voltage": 0.98,
+        "accessibility": 0.98
+      },
+      "reviewGate": {
+        "status": "published",
+        "reasons": []
+      },
+      "symbols": [
+        "clock-tower",
+        "delorean",
+        "setups-and-payoffs",
+        "temporal-nostalgia"
+      ],
+      "factions": [
+        {
+          "name": "The Script Formalists",
+          "share": 0.5,
+          "voice": "Film students and screenwriters who treat the movie as the canonical example of a perfect setup-and-payoff structure."
+        },
+        {
+          "name": "The Temporal Nostalgics",
+          "share": 0.5,
+          "voice": "Viewers who report a longing for a 1955 that never existed\u2014the film generates nostalgia for a past no one lived."
+        }
+      ],
+      "afterlife": [
+        "Perfect Screenplay standard",
+        "Blockbuster structure template",
+        "Temporal nostalgia source"
+      ],
+      "freshness": {
+        "lastCollectedAt": "2026-05-12T16:00:00.000Z",
+        "lastComputedAt": "2026-05-12T16:00:00.000Z"
       }
     }
   ]
