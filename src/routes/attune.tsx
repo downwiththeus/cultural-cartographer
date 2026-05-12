@@ -99,6 +99,10 @@ function normalizeTitle(value: string) {
 }
 
 function aggregateMetrics(favorites: Artifact[]): Metrics {
+  if (favorites.length === 0) {
+    return DEFAULTS;
+  }
+
   const out = {} as Metrics;
   for (const axis of AXES) {
     const total = favorites.reduce((sum, film) => sum + film.metrics[axis.key], 0);
