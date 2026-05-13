@@ -11,7 +11,7 @@
 //   .vercel/output/functions/index.func/ ← Node.js Function handling all SSR requests
 //   .vercel/output/config.json          ← routing: static first, then SSR catch-all
 //
-// We use nodejs22.x (not edge) because bundled dependencies (e.g. recharts → d3)
+// We use nodejs20.x (not edge) because bundled dependencies (e.g. recharts → d3)
 // reference node:stream and other Node.js built-ins that Edge Runtime forbids.
 // A thin adapter.js bridges the { fetch } handler format to Node.js (req, res).
 
@@ -75,9 +75,19 @@ cpSync('dist/client', STATIC_DIR, { recursive: true })
 cpSync('dist/server', FUNC_DIR, { recursive: true })
 writeFileSync(`${FUNC_DIR}/adapter.js`, ADAPTER)
 
+// package.json marks the function directory as ESM so Node.js can load the ESM adapter
+writeFileSync(
+  `${FUNC_DIR}/package.json`,
+  JSON.stringify({ type: 'module' }, null, 2),
+)
+
 writeFileSync(
   `${FUNC_DIR}/.vc-config.json`,
-  JSON.stringify({ runtime: 'nodejs22.x', entrypoint: 'adapter.js' }, null, 2),
+  JSON.stringify(
+    { runtime: 'nodejs20.x', handler: 'adapter.js', launcherType: 'Nodejs' },
+    null,
+    2,
+  ),
 )
 
 // Routing: serve static files first, route everything else through SSR
