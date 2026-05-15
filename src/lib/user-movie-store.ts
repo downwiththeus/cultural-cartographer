@@ -5,6 +5,13 @@ import type { MovieRecord } from "./green";
 
 const PRIMARY_STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
 const FALLBACK_STORE_PATH = join(tmpdir(), "cultural-cartographer", "user-movies.json");
+const FRONTEND_ARTIFACTS_PATH = join(process.cwd(), "data/generated/frontend-artifacts.json");
+
+type FrontendArtifactsFile = {
+  generatedAt?: string;
+  methodVersion?: string;
+  artifacts?: MovieRecord[];
+};
 
 function ensureParentDirectory(path: string): boolean {
   try {
@@ -45,6 +52,7 @@ export function saveUserMovie(record: MovieRecord): void {
   try {
     if (primaryReady) {
       writeFileSync(PRIMARY_STORE_PATH, serialized);
+      persistToFrontendArtifacts(record);
       return;
     }
   } catch (error) {
@@ -56,4 +64,37 @@ export function saveUserMovie(record: MovieRecord): void {
     throw new Error("Unable to prepare fallback store path");
   }
   writeFileSync(FALLBACK_STORE_PATH, serialized);
+
+  persistToFrontendArtifacts(record);
+}
+
+function persistToFrontendArtifacts(record: MovieRecord): void {
+  if (!ensureParentDirectory(FRONTEND_ARTIFACTS_PATH)) {
+    throw new Error("Unable to prepare frontend artifacts store path");
+  }
+
+  let frontend: FrontendArtifactsFile = { generatedAt: new Date().toISOString(), artifacts: [] };
+  if (existsSync(FRONTEND_ARTIFACTS_PATH)) {
+    try {
+      frontend = JSON.parse(readFileSync(FRONTEND_ARTIFACTS_PATH, "utf-8")) as FrontendArtifactsFile;
+    } catch {
+      frontend = { generatedAt: new Date().toISOString(), artifacts: [] };
+    }
+  }
+
+  const artifacts = Array.isArray(frontend.artifacts) ? [...frontend.artifacts] : [];
+  const existing = artifacts.findIndex((item) => item.slug === record.slug);
+  if (existing >= 0) {
+    artifacts[existing] = record;
+  } else {
+    artifacts.push(record);
+  }
+
+  const output: FrontendArtifactsFile = {
+    ...frontend,
+    generatedAt: new Date().toISOString(),
+    artifacts,
+  };
+
+  writeFileSync(FRONTEND_ARTIFACTS_PATH, JSON.stringify(output, null, 2));
 }
