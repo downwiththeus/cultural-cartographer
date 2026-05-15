@@ -48,22 +48,24 @@ export function saveUserMovie(record: MovieRecord): void {
 
   const serialized = JSON.stringify(movies, null, 2);
 
+  let savedToUserStore = false;
   const primaryReady = ensureParentDirectory(PRIMARY_STORE_PATH);
   try {
     if (primaryReady) {
       writeFileSync(PRIMARY_STORE_PATH, serialized);
-      persistToFrontendArtifacts(record);
-      return;
+      savedToUserStore = true;
     }
   } catch (error) {
     console.warn("Primary user movie store write failed, using fallback path", error);
     // fall through to fallback write below
   }
 
-  if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
-    throw new Error("Unable to prepare fallback store path");
+  if (!savedToUserStore) {
+    if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
+      throw new Error("Unable to prepare fallback store path");
+    }
+    writeFileSync(FALLBACK_STORE_PATH, serialized);
   }
-  writeFileSync(FALLBACK_STORE_PATH, serialized);
 
   persistToFrontendArtifacts(record);
 }
@@ -73,14 +75,14 @@ function persistToFrontendArtifacts(record: MovieRecord): void {
     throw new Error("Unable to prepare frontend artifacts store path");
   }
 
-  let frontend: FrontendArtifactsFile = { generatedAt: new Date().toISOString(), artifacts: [] };
+  let frontend: FrontendArtifactsFile = {};
   if (existsSync(FRONTEND_ARTIFACTS_PATH)) {
     try {
       frontend = JSON.parse(
         readFileSync(FRONTEND_ARTIFACTS_PATH, "utf-8"),
       ) as FrontendArtifactsFile;
     } catch {
-      frontend = { generatedAt: new Date().toISOString(), artifacts: [] };
+      frontend = {};
     }
   }
 
