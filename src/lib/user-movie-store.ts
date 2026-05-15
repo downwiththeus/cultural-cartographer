@@ -1,32 +1,64 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { dirname, join } from "node:path";
 import type { MovieRecord } from "./green";
 
-const STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
+const PRIMARY_STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
+const FALLBACK_STORE_PATH = join(tmpdir(), "cultural-cartographer", "user-movies.json");
 
-export function loadUserMovies(): MovieRecord[] {
-  if (!existsSync(STORE_PATH)) return [];
+function ensureParentDirectory(path: string): boolean {
   try {
-    return JSON.parse(readFileSync(STORE_PATH, "utf-8")) as MovieRecord[];
+    mkdirSync(dirname(path), { recursive: true });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function loadFromPath(path: string): MovieRecord[] {
+  if (!existsSync(path)) return [];
+  try {
+    return JSON.parse(readFileSync(path, "utf-8")) as MovieRecord[];
   } catch {
     return [];
   }
 }
 
+export function loadUserMovies(): MovieRecord[] {
+  if (existsSync(PRIMARY_STORE_PATH)) return loadFromPath(PRIMARY_STORE_PATH);
+  if (existsSync(FALLBACK_STORE_PATH)) return loadFromPath(FALLBACK_STORE_PATH);
+  return [];
+}
+
 export function saveUserMovie(record: MovieRecord): void {
-  // Best-effort local persistence. This is a no-op in serverless environments
-  // where the filesystem is read-only (e.g. Vercel Functions). The scrape
-  // response is still returned to the client regardless of whether this
-  // succeeds.
+  // Best-effort persistence. Tries the primary CWD path first, then a tmpdir
+  // fallback. Both writes are swallowed on failure so a read-only serverless
+  // filesystem never causes the scrape response to 500.
+  const movies = loadUserMovies();
+  const idx = movies.findIndex((m) => m.slug === record.slug);
+  if (idx >= 0) {
+    movies[idx] = record;
+  } else {
+    movies.push(record);
+  }
+
+  const serialized = JSON.stringify(movies, null, 2);
+
+  const primaryReady = ensureParentDirectory(PRIMARY_STORE_PATH);
   try {
-    const movies = loadUserMovies();
-    const idx = movies.findIndex((m) => m.slug === record.slug);
-    if (idx >= 0) {
-      movies[idx] = record;
-    } else {
-      movies.push(record);
+    if (primaryReady) {
+      writeFileSync(PRIMARY_STORE_PATH, serialized);
+      return;
     }
-    writeFileSync(STORE_PATH, JSON.stringify(movies, null, 2));
+  } catch (error) {
+    console.warn("Primary user movie store write failed, using fallback path", error);
+    // fall through to fallback write below
+  }
+
+  try {
+    if (ensureParentDirectory(FALLBACK_STORE_PATH)) {
+      writeFileSync(FALLBACK_STORE_PATH, serialized);
+    }
   } catch {
     // Silently ignore — persistence is unavailable in this environment.
   }
