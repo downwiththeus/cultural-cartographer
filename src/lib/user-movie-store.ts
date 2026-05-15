@@ -15,14 +15,6 @@ function ensureParentDirectory(path: string): boolean {
   }
 }
 
-function resolveStorePath(): string {
-  if (ensureParentDirectory(PRIMARY_STORE_PATH)) {
-    return PRIMARY_STORE_PATH;
-  }
-  ensureParentDirectory(FALLBACK_STORE_PATH);
-  return FALLBACK_STORE_PATH;
-}
-
 function loadFromPath(path: string): MovieRecord[] {
   if (!existsSync(path)) return [];
   try {
@@ -37,12 +29,7 @@ export function loadUserMovies(): MovieRecord[] {
   if (primaryMovies.length > 0) return primaryMovies;
   const fallbackMovies = loadFromPath(FALLBACK_STORE_PATH);
   if (fallbackMovies.length > 0) return fallbackMovies;
-
-  const preferredPath = resolveStorePath();
-  if (preferredPath === PRIMARY_STORE_PATH) {
-    return primaryMovies;
-  }
-  return fallbackMovies;
+  return [];
 }
 
 export function saveUserMovie(record: MovieRecord): void {
@@ -58,12 +45,16 @@ export function saveUserMovie(record: MovieRecord): void {
 
   const primaryReady = ensureParentDirectory(PRIMARY_STORE_PATH);
   try {
-    if (!primaryReady) throw new Error("Primary store path unavailable");
-    writeFileSync(PRIMARY_STORE_PATH, serialized);
-  } catch {
-    if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
-      throw new Error("Unable to prepare fallback store path");
+    if (primaryReady) {
+      writeFileSync(PRIMARY_STORE_PATH, serialized);
+      return;
     }
-    writeFileSync(FALLBACK_STORE_PATH, serialized);
+  } catch {
+    // fall through to fallback write below
   }
+
+  if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
+    throw new Error("Unable to prepare fallback store path");
+  }
+  writeFileSync(FALLBACK_STORE_PATH, serialized);
 }
