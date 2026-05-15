@@ -353,75 +353,94 @@ function AfterlifeTimeline({ events }: { events: AfterlifeEvent[] }) {
     wound: "var(--oxblood)",
   };
 
+  // Map year to a horizontal percentage, padded 4%–96% to keep edge dots visible
+  const toLeft = (year: number) => 4 + ((year - minY) / span) * 92;
+
+  const ticks = Array.from({ length: Math.ceil(span / 5) + 1 })
+    .map((_, i) => minY + i * 5)
+    .filter((y) => y <= maxY);
+
+  // Layout (px): axis at 50% of a 300px container = 150px
+  // Above: connector from 90px→150px, label bottom-edge at 90px
+  // Below: connector from 150px→210px, label top-edge at 210px
+  const CONNECTOR = 60; // px, height of connector line on each side
+
   return (
-    <div className="relative">
-      <div className="relative h-40 w-full border border-border bg-umber/30">
+    <div>
+      <div
+        className="relative overflow-hidden border border-border bg-umber/30"
+        style={{ height: 300 }}
+      >
         {/* axis */}
-        <div className="absolute inset-x-8 top-1/2 h-px bg-vellum/20" />
-        {/* decades */}
-        {Array.from({ length: Math.ceil(span / 5) + 1 }).map((_, i) => {
-          const y = minY + i * 5;
-          if (y > maxY) return null;
-          const left = ((y - minY) / span) * 100;
-          return (
-            <div
-              key={y}
-              className="absolute top-1/2 -translate-x-1/2"
-              style={{ left: `calc(${left}% * 0.94 + 2rem)` }}
-            >
-              <div className="h-2 w-px bg-vellum/30" />
-              <div className="mt-1 font-mono text-[9px] text-vellum-dim smallcaps">{y}</div>
-            </div>
-          );
-        })}
+        <div className="absolute inset-x-0 top-1/2 h-px bg-vellum/20" />
+
+        {/* 5-year ticks */}
+        {ticks.map((y) => (
+          <div
+            key={y}
+            className="absolute top-1/2 -translate-x-1/2"
+            style={{ left: `${toLeft(y)}%` }}
+          >
+            <div className="h-2 w-px bg-vellum/30" />
+            <div className="mt-1 font-mono text-[9px] text-vellum-dim smallcaps">{y}</div>
+          </div>
+        ))}
 
         {/* events */}
         {events.map((e, i) => {
-          const left = ((e.year - minY) / span) * 100;
+          const left = toLeft(e.year);
           const above = i % 2 === 0;
+          const color = colorByKind[e.kind];
+
           return (
-            <div
-              key={i}
-              className="absolute top-1/2"
-              style={{ left: `calc(${left}% * 0.94 + 2rem)` }}
-            >
+            <div key={i}>
+              {/* dot on axis */}
               <div
-                className="absolute left-1/2 top-0 -translate-x-1/2 -translate-y-1/2"
-                style={{ width: 8, height: 8, background: colorByKind[e.kind] }}
-              />
-              <div
-                className="absolute left-1/2 -translate-x-1/2"
+                className="absolute"
                 style={{
-                  top: above ? -64 : 16,
-                  width: 180,
+                  left: `${left}%`,
+                  top: "50%",
+                  transform: "translate(-50%, -50%)",
+                  width: 8,
+                  height: 8,
+                  background: color,
+                }}
+              />
+              {/* connector */}
+              <div
+                className="absolute w-px"
+                style={{
+                  left: `${left}%`,
+                  background: "var(--vellum-dim)",
+                  opacity: 0.35,
+                  ...(above
+                    ? { bottom: "50%", height: CONNECTOR }
+                    : { top: "50%", height: CONNECTOR }),
+                }}
+              />
+              {/* label — clamped so it never overflows left/right edges */}
+              <div
+                className="absolute"
+                style={{
+                  left: `clamp(0px, calc(${left}% - 80px), calc(100% - 164px))`,
+                  width: 160,
+                  ...(above
+                    ? { bottom: `calc(50% + ${CONNECTOR}px)` }
+                    : { top: `calc(50% + ${CONNECTOR}px)` }),
                 }}
               >
-                <div
-                  className="mx-auto h-8 w-px"
-                  style={{
-                    background: "var(--vellum-dim)",
-                    opacity: 0.5,
-                  }}
-                />
-                <div
-                  className={
-                    "absolute left-1/2 -translate-x-1/2 " +
-                    (above ? "bottom-8" : "top-8")
-                  }
-                  style={{ width: 180 }}
-                >
-                  <div className="font-mono text-[9px] smallcaps text-oxblood">
-                    {e.year} · {e.kind}
-                  </div>
-                  <div className="mt-1 font-display text-[13px] italic leading-snug text-vellum">
-                    {e.label}
-                  </div>
+                <div className="font-mono text-[9px] smallcaps" style={{ color }}>
+                  {e.year} · {e.kind}
+                </div>
+                <div className="mt-0.5 font-display text-[12px] italic leading-snug text-vellum">
+                  {e.label}
                 </div>
               </div>
             </div>
           );
         })}
       </div>
+
       <div className="mt-3 flex flex-wrap gap-x-5 gap-y-1 font-mono text-[10px] text-vellum-dim smallcaps">
         <Legend color="var(--vellum)" label="release / rediscovery / criterion" />
         <Legend color="var(--oxblood)" label="rejection / meme / wound" />
