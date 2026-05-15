@@ -38,6 +38,9 @@ export function loadUserMovies(): MovieRecord[] {
 }
 
 export function saveUserMovie(record: MovieRecord): void {
+  // Best-effort persistence. Tries the primary CWD path first, then a tmpdir
+  // fallback. Both writes are swallowed on failure so a read-only serverless
+  // filesystem never causes the scrape response to 500.
   const movies = loadUserMovies();
   const idx = movies.findIndex((m) => m.slug === record.slug);
   if (idx >= 0) {
@@ -61,19 +64,24 @@ export function saveUserMovie(record: MovieRecord): void {
   }
 
   if (!savedToUserStore) {
-    if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
-      throw new Error("Unable to prepare fallback store path");
+    try {
+      if (ensureParentDirectory(FALLBACK_STORE_PATH)) {
+        writeFileSync(FALLBACK_STORE_PATH, serialized);
+      }
+    } catch {
+      // Silently ignore — persistence is unavailable in this environment.
     }
-    writeFileSync(FALLBACK_STORE_PATH, serialized);
   }
 
-  persistToFrontendArtifacts(record);
+  try {
+    persistToFrontendArtifacts(record);
+  } catch {
+    // Silently ignore — persistence is unavailable in this environment.
+  }
 }
 
 function persistToFrontendArtifacts(record: MovieRecord): void {
-  if (!ensureParentDirectory(FRONTEND_ARTIFACTS_PATH)) {
-    throw new Error("Unable to prepare frontend artifacts store path");
-  }
+  if (!ensureParentDirectory(FRONTEND_ARTIFACTS_PATH)) return;
 
   let frontend: FrontendArtifactsFile = {};
   if (existsSync(FRONTEND_ARTIFACTS_PATH)) {
