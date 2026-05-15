@@ -14,12 +14,20 @@ export function loadUserMovies(): MovieRecord[] {
 }
 
 export function saveUserMovie(record: MovieRecord): void {
-  const movies = loadUserMovies();
-  const idx = movies.findIndex((m) => m.slug === record.slug);
-  if (idx >= 0) {
-    movies[idx] = record;
-  } else {
-    movies.push(record);
+  // Best-effort local persistence. This is a no-op in serverless environments
+  // where the filesystem is read-only (e.g. Vercel Functions). The scrape
+  // response is still returned to the client regardless of whether this
+  // succeeds.
+  try {
+    const movies = loadUserMovies();
+    const idx = movies.findIndex((m) => m.slug === record.slug);
+    if (idx >= 0) {
+      movies[idx] = record;
+    } else {
+      movies.push(record);
+    }
+    writeFileSync(STORE_PATH, JSON.stringify(movies, null, 2));
+  } catch {
+    // Silently ignore — persistence is unavailable in this environment.
   }
-  writeFileSync(STORE_PATH, JSON.stringify(movies, null, 2));
 }
