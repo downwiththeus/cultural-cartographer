@@ -1,16 +1,33 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { dirname, join } from "node:path";
 import type { MovieRecord } from "./green";
 
-const STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
+const PRIMARY_STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
+const FALLBACK_STORE_PATH = join(tmpdir(), "cultural-cartographer", "user-movies.json");
 
-export function loadUserMovies(): MovieRecord[] {
-  if (!existsSync(STORE_PATH)) return [];
+function ensureParentDirectory(path: string): boolean {
   try {
-    return JSON.parse(readFileSync(STORE_PATH, "utf-8")) as MovieRecord[];
+    mkdirSync(dirname(path), { recursive: true });
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function loadFromPath(path: string): MovieRecord[] {
+  if (!existsSync(path)) return [];
+  try {
+    return JSON.parse(readFileSync(path, "utf-8")) as MovieRecord[];
   } catch {
     return [];
   }
+}
+
+export function loadUserMovies(): MovieRecord[] {
+  if (existsSync(PRIMARY_STORE_PATH)) return loadFromPath(PRIMARY_STORE_PATH);
+  if (existsSync(FALLBACK_STORE_PATH)) return loadFromPath(FALLBACK_STORE_PATH);
+  return [];
 }
 
 export function saveUserMovie(record: MovieRecord): void {
@@ -21,5 +38,22 @@ export function saveUserMovie(record: MovieRecord): void {
   } else {
     movies.push(record);
   }
-  writeFileSync(STORE_PATH, JSON.stringify(movies, null, 2));
+
+  const serialized = JSON.stringify(movies, null, 2);
+
+  const primaryReady = ensureParentDirectory(PRIMARY_STORE_PATH);
+  try {
+    if (primaryReady) {
+      writeFileSync(PRIMARY_STORE_PATH, serialized);
+      return;
+    }
+  } catch (error) {
+    console.warn("Primary user movie store write failed, using fallback path", error);
+    // fall through to fallback write below
+  }
+
+  if (!ensureParentDirectory(FALLBACK_STORE_PATH)) {
+    throw new Error("Unable to prepare fallback store path");
+  }
+  writeFileSync(FALLBACK_STORE_PATH, serialized);
 }
