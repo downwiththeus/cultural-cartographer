@@ -5,6 +5,13 @@ import type { MovieRecord } from "./green";
 
 const PRIMARY_STORE_PATH = join(process.cwd(), "data/generated/user-movies.json");
 const FALLBACK_STORE_PATH = join(tmpdir(), "cultural-cartographer", "user-movies.json");
+const FRONTEND_ARTIFACTS_PATH = join(process.cwd(), "data/generated/frontend-artifacts.json");
+
+type FrontendArtifactsFile = {
+  generatedAt?: string;
+  methodVersion?: string;
+  artifacts?: MovieRecord[];
+};
 
 function ensureParentDirectory(path: string): boolean {
   try {
@@ -44,22 +51,62 @@ export function saveUserMovie(record: MovieRecord): void {
 
   const serialized = JSON.stringify(movies, null, 2);
 
+  let savedToUserStore = false;
   const primaryReady = ensureParentDirectory(PRIMARY_STORE_PATH);
   try {
     if (primaryReady) {
       writeFileSync(PRIMARY_STORE_PATH, serialized);
-      return;
+      savedToUserStore = true;
     }
   } catch (error) {
     console.warn("Primary user movie store write failed, using fallback path", error);
     // fall through to fallback write below
   }
 
-  try {
-    if (ensureParentDirectory(FALLBACK_STORE_PATH)) {
-      writeFileSync(FALLBACK_STORE_PATH, serialized);
+  if (!savedToUserStore) {
+    try {
+      if (ensureParentDirectory(FALLBACK_STORE_PATH)) {
+        writeFileSync(FALLBACK_STORE_PATH, serialized);
+      }
+    } catch {
+      // Silently ignore — persistence is unavailable in this environment.
     }
+  }
+
+  try {
+    persistToFrontendArtifacts(record);
   } catch {
     // Silently ignore — persistence is unavailable in this environment.
   }
+}
+
+function persistToFrontendArtifacts(record: MovieRecord): void {
+  if (!ensureParentDirectory(FRONTEND_ARTIFACTS_PATH)) return;
+
+  let frontend: FrontendArtifactsFile = {};
+  if (existsSync(FRONTEND_ARTIFACTS_PATH)) {
+    try {
+      frontend = JSON.parse(
+        readFileSync(FRONTEND_ARTIFACTS_PATH, "utf-8"),
+      ) as FrontendArtifactsFile;
+    } catch {
+      frontend = {};
+    }
+  }
+
+  const artifacts = Array.isArray(frontend.artifacts) ? [...frontend.artifacts] : [];
+  const existing = artifacts.findIndex((item) => item.slug === record.slug);
+  if (existing >= 0) {
+    artifacts[existing] = { ...artifacts[existing], ...record };
+  } else {
+    artifacts.push(record);
+  }
+
+  const output: FrontendArtifactsFile = {
+    ...frontend,
+    generatedAt: frontend.generatedAt ?? new Date().toISOString(),
+    artifacts,
+  };
+
+  writeFileSync(FRONTEND_ARTIFACTS_PATH, JSON.stringify(output, null, 2));
 }
