@@ -1,6 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { ARTIFACTS } from "@/data/artifacts";
-import { Sigil } from "@/components/Sigil";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { useState, useMemo } from "react";
 import { useUserFilms } from "@/lib/user-films-context";
@@ -110,10 +109,9 @@ function Atlas() {
             ))}
           </div>
 
-          {/* Sigil layer — overflow visible so labels escape the frame */}
+          {/* Dot layer — overflow visible so labels escape the frame */}
           {allArtifacts.map((a) => {
-            const size = 90 + a.metrics.obsession * 0.9;
-            // Flip label above the sigil when near the bottom to avoid map overlap
+            const dotSize = 6 + Math.round(a.metrics.obsession * 0.06);
             const labelAbove = a.pos.y > 0.55;
             return (
               <Link
@@ -122,24 +120,21 @@ function Atlas() {
                 params={{ slug: a.slug }}
                 onMouseEnter={() => setHovered(a.slug)}
                 onMouseLeave={() => setHovered(null)}
-                className="group absolute -translate-x-1/2 -translate-y-1/2 transition-transform duration-500 hover:scale-110"
+                className="group absolute -translate-x-1/2 -translate-y-1/2 transition-transform duration-500 hover:scale-150"
                 style={{
                   left: `${a.pos.x * 100}%`,
                   top: `${a.pos.y * 100}%`,
-                  width: size,
-                  height: size,
                   zIndex: hovered === a.slug ? 20 : 10,
                 }}
               >
-                <div className="relative h-full w-full opacity-70 transition-opacity duration-300 group-hover:opacity-100">
-                  <Sigil metrics={a.metrics} size={size} animate={false} uid={a.slug} />
-                </div>
+                <div
+                  className="rounded-full bg-oxblood opacity-50 transition-opacity duration-300 group-hover:opacity-100"
+                  style={{ width: dotSize, height: dotSize }}
+                />
                 <div
                   className={
                     "pointer-events-none absolute left-1/2 -translate-x-1/2 whitespace-nowrap text-center transition-opacity duration-200 " +
-                    (labelAbove
-                      ? "bottom-full mb-2"
-                      : "top-full mt-2") +
+                    (labelAbove ? "bottom-full mb-2" : "top-full mt-2") +
                     " " +
                     (hovered === a.slug ? "opacity-100" : "opacity-0")
                   }
