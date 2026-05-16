@@ -280,7 +280,7 @@ function Evidence() {
                 Weighting
               </div>
               <p className="text-vellum/80">
-                A mention in a peer-reviewed cinema journal carries more
+                A mention in a peer-reviewed media journal carries more
                 weight for SYM than a tweet, while a tweet carries more
                 weight for VLT (Voltage) if it describes a visceral
                 reaction.

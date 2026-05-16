@@ -13,7 +13,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "A live reading of cultural pressure across cinema. Not a score. A field of sigils.",
+          "A live reading of cultural pressure across media. Not a score. A field of sigils.",
       },
     ],
   }),
@@ -37,7 +37,7 @@ function Atlas() {
         <div className="grid grid-cols-12 gap-8">
           <div className="col-span-12 md:col-span-7">
             <div className="font-mono text-[10px] smallcaps text-oxblood">
-              Field reading · vol. I · cinema
+              Field reading · vol. I · media
             </div>
             <h1 className="mt-4 font-display text-5xl leading-[1.05] text-vellum md:text-7xl">
               A map of <em className="text-oxblood">psychic pressure</em>,
