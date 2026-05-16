@@ -106,7 +106,7 @@ export const SHAPE_BY_AXIS: Record<AxisKey, { name: string; description: string 
   accessibility: {
     name: "The Guide",
     description:
-      "You are drawn to works that are genuinely available — that do not require a glossary, a cultural history, or prior initiation to enter and feel something. This is not a preference for simplicity; it is a preference for generosity. You value the film that earns its emotional effects without demanding preparation, that treats the arriving viewer as a full participant rather than an unprepared student. Cinema as open door.",
+      "You are drawn to works that are genuinely available — that do not require a glossary, a cultural history, or prior initiation to enter and feel something. This is not a preference for simplicity; it is a preference for generosity. You value the film that earns its emotional effects without demanding preparation, that treats the arriving viewer as a full participant rather than an unprepared student. Media as open door.",
   },
   reach: {
     name: "The Emissary",
@@ -174,7 +174,7 @@ function describeViewerShape(metrics: Metrics) {
     return {
       name: "The Initiate",
       description:
-        "You are drawn to cinema that makes no concessions to the unprepared — formally demanding, symbolically dense, and entirely unconcerned with whether a new viewer can find their footing. You arrived ready for this. What you are looking for is a film that takes its own logic seriously enough to exclude those who haven't done the work, and rewards those who have with something that cannot be unlocked any other way.",
+        "You are drawn to media that makes no concessions to the unprepared — formally demanding, symbolically dense, and entirely unconcerned with whether a new viewer can find their footing. You arrived ready for this. What you are looking for is a film that takes its own logic seriously enough to exclude those who haven't done the work, and rewards those who have with something that cannot be unlocked any other way.",
     };
   }
   if (metrics.obsession >= 70 && metrics.haunting >= 70 && metrics.consensus <= 40) {
@@ -217,7 +217,7 @@ function describeViewerShape(metrics: Metrics) {
     return {
       name: "The Nerve",
       description:
-        "You seek the films that pushed against what the culture was willing to permit and registered that pressure in the body — extreme cinema as felt experience, where the transgression is not an intellectual category but a physical one. You are not looking for provocation as a pose. You are looking for the works that cost something to make and cost something to watch, and where those two costs are related.",
+        "You seek the films that pushed against what the culture was willing to permit and registered that pressure in the body — extreme media as felt experience, where the transgression is not an intellectual category but a physical one. You are not looking for provocation as a pose. You are looking for the works that cost something to make and cost something to watch, and where those two costs are related.",
     };
   }
   if (metrics.progeny >= 70 && metrics.arc >= 70) {
@@ -421,7 +421,7 @@ function Attune() {
           <h1 className="mt-2 font-display text-4xl text-vellum md:text-5xl">Attunement</h1>
           <p className="mt-4 font-display italic text-vellum-dim">
             Enter your ten favorite films. The Index will derive the shape they share —
-            the geometry of how you hold cinema — and return the artifacts whose
+            the geometry of how you hold media — and return the artifacts whose
             pressure most closely answers your own.
           </p>
         </div>

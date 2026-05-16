@@ -67,7 +67,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-001",
     epigraph: "Through the darkness of futures past, the magician longs to see.",
     reading:
-      "Booed at Cannes, abandoned by its own audience, then exhumed and canonized. The film's pressure has only intensified — what looked like indulgence in 1992 reads now as the most sustained depiction of trauma in American cinema. It does not sit still.",
+      "Booed at Cannes, abandoned by its own audience, then exhumed and canonized. The film's pressure has only intensified — what looked like indulgence in 1992 reads now as the most sustained depiction of trauma in American media. It does not sit still.",
     metrics: {
       consensus: 38,
       friction: 92,
@@ -94,7 +94,7 @@ const CURATED: Artifact[] = [
       { year: 2002, kind: "rediscovery", label: "First academic re-readings appear." },
       { year: 2014, kind: "criterion", label: "Criterion release, restored." },
       { year: 2017, kind: "reissue", label: "Re-evaluated alongside Twin Peaks: The Return." },
-      { year: 2022, kind: "academic", label: "Standard text in trauma-cinema syllabi." },
+      { year: 2022, kind: "academic", label: "Standard text in trauma-media syllabi." },
     ],
     factions: [
       { name: "The Devoted", share: 0.51, voice: "“The only film about grief that does not lie.”" },
@@ -846,7 +846,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2013, kind: "release", label: "Festival rollout marked by polarized immediate response." },
       { year: 2014, kind: "rediscovery", label: "Slow-burn critical ascent through essay culture." },
-      { year: 2020, kind: "academic", label: "Canonized in courses on alien embodiment and post-human cinema." },
+      { year: 2020, kind: "academic", label: "Canonized in courses on alien embodiment and post-human media." },
     ],
     factions: [
       { name: "The Entranced", share: 0.45, voice: "“The void sequence rewired my brain.”" },
@@ -975,7 +975,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2010, kind: "release", label: "Initial reception splits between visual awe and narrative refusal fatigue." },
       { year: 2015, kind: "rediscovery", label: "Home-viewing audiences elevate it as a cult sensory object." },
-      { year: 2024, kind: "academic", label: "Cited in discussions of vibe-centric and affect-forward genre cinema." },
+      { year: 2024, kind: "academic", label: "Cited in discussions of vibe-centric and affect-forward genre media." },
     ],
     factions: [
       { name: "Atmosphere Absolutists", share: 0.47, voice: "“Plot is irrelevant; the texture is the text.”" },
@@ -1012,7 +1012,7 @@ const CURATED: Artifact[] = [
     },
     notes: {
       consensus: "Public interpretation converged over decades rather than at release.",
-      symbolic: "Now read systemically as propaganda grammar, not only action cinema.",
+      symbolic: "Now read systemically as propaganda grammar, not only action media.",
     },
     afterlife: [
       { year: 1997, kind: "release", label: "Initial reception frames it as hollow militarist action." },
@@ -1332,7 +1332,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-053",
     epigraph: "The Netherworld Waiting Room.",
     reading:
-      "A high-voltage bureaucratic nightmare that has installed itself into the collective lizard brain of multiple generations. Its formal risk — German Expressionist angles paired with 1950s calypso — is now invisible because the film has fully settled into cultural memory. The netherworld waiting room is one of cinema's most durable architectural installs: a space visitors did not choose to enter and cannot fully leave.",
+      "A high-voltage bureaucratic nightmare that has installed itself into the collective lizard brain of multiple generations. Its formal risk — German Expressionist angles paired with 1950s calypso — is now invisible because the film has fully settled into cultural memory. The netherworld waiting room is one of media's most durable architectural installs: a space visitors did not choose to enter and cannot fully leave.",
     metrics: {
       consensus: 88,
       friction: 14,
@@ -1440,7 +1440,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2019, kind: "release", label: "Palme d'Or at Cannes; first Korean-language film to win." },
-      { year: 2020, kind: "academic", label: "Academy Awards Best Picture; first non-English film to win; global cinema discourse peaks." },
+      { year: 2020, kind: "academic", label: "Academy Awards Best Picture; first non-English film to win; global media discourse peaks." },
       { year: 2021, kind: "academic", label: "Class-war symbols — the stone, the smell — enter film theory as primary objects." },
       { year: 2024, kind: "rediscovery", label: "HBO series adaptation reignites comparison with the original." },
     ],
@@ -1461,7 +1461,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-055",
     epigraph: "The Rigged Contract.",
     reading:
-      "A theoretical maximum in friction, designed to explicitly punish the viewer for their own obsession with cinematic violence. By breaking the fourth wall at the precise moment the viewer most needs relief — the remote control scene — it cancels the contract of cinema and installs an unauthorized intervention in reality. Its accessibility is deliberately sealed: the film refuses to be consumed by anyone who approaches it as entertainment.",
+      "A theoretical maximum in friction, designed to explicitly punish the viewer for their own obsession with cinematic violence. By breaking the fourth wall at the precise moment the viewer most needs relief — the remote control scene — it cancels the contract of media and installs an unauthorized intervention in reality. Its accessibility is deliberately sealed: the film refuses to be consumed by anyone who approaches it as entertainment.",
     metrics: {
       consensus: 81,
       friction: 98,
@@ -1486,7 +1486,7 @@ const CURATED: Artifact[] = [
       { year: 1997, kind: "release", label: "Cannes premiere; immediate controversy and walkouts." },
       { year: 1997, kind: "rejection", label: "Widely described as unwatchable; large portion of audiences abandon viewing." },
       { year: 2007, kind: "reissue", label: "Haneke directs English-language shot-for-shot remake; the theoretical debate intensifies." },
-      { year: 2020, kind: "academic", label: "Pandemic discourse amplifies 'punishing cinema' and viewer-as-accomplice readings." },
+      { year: 2020, kind: "academic", label: "Pandemic discourse amplifies 'punishing media' and viewer-as-accomplice readings." },
     ],
     factions: [
       { name: "The Complicit", share: 0.41, voice: "\"I knew I should stop. I didn't. That was the point.\"" },
@@ -1565,7 +1565,7 @@ const CURATED: Artifact[] = [
       transgression: 12,
     },
     notes: {
-      formal: "High-contrast monochrome creates the feel of a found artifact — cinema as forensic document.",
+      formal: "High-contrast monochrome creates the feel of a found artifact — media as forensic document.",
       haunting: "Cosmic indifference produces sustained haunting: no explanation, no relief, no verdict on the universe's silence.",
       cult: "A devotee film — its cult is formed by those who find the Coen 'Serious Man' mode its most rigorous expression.",
     },
@@ -1634,7 +1634,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-059",
     epigraph: "The Cryptographic Puzzle.",
     reading:
-      "Occupies the absolute floor of accessibility, operating as a cryptographic puzzle rather than a conventional narrative. Its symbolic density is effectively its only mode of existence — overlapping timelines so complex that the film has become a benchmark of cinematic difficulty and a community-binding object for those who treat cinema as decryption. Obsessed over as a technical blueprint for the total refusal of audience hand-holding.",
+      "Occupies the absolute floor of accessibility, operating as a cryptographic puzzle rather than a conventional narrative. Its symbolic density is effectively its only mode of existence — overlapping timelines so complex that the film has become a benchmark of cinematic difficulty and a community-binding object for those who treat media as decryption. Obsessed over as a technical blueprint for the total refusal of audience hand-holding.",
     metrics: {
       consensus: 82,
       friction: 9,
@@ -1678,7 +1678,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-048",
     epigraph: "The Unauthorized Mental Install.",
     reading:
-      "The closest cinema comes to a Rorschach test administered in Cinerama. Its silence speaks louder than most scores; its final sequence has produced more interpretive text than almost any other filmed event. Fifty-eight years on, the mention density shows no decay curve — it functions as a perennial initiation rite into what cinema can do with its face turned away from narrative.",
+      "The closest media comes to a Rorschach test administered in Cinerama. Its silence speaks louder than most scores; its final sequence has produced more interpretive text than almost any other filmed event. Fifty-eight years on, the mention density shows no decay curve — it functions as a perennial initiation rite into what media can do with its face turned away from narrative.",
     metrics: {
       consensus: 98,
       friction: 2,
@@ -1708,7 +1708,7 @@ const CURATED: Artifact[] = [
     ],
     factions: [
       { name: "The Monolith Mystics", share: 0.45, voice: "“It is the only film that makes you feel the scale of geological time.”" },
-      { name: "The Structuralists", share: 0.35, voice: "“The four-part structure is cinema grammar at its purest.”" },
+      { name: "The Structuralists", share: 0.35, voice: "“The four-part structure is media grammar at its purest.”" },
       { name: "The Detached", share: 0.2, voice: "“I respect it completely and feel nothing.”" },
     ],
     symbols: ["the monolith", "HAL's red eye", "the star gate", "the Starchild", "the bone weapon", "the pod bay doors"],
@@ -1723,7 +1723,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-049",
     epigraph: "The Nothingness in the Woods.",
     reading:
-      "The first film to weaponize the internet itself as a formal element — the marketing blurred ontological categories months before the credits rolled. Its formal risk lies not in virtuosity but in total subtraction: the threat is never shown, the resolution never given. The corner sequence is one of cinema's most durable trauma-images despite being, literally, nothing.",
+      "The first film to weaponize the internet itself as a formal element — the marketing blurred ontological categories months before the credits rolled. Its formal risk lies not in virtuosity but in total subtraction: the threat is never shown, the resolution never given. The corner sequence is one of media's most durable trauma-images despite being, literally, nothing.",
     metrics: {
       consensus: 81,
       friction: 50,
@@ -1790,9 +1790,9 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2019, kind: "release", label: "Cannes Un Certain Regard win; received to widespread critical acclaim." },
-      { year: 2020, kind: "academic", label: "Queer cinema and 'female gaze' theory anchor the dominant reading." },
-      { year: 2022, kind: "meme", label: "The 'Burning' sequence becomes a viral reference for physiological cinema." },
-      { year: 2024, kind: "academic", label: "Enters film schools as a primary text for gaze theory and period cinema." },
+      { year: 2020, kind: "academic", label: "Queer media and 'female gaze' theory anchor the dominant reading." },
+      { year: 2022, kind: "meme", label: "The 'Burning' sequence becomes a viral reference for physiological media." },
+      { year: 2024, kind: "academic", label: "Enters film schools as a primary text for gaze theory and period media." },
     ],
     factions: [
       { name: "The Devoted", share: 0.51, voice: "“I live inside this film. I return to it to remember how to feel.”" },
@@ -1903,7 +1903,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-053",
     epigraph: "All the anxiety we bear with us, all our thwarted dreams, the incomprehensible cruelty, our fear of extinction.",
     reading:
-      "Cinema's most surgical self-examination. Bergman places two women in a house by the sea and allows their identities to dissolve into each other — or perhaps into the film's own substrate. The shot of the film melting and breaking midway is not a joke; it is the thesis. Fifty years of psychoanalytic, feminist, and semiotic scholarship have not closed the questions it opened.",
+      "Media's most surgical self-examination. Bergman places two women in a house by the sea and allows their identities to dissolve into each other — or perhaps into the film's own substrate. The shot of the film melting and breaking midway is not a joke; it is the thesis. Fifty years of psychoanalytic, feminist, and semiotic scholarship have not closed the questions it opened.",
     metrics: { consensus: 90, friction: 38, obsession: 88, haunting: 94, symbolic: 99, cult: 74, formal: 97, voltage: 84, accessibility: 12, reach: 68, progeny: 88, arc: 40, transgression: 35 },
     notes: {
       symbolic: "Higher symbolic density than any other entry in the catalogue. Every element is contested, every reading provisional.",
@@ -1918,7 +1918,7 @@ const CURATED: Artifact[] = [
     ],
     factions: [
       { name: "The Psychoanalysts", share: 0.38, voice: "“Elisabet and Alma are one person split across two registers.”" },
-      { name: "The Formalists", share: 0.34, voice: "“It is about cinema itself — about what film can do to identity.”" },
+      { name: "The Formalists", share: 0.34, voice: "“It is about media itself — about what film can do to identity.”" },
       { name: "The Phenomenologists", share: 0.28, voice: "“It is simply what happens when two people share a house and fall silent.”" },
     ],
     symbols: ["the merged face", "the broken film", "the spider", "the photograph", "the beach", "silence"],
@@ -1936,18 +1936,18 @@ const CURATED: Artifact[] = [
       "Death plays chess with a knight returning from the Crusades, and the image became so thoroughly absorbed into Western visual culture that it now operates as pure shorthand for mortality's negotiability. Yet the film beneath the icon is far stranger and more tender than the silhouette suggests: it is also a circus, a strawberry, a young couple on a hillside.",
     metrics: { consensus: 94, friction: 18, obsession: 88, haunting: 72, symbolic: 96, cult: 56, formal: 82, voltage: 74, accessibility: 44, reach: 72, progeny: 82, arc: 38, transgression: 10 },
     notes: {
-      symbolic: "The chess game has become among the most referenced images in cinema; its symbolic weight continues to accumulate.",
+      symbolic: "The chess game has become among the most referenced images in media; its symbolic weight continues to accumulate.",
       obsession: "The image of Death at the chessboard is now global shorthand, cited far beyond film discourse.",
     },
     afterlife: [
       { year: 1957, kind: "release", label: "Cannes premiere; Grand Prix. Bergman becomes internationally canonical." },
-      { year: 1960, kind: "academic", label: "Core text in existentialist philosophy and cinema courses." },
+      { year: 1960, kind: "academic", label: "Core text in existentialist philosophy and media courses." },
       { year: 1983, kind: "criterion", label: "Criterion release; enters permanent study canon." },
       { year: 2020, kind: "meme", label: "Death-at-chess image adapted across countless meme formats." },
     ],
     factions: [
       { name: "The Existentialists", share: 0.48, voice: "“The most honest film about the impossibility of certainty.”" },
-      { name: "The Cinema Historians", share: 0.32, voice: "“Its influence on visual language is still being measured.”" },
+      { name: "The Media Historians", share: 0.32, voice: "“Its influence on visual language is still being measured.”" },
       { name: "The Medievalists", share: 0.20, voice: "“The setting is not metaphor — it is a genuine reconstruction of plague logic.”" },
     ],
     symbols: ["the chess game", "Death's hooded cloak", "the flagellants", "the strawberry", "Jof's vision", "the danse macabre"],
@@ -1990,10 +1990,10 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-056",
     epigraph: "After all, I'm an asshole.",
     reading:
-      "Jump-cut cinema into a new era and spent the following sixty years being cited by everyone who followed. The formal radicalism is now so absorbed that it is difficult to recover the shock — which is itself a measure of how completely Godard's gambit succeeded. Michel Poiccard remains one of cinema's defining anti-heroes: charming, nihilistic, and constitutionally incapable of consequence.",
+      "Jump-cut media into a new era and spent the following sixty years being cited by everyone who followed. The formal radicalism is now so absorbed that it is difficult to recover the shock — which is itself a measure of how completely Godard's gambit succeeded. Michel Poiccard remains one of media's defining anti-heroes: charming, nihilistic, and constitutionally incapable of consequence.",
     metrics: { consensus: 90, friction: 30, obsession: 84, haunting: 46, symbolic: 86, cult: 60, formal: 99, voltage: 66, accessibility: 72, reach: 62, progeny: 88, arc: 38, transgression: 30 },
     notes: {
-      formal: "The jump cut was not an error — it was a manifesto. Maximum formal risk for its moment, now invisibly absorbed into cinema's grammar.",
+      formal: "The jump cut was not an error — it was a manifesto. Maximum formal risk for its moment, now invisibly absorbed into media's grammar.",
       obsession: "It is cited as origin point so frequently that the film itself can feel secondary to its afterimage.",
     },
     afterlife: [
@@ -2019,15 +2019,15 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-057",
     epigraph: "The child is neither good nor bad — he simply responds to what the world gives him.",
     reading:
-      "Autobiographical cinema at its most transparent and its most precise. Antoine Doinel runs from every institution that claims to contain him and arrives, finally, at the sea — and the freeze frame that ends the film has been holding its breath for sixty-five years. The documentary gaze Truffaut brought to childhood was new in 1959 and remains unrepeated at this scale.",
+      "Autobiographical media at its most transparent and its most precise. Antoine Doinel runs from every institution that claims to contain him and arrives, finally, at the sea — and the freeze frame that ends the film has been holding its breath for sixty-five years. The documentary gaze Truffaut brought to childhood was new in 1959 and remains unrepeated at this scale.",
     metrics: { consensus: 95, friction: 14, obsession: 80, haunting: 86, symbolic: 78, cult: 44, formal: 74, voltage: 78, accessibility: 78, reach: 60, progeny: 80, arc: 35, transgression: 15 },
     notes: {
-      haunting: "The freeze frame at the ocean is among cinema's most persistent involuntary recall images.",
+      haunting: "The freeze frame at the ocean is among media's most persistent involuntary recall images.",
       consensus: "One of the most agreed-upon films in the index — settled as a masterpiece within a decade of release.",
     },
     afterlife: [
       { year: 1959, kind: "release", label: "Cannes premiere; Best Director for Truffaut; immediate international distribution." },
-      { year: 1968, kind: "academic", label: "Becomes emblematic of the French New Wave as a complete social cinema." },
+      { year: 1968, kind: "academic", label: "Becomes emblematic of the French New Wave as a complete social media." },
       { year: 2009, kind: "criterion", label: "Criterion restoration; new generation of viewers arrives." },
     ],
     factions: [
@@ -2051,7 +2051,7 @@ const CURATED: Artifact[] = [
     metrics: { consensus: 82, friction: 48, obsession: 88, haunting: 96, symbolic: 94, cult: 80, formal: 91, voltage: 74, accessibility: 18, reach: 50, progeny: 78, arc: 45, transgression: 8 },
     notes: {
       haunting: "Hari's reappearance is the film's thesis: grief does not end, it takes new form.",
-      accessibility: "The three-hour runtime and slow-cinema grammar constitute significant barriers; rewards patience absolutely.",
+      accessibility: "The three-hour runtime and slow-media grammar constitute significant barriers; rewards patience absolutely.",
     },
     afterlife: [
       { year: 1972, kind: "release", label: "Cannes Grand Prix; Soviet answer to 2001; immediate critical attention." },
@@ -2062,7 +2062,7 @@ const CURATED: Artifact[] = [
     factions: [
       { name: "The Grief Theorists", share: 0.44, voice: "“The planet gives us what we cannot stop wanting: the dead, restored.”" },
       { name: "The Epistemologists", share: 0.36, voice: "“We cannot understand what is not human; Solaris proves this.”" },
-      { name: "The Durational Cinema Devotees", share: 0.20, voice: "“The pace is the argument — impatience is the first barrier to cross.”" },
+      { name: "The Durational Media Devotees", share: 0.20, voice: "“The pace is the argument — impatience is the first barrier to cross.”" },
     ],
     symbols: ["Hari's return", "the ocean surface", "the Earth memory", "the dacha", "weightlessness", "the rain on the table"],
     pos: { x: 0.08, y: 0.42 },
@@ -2076,15 +2076,15 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-059",
     epigraph: "I have nothing to say, but I want to say it anyway.",
     reading:
-      "A film director cannot make his film and so makes a film about not being able to make his film. Fellini's meta-self-portrait is the supreme model for blocked-artist cinema, and its harem fantasy, dream sequences, and final parade have generated a century's worth of imitation. The symbolic density is total — it is impossible to watch a scene without reading it as a symbolic system — and this is entirely intentional.",
+      "A film director cannot make his film and so makes a film about not being able to make his film. Fellini's meta-self-portrait is the supreme model for blocked-artist media, and its harem fantasy, dream sequences, and final parade have generated a century's worth of imitation. The symbolic density is total — it is impossible to watch a scene without reading it as a symbolic system — and this is entirely intentional.",
     metrics: { consensus: 92, friction: 32, obsession: 88, haunting: 78, symbolic: 97, cult: 64, formal: 94, voltage: 76, accessibility: 38, reach: 70, progeny: 90, arc: 38, transgression: 25 },
     notes: {
-      symbolic: "The blocked-artist meta-structure means every element is simultaneously character, symbol, and statement about cinema itself.",
+      symbolic: "The blocked-artist meta-structure means every element is simultaneously character, symbol, and statement about media itself.",
       formal: "Dream and reality are merged without warning or transition; this was new in 1963.",
     },
     afterlife: [
       { year: 1963, kind: "release", label: "Academy Award for Best Foreign Film; immediate critical canonization." },
-      { year: 1980, kind: "academic", label: "Foundational text in auteur theory and cinema-studies curricula." },
+      { year: 1980, kind: "academic", label: "Foundational text in auteur theory and media-studies curricula." },
       { year: 2002, kind: "meme", label: "Nine (the musical) is one of many direct adaptations; the influence is pervasive." },
       { year: 2016, kind: "academic", label: "Sight & Sound poll: repeatedly ranked among the greatest films ever made." },
     ],
@@ -2140,7 +2140,7 @@ const CURATED: Artifact[] = [
     metrics: { consensus: 94, friction: 44, obsession: 96, haunting: 86, symbolic: 90, cult: 84, formal: 86, voltage: 94, accessibility: 72, reach: 92, progeny: 88, arc: 42, transgression: 68 },
     notes: {
       friction: "The Travis-as-incel reading, emerging in the 2010s, reopened a debate that seemed settled: is the film endorsing or diagnosing?",
-      obsession: "The mirror monologue and 'you talkin' to me' are among the most quoted lines in cinema history.",
+      obsession: "The mirror monologue and 'you talkin' to me' are among the most quoted lines in media history.",
     },
     afterlife: [
       { year: 1976, kind: "release", label: "Palme d'Or at Cannes; De Niro becomes a star; immediate debate." },
@@ -2173,7 +2173,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 1980, kind: "release", label: "Initially divisive; gradually recognized as a masterpiece within the decade." },
-      { year: 1990, kind: "academic", label: "Core text in masculinity studies and American cinema courses." },
+      { year: 1990, kind: "academic", label: "Core text in masculinity studies and American media courses." },
       { year: 1997, kind: "criterion", label: "Criterion release and major restoration." },
       { year: 2012, kind: "academic", label: "AFI Top 100 and Sight & Sound poll recognition solidifies canonical status." },
     ],
@@ -2194,7 +2194,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-063",
     epigraph: "I'm finished.",
     reading:
-      "Plainview drinks Eli's milkshake and the oil age announces itself complete. Daniel Day-Lewis's performance is among the most inhabited in cinema history — a man who has converted every human impulse into extraction — and Jonny Greenwood's score treats the California earth as something that has been violated and is screaming. The film's final scene lands with the weight of an entire century collapsing.",
+      "Plainview drinks Eli's milkshake and the oil age announces itself complete. Daniel Day-Lewis's performance is among the most inhabited in media history — a man who has converted every human impulse into extraction — and Jonny Greenwood's score treats the California earth as something that has been violated and is screaming. The film's final scene lands with the weight of an entire century collapsing.",
     metrics: { consensus: 94, friction: 38, obsession: 94, haunting: 88, symbolic: 94, cult: 76, formal: 91, voltage: 94, accessibility: 64, reach: 82, progeny: 68, arc: 35, transgression: 30 },
     notes: {
       obsession: "The 'I drink your milkshake' line penetrated general culture almost immediately after release.",
@@ -2223,7 +2223,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-064",
     epigraph: "We may be through with the past, but the past ain't through with us.",
     reading:
-      "It rains frogs in the San Fernando Valley and everyone begins to sing, and PTA commits to this without irony or apology. Three hours of intersecting lives in crisis build to a climax that is either the bravest scene in 1990s cinema or its most deluded, depending entirely on what you think sincerity is worth. The Aimee Mann songs stop being background and become the film's conscience.",
+      "It rains frogs in the San Fernando Valley and everyone begins to sing, and PTA commits to this without irony or apology. Three hours of intersecting lives in crisis build to a climax that is either the bravest scene in 1990s media or its most deluded, depending entirely on what you think sincerity is worth. The Aimee Mann songs stop being background and become the film's conscience.",
     metrics: { consensus: 72, friction: 80, obsession: 86, haunting: 80, symbolic: 90, cult: 82, formal: 88, voltage: 92, accessibility: 52, reach: 65, progeny: 52, arc: 40, transgression: 28 },
     notes: {
       friction: "The frog scene polarizes on a fundamental level: is sincerity earned or performed? The debate has not resolved.",
@@ -2237,7 +2237,7 @@ const CURATED: Artifact[] = [
     factions: [
       { name: "The Believers", share: 0.46, voice: "“It is the most honest film about the impossibility of forgiveness and the necessity of it anyway.”" },
       { name: "The Skeptics", share: 0.36, voice: "“Three hours of maximalist sincerity that never earns the catharsis it demands.”" },
-      { name: "The Song People", share: 0.18, voice: "“The Aimee Mann sequence is the only moment in cinema where music becomes communal prayer.”" },
+      { name: "The Song People", share: 0.18, voice: "“The Aimee Mann sequence is the only moment in media where music becomes communal prayer.”" },
     ],
     symbols: ["the frogs", "the quiz kid", "Frank T.J. Mackey's stage", "the Aimee Mann singalong", "Phil's cassette tape", "the map of coincidence"],
     pos: { x: 0.74, y: 0.46 },
@@ -2251,10 +2251,10 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-065",
     epigraph: "Ernest Hemingway once wrote: the world is a fine place and worth fighting for. I agree with the second part.",
     reading:
-      "John Doe has already won when Somerset and Mills arrive at the film. The box is the point — the question of what's inside it generates dread for twenty years after the answer is given — and the killer's victory is structured into the genre with a cold precision Fincher would never quite repeat. Se7en convinced a decade of filmmakers that gray rain and moral defeat were the proper mode for serious crime cinema.",
+      "John Doe has already won when Somerset and Mills arrive at the film. The box is the point — the question of what's inside it generates dread for twenty years after the answer is given — and the killer's victory is structured into the genre with a cold precision Fincher would never quite repeat. Se7en convinced a decade of filmmakers that gray rain and moral defeat were the proper mode for serious crime media.",
     metrics: { consensus: 88, friction: 44, obsession: 94, haunting: 90, symbolic: 84, cult: 74, formal: 84, voltage: 97, accessibility: 82, reach: 88, progeny: 72, arc: 30, transgression: 65 },
     notes: {
-      voltage: "The box sequence remains among the highest-voltage endings in genre cinema; the build is what makes it.",
+      voltage: "The box sequence remains among the highest-voltage endings in genre media; the build is what makes it.",
       obsession: "'What's in the box' is cultural reflex — the question outlasted the answer.",
     },
     afterlife: [
@@ -2291,7 +2291,7 @@ const CURATED: Artifact[] = [
       { year: 2020, kind: "academic", label: "True crime era revival; Zodiac is reclaimed as the definitive procedural." },
     ],
     factions: [
-      { name: "The Proceduralists", share: 0.48, voice: "“The best detective film in American cinema is about a detective who fails.”" },
+      { name: "The Proceduralists", share: 0.48, voice: "“The best detective film in American media is about a detective who fails.”" },
       { name: "The True Crime Devotees", share: 0.32, voice: "“Fincher got closer to the truth than anyone else — and knew to stop there.”" },
       { name: "The Skeptics", share: 0.20, voice: "“The length is the indulgence — the mystery doesn't earn 157 minutes.”" },
     ],
@@ -2315,7 +2315,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 1986, kind: "release", label: "Cannes controversy; Roger Ebert publicly objects; cult begins immediately." },
-      { year: 1990, kind: "academic", label: "Core text in suburban uncanny studies and American Gothic cinema." },
+      { year: 1990, kind: "academic", label: "Core text in suburban uncanny studies and American Gothic media." },
       { year: 2000, kind: "criterion", label: "Criterion release; Lynch's cultural canonization accelerates." },
       { year: 2017, kind: "academic", label: "Twin Peaks: The Return revival brings Blue Velvet back into active discourse." },
     ],
@@ -2365,7 +2365,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-069",
     epigraph: "The dead know only one thing: it is better to be alive.",
     reading:
-      "The film breaks in half. Part one is Gunnery Sergeant Hartman's boot camp — a perfect enclosure of dehumanization — and Part two is Vietnam, fragmentary and unresolved. The break is the argument: military training produces one thing, war produces another, and the two have no coherent relationship. Pyle's breakdown in the bathroom is among the most devastating scene transitions in American cinema.",
+      "The film breaks in half. Part one is Gunnery Sergeant Hartman's boot camp — a perfect enclosure of dehumanization — and Part two is Vietnam, fragmentary and unresolved. The break is the argument: military training produces one thing, war produces another, and the two have no coherent relationship. Pyle's breakdown in the bathroom is among the most devastating scene transitions in American media.",
     metrics: { consensus: 88, friction: 68, obsession: 92, haunting: 80, symbolic: 86, cult: 82, formal: 88, voltage: 92, accessibility: 76, reach: 82, progeny: 72, arc: 32, transgression: 65 },
     notes: {
       friction: "The diptych structure remains contested: is the break a flaw or the point? The debate maps onto larger questions about war-film coherence.",
@@ -2373,12 +2373,12 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 1987, kind: "release", label: "Venice premiere; positive critical reception; wide theatrical success." },
-      { year: 1995, kind: "academic", label: "Core text in masculinity, military, and Vietnam-cinema studies." },
+      { year: 1995, kind: "academic", label: "Core text in masculinity, military, and Vietnam-media studies." },
       { year: 2010, kind: "meme", label: "Hartman's drill instructor dialogue becomes one of the most quoted in internet culture." },
     ],
     factions: [
       { name: "The Structure Defenders", share: 0.44, voice: "“The break is the argument — training and war are incompatible systems.”" },
-      { name: "The Boot Camp Loyalists", share: 0.36, voice: "“The first half is perfect cinema; the second half is the cost of making it.”" },
+      { name: "The Boot Camp Loyalists", share: 0.36, voice: "“The first half is perfect media; the second half is the cost of making it.”" },
       { name: "The Dissenters", share: 0.20, voice: "“Kubrick aestheticizes military dehumanization in ways that are not entirely critical.”" },
     ],
     symbols: ["Pyle's bathroom", "the peace-button/sniper duality", "Hartman's cadences", "Animal Mother's helmet", "the burning city", "the doll's eye"],
@@ -2397,7 +2397,7 @@ const CURATED: Artifact[] = [
     metrics: { consensus: 96, friction: 24, obsession: 92, haunting: 90, symbolic: 88, cult: 32, formal: 86, voltage: 97, accessibility: 88, reach: 90, progeny: 60, arc: 30, transgression: 40 },
     notes: {
       voltage: "The shower scene, the liquidation of the ghetto, and the final grave-laying sequence produce sustained physiological grief.",
-      symbolic: "The red coat is cinema's most analyzed instance of color as moral grammar.",
+      symbolic: "The red coat is media's most analyzed instance of color as moral grammar.",
     },
     afterlife: [
       { year: 1993, kind: "release", label: "Seven Academy Awards including Best Picture and Director; immediate global impact." },
@@ -2414,7 +2414,7 @@ const CURATED: Artifact[] = [
     pos: { x: 0.58, y: 0.78 },
   },
 
-  // ── Horror & Extreme Cinema ─────────────────────────────────────────────────
+  // ── Horror & Extreme Media ─────────────────────────────────────────────────
 
   {
     slug: "the-witch",
@@ -2425,7 +2425,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-071",
     epigraph: "Wouldst thou like to live deliciously?",
     reading:
-      "A Puritan family is expelled from their colonial plantation and settles at the edge of a wood, and everything they believe about sin, salvation, and female autonomy becomes the mechanism of their destruction. Thomasin's final scene — her body lifted into the trees — refuses to determine whether she is liberated or destroyed. Black Phillip has become the most effective advertising slogan for damnation in modern cinema.",
+      "A Puritan family is expelled from their colonial plantation and settles at the edge of a wood, and everything they believe about sin, salvation, and female autonomy becomes the mechanism of their destruction. Thomasin's final scene — her body lifted into the trees — refuses to determine whether she is liberated or destroyed. Black Phillip has become the most effective advertising slogan for damnation in modern media.",
     metrics: { consensus: 82, friction: 68, obsession: 80, haunting: 90, symbolic: 90, cult: 82, formal: 88, voltage: 86, accessibility: 54, reach: 60, progeny: 42, arc: 25, transgression: 52 },
     notes: {
       haunting: "Black Phillip's offer follows viewers. 'Wouldst thou like to live deliciously' recurs in the mind with unusual persistence.",
@@ -2491,7 +2491,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2023, kind: "release", label: "Cannes; A24; immediate critical war; box office disappointment." },
       { year: 2023, kind: "meme", label: "Joaquin Phoenix's nude odyssey becomes meme material almost immediately." },
-      { year: 2024, kind: "academic", label: "Essays on Jewish anxiety, masculine guilt, and art-cinema excess begin accumulating." },
+      { year: 2024, kind: "academic", label: "Essays on Jewish anxiety, masculine guilt, and art-media excess begin accumulating." },
     ],
     factions: [
       { name: "The Maximalists", share: 0.40, voice: "“The most ambitious American film of the decade — the failure is part of the argument.”" },
@@ -2518,12 +2518,12 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 1977, kind: "release", label: "Italian release; international giallo success; immediate cult formation." },
-      { year: 1995, kind: "academic", label: "Core text in horror formalism and Italian genre cinema studies." },
+      { year: 1995, kind: "academic", label: "Core text in horror formalism and Italian genre media studies." },
       { year: 2001, kind: "criterion", label: "Criterion release; mainstream critical legitimacy." },
       { year: 2018, kind: "reissue", label: "Guadagnino remake sparks major reengagement with the original." },
     ],
     factions: [
-      { name: "The Formalists", share: 0.48, voice: "“The color and sound are the argument — Argento makes cinema out of pure sensation.”" },
+      { name: "The Formalists", share: 0.48, voice: "“The color and sound are the argument — Argento makes media out of pure sensation.”" },
       { name: "The Horror Classicists", share: 0.34, voice: "“The greatest horror film that operates entirely without psychological realism.”" },
       { name: "The Skeptics", share: 0.18, voice: "“Style without substance — the dream logic excuses narrative incoherence.”" },
     ],
@@ -2568,7 +2568,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-076",
     epigraph: "I'm somebody now.",
     reading:
-      "Four people collapse in parallel — heroin, television, diet pills, loneliness — and Aronofsky deploys every technique in the arsenal to make the viewer experience the collapse physiologically. It is one of the least rewatchable films in the index. Lux Aeterna has become culturally disembodied from its source, appearing in trailers for decades. Sara Goldfarb's refrigerator terror remains the most accurate depiction of stimulant psychosis in popular cinema.",
+      "Four people collapse in parallel — heroin, television, diet pills, loneliness — and Aronofsky deploys every technique in the arsenal to make the viewer experience the collapse physiologically. It is one of the least rewatchable films in the index. Lux Aeterna has become culturally disembodied from its source, appearing in trailers for decades. Sara Goldfarb's refrigerator terror remains the most accurate depiction of stimulant psychosis in popular media.",
     metrics: { consensus: 84, friction: 52, obsession: 90, haunting: 97, symbolic: 84, cult: 84, formal: 90, voltage: 99, accessibility: 58, reach: 78, progeny: 58, arc: 28, transgression: 82 },
     notes: {
       haunting: "The film recurs involuntarily and without warning. Multiple viewers report avoidance strategies specifically to prevent intrusion.",
@@ -2576,7 +2576,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2000, kind: "release", label: "NC-17 controversy; Aronofsky recut to R; Cannes; strong critical reception." },
-      { year: 2005, kind: "academic", label: "Core text in addiction cinema and sensory-overload formal studies." },
+      { year: 2005, kind: "academic", label: "Core text in addiction media and sensory-overload formal studies." },
       { year: 2010, kind: "meme", label: "Lux Aeterna detaches from the film entirely; becomes universal 'epic' trailer music." },
       { year: 2020, kind: "academic", label: "Opioid crisis revival brings it back as documentary-adjacent viewing." },
     ],
@@ -2597,7 +2597,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-077",
     epigraph: "I give and give and give. It's never enough.",
     reading:
-      "An F CinemaScore from general audiences and near-universal praise from critics represents the catalogue's most dramatic reception bifurcation. The film is a Biblical allegory detonated inside a domestic horror — Jennifer Lawrence is Earth, Javier Bardem is God, and the poem being consumed is Creation. The final sequence is among the most extreme conclusions in mainstream cinema. Aronofsky refused to explain it and the refusal was the correct choice.",
+      "An F CinemaScore from general audiences and near-universal praise from critics represents the catalogue's most dramatic reception bifurcation. The film is a Biblical allegory detonated inside a domestic horror — Jennifer Lawrence is Earth, Javier Bardem is God, and the poem being consumed is Creation. The final sequence is among the most extreme conclusions in mainstream media. Aronofsky refused to explain it and the refusal was the correct choice.",
     metrics: { consensus: 34, friction: 99, obsession: 84, haunting: 90, symbolic: 99, cult: 80, formal: 90, voltage: 99, accessibility: 28, reach: 65, progeny: 30, arc: 28, transgression: 72 },
     notes: {
       friction: "Maximum friction: the critic consensus and the audience consensus are so divergent that they appear to describe different films.",
@@ -2609,7 +2609,7 @@ const CURATED: Artifact[] = [
       { year: 2020, kind: "academic", label: "Climate readings emerge as the ecological layer becomes the primary framework." },
     ],
     factions: [
-      { name: "The Allegorical Readers", share: 0.44, voice: "“It is the most complete religious-ecological allegory in American cinema.”" },
+      { name: "The Allegorical Readers", share: 0.44, voice: "“It is the most complete religious-ecological allegory in American media.”" },
       { name: "The Domestic Horror Readers", share: 0.32, voice: "“The allegory is incidental — it is a film about being consumed by a narcissist.”" },
       { name: "The Refusers", share: 0.24, voice: "“The technique is in service of an argument that cannot survive scrutiny.”" },
     ],
@@ -2625,11 +2625,11 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-078",
     epigraph: "Is it about the rabbit?",
     reading:
-      "Lynch's last and least forgiving film dissolves an actress into her role into a Polish folk tale into a Hollywood set into a corridor that may not have an end. Shot on consumer DV — deliberately degraded — it is the most formally hostile entry in the catalogue. Even Lynch devotees are divided. The Axxon N. sequences are among the most genuinely disorienting passages in narrative cinema. Laura Dern's performance holds the whole fragmented mass together through sheer presence.",
+      "Lynch's last and least forgiving film dissolves an actress into her role into a Polish folk tale into a Hollywood set into a corridor that may not have an end. Shot on consumer DV — deliberately degraded — it is the most formally hostile entry in the catalogue. Even Lynch devotees are divided. The Axxon N. sequences are among the most genuinely disorienting passages in narrative media. Laura Dern's performance holds the whole fragmented mass together through sheer presence.",
     metrics: { consensus: 52, friction: 94, obsession: 78, haunting: 96, symbolic: 97, cult: 80, formal: 99, voltage: 90, accessibility: 8, reach: 38, progeny: 42, arc: 35, transgression: 25 },
     notes: {
       accessibility: "Lowest accessibility in the catalogue. No handholds are provided and none are coming.",
-      formal: "Shot on DV, deliberately. The degraded image is the argument about cinema consuming itself.",
+      formal: "Shot on DV, deliberately. The degraded image is the argument about media consuming itself.",
     },
     afterlife: [
       { year: 2006, kind: "release", label: "Venice; self-distributed by Lynch; immediate cult formation." },
@@ -2645,7 +2645,7 @@ const CURATED: Artifact[] = [
     pos: { x: 0.78, y: 0.88 },
   },
 
-  // ── Asian Cinema ────────────────────────────────────────────────────────────
+  // ── Asian Media ────────────────────────────────────────────────────────────
 
   {
     slug: "oldboy-2003",
@@ -2656,17 +2656,17 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-079",
     epigraph: "Laugh and the world laughs with you. Weep and you weep alone.",
     reading:
-      "Oh Dae-su is imprisoned for fifteen years for reasons he does not know and released into a revenge narrative whose resolution rewrites everything that came before. Park's film is a machine built to produce one specific devastating revelation at a specific moment, and it succeeds completely. The corridor fight — one continuous take, exhausted, real — remains the defining action sequence of Korean cinema.",
+      "Oh Dae-su is imprisoned for fifteen years for reasons he does not know and released into a revenge narrative whose resolution rewrites everything that came before. Park's film is a machine built to produce one specific devastating revelation at a specific moment, and it succeeds completely. The corridor fight — one continuous take, exhausted, real — remains the defining action sequence of Korean media.",
     metrics: { consensus: 88, friction: 64, obsession: 94, haunting: 96, symbolic: 90, cult: 88, formal: 90, voltage: 97, accessibility: 74, reach: 68, progeny: 65, arc: 35, transgression: 88 },
     notes: {
       haunting: "The revelation reframes the entire preceding film and does not leave. Viewers report the film returning to them at odd moments for years.",
-      obsession: "The corridor fight is among the most referenced sequences in world cinema — cited for craft independently of the film's narrative.",
+      obsession: "The corridor fight is among the most referenced sequences in world media — cited for craft independently of the film's narrative.",
     },
     afterlife: [
       { year: 2003, kind: "release", label: "Cannes Grand Prix; immediate international distribution; Korean Wave arrival." },
-      { year: 2006, kind: "academic", label: "Core text in revenge-cinema and Korean New Wave studies." },
+      { year: 2006, kind: "academic", label: "Core text in revenge-media and Korean New Wave studies." },
       { year: 2013, kind: "reissue", label: "Spike Lee remake prompts widespread critical reengagement with the original." },
-      { year: 2020, kind: "academic", label: "Standard text in global cinema courses on moral inversion." },
+      { year: 2020, kind: "academic", label: "Standard text in global media courses on moral inversion." },
     ],
     factions: [
       { name: "The Formalists", share: 0.40, voice: "“The corridor fight alone justifies the entire film.”" },
@@ -2717,7 +2717,7 @@ const CURATED: Artifact[] = [
       "Mima Kirigoe quits her idol group to become an actress and finds her image and identity distributed across the internet before the internet was what it became. Satoshi Kon's first feature is a horror film about the female body as public property and the mind's inability to maintain coherent selfhood under surveillance. Darren Aronofsky purchased the remake rights and used two sequences directly in Requiem for a Dream.",
     metrics: { consensus: 92, friction: 38, obsession: 92, haunting: 97, symbolic: 94, cult: 90, formal: 92, voltage: 90, accessibility: 64, reach: 62, progeny: 78, arc: 48, transgression: 70 },
     notes: {
-      haunting: "Mima's doppelganger is one of cinema's most persistent hostile presences — she returns.",
+      haunting: "Mima's doppelganger is one of media's most persistent hostile presences — she returns.",
       symbolic: "Celebrity, image, the female body as public property, and identity dissolution are not the film's themes: they are its architecture.",
     },
     afterlife: [
@@ -2746,7 +2746,7 @@ const CURATED: Artifact[] = [
       "The forest gods are dying and no one is simply wrong. Miyazaki's greatest political film refuses the narrative convenience of a villain — Eboshi is building a future for society's discarded people and destroying a sacred forest simultaneously; San belongs to the wolves but was born human; Ashitaka can love both sides and save neither. The Forest Spirit's head is detached and the world floods white.",
     metrics: { consensus: 96, friction: 18, obsession: 92, haunting: 84, symbolic: 90, cult: 74, formal: 90, voltage: 84, accessibility: 82, reach: 80, progeny: 68, arc: 32, transgression: 25 },
     notes: {
-      consensus: "Among the most agreed-upon films in world cinema. Unusually, its moral complexity has not generated sustained interpretive war.",
+      consensus: "Among the most agreed-upon films in world media. Unusually, its moral complexity has not generated sustained interpretive war.",
       symbolic: "The ecology and industrialization allegory is complete and present in every scene without becoming didactic.",
     },
     afterlife: [
@@ -2756,7 +2756,7 @@ const CURATED: Artifact[] = [
       { year: 2020, kind: "academic", label: "Climate discourse revival: the film reads as contemporary rather than historical." },
     ],
     factions: [
-      { name: "The Ecological Readers", share: 0.48, voice: "“The most honest and complex ecological allegory in cinema.”" },
+      { name: "The Ecological Readers", share: 0.48, voice: "“The most honest and complex ecological allegory in media.”" },
       { name: "The Lovers", share: 0.34, voice: "“Ashitaka and San's relationship is the most mature in Miyazaki's work.”" },
       { name: "The Formalists", share: 0.18, voice: "“The hand-drawn world-building is the summit of Ghibli's technical achievement.”" },
     ],
@@ -2772,21 +2772,21 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-083",
     epigraph: "Every day we brush past so many people. People we may never meet. Or people who may become close friends.",
     reading:
-      "Two loneliness stories in Hong Kong, loosely held together by a snack bar and California Dreamin'. WKW shot it in six weeks as a break from the production of Ashes of Time and produced the defining romantic-urban film of the 1990s. Faye's wiggly dance behind the counter and Cop 663's conversations with his soap are among cinema's most precise portraits of the specific sadness of new love not yet arriving.",
+      "Two loneliness stories in Hong Kong, loosely held together by a snack bar and California Dreamin'. WKW shot it in six weeks as a break from the production of Ashes of Time and produced the defining romantic-urban film of the 1990s. Faye's wiggly dance behind the counter and Cop 663's conversations with his soap are among media's most precise portraits of the specific sadness of new love not yet arriving.",
     metrics: { consensus: 94, friction: 22, obsession: 88, haunting: 88, symbolic: 84, cult: 80, formal: 90, voltage: 80, accessibility: 74, reach: 55, progeny: 68, arc: 35, transgression: 5 },
     notes: {
-      haunting: "The pining quality of Wong's cinema is specifically haunting — it installs a kind of anticipatory sadness that returns.",
-      formal: "Step-printing and handheld intimacy produced a visual language that defined a generation of independent cinema.",
+      haunting: "The pining quality of Wong's media is specifically haunting — it installs a kind of anticipatory sadness that returns.",
+      formal: "Step-printing and handheld intimacy produced a visual language that defined a generation of independent media.",
     },
     afterlife: [
       { year: 1994, kind: "release", label: "Venice; Cannes; immediate international circulation." },
       { year: 1996, kind: "criterion", label: "Criterion release; became the canonical entry point for WKW." },
-      { year: 2010, kind: "academic", label: "Core text in urban melancholy, Hong Kong cinema, and romantic-formalism studies." },
+      { year: 2010, kind: "academic", label: "Core text in urban melancholy, Hong Kong media, and romantic-formalism studies." },
       { year: 2020, kind: "meme", label: "Faye's California Dreamin' dance becomes a recurring TikTok cultural reference." },
     ],
     factions: [
       { name: "The Romanticists", share: 0.50, voice: "“It is the most accurate portrait of the feeling of longing as its own complete experience.”" },
-      { name: "The Formalists", share: 0.30, voice: "“The step-printing alone changed how independent cinema looks.”" },
+      { name: "The Formalists", share: 0.30, voice: "“The step-printing alone changed how independent media looks.”" },
       { name: "The Hong Kong Readers", share: 0.20, voice: "“It is also about 1997 — about a city holding its breath.”" },
     ],
     symbols: ["California Dreamin'", "the canned pineapple expiration date", "Faye's counter dance", "Cop 663's apartment", "the moving salmon", "the snack bar"],
@@ -2813,7 +2813,7 @@ const CURATED: Artifact[] = [
       { year: 2019, kind: "academic", label: "Sight & Sound and other polls place it among the greatest films of the 21st century." },
     ],
     factions: [
-      { name: "The Universal", share: 0.56, voice: "“It is the most complete and accessible magical world ever constructed for cinema.”" },
+      { name: "The Universal", share: 0.56, voice: "“It is the most complete and accessible magical world ever constructed for media.”" },
       { name: "The Symbolic Readers", share: 0.28, voice: "“Every element of the bathhouse is a reading of Japanese modernity.”" },
       { name: "The Pure Experiencers", share: 0.16, voice: "“Analysis diminishes it — it must be encountered, not decoded.”" },
     ],
@@ -2871,7 +2871,7 @@ const CURATED: Artifact[] = [
       { year: 2017, kind: "release", label: "Sundance; Blumhouse; $255M worldwide on $4.5M budget; Academy Award nomination." },
       { year: 2017, kind: "meme", label: "'The sunken place' enters permanent American political vocabulary within months." },
       { year: 2018, kind: "academic", label: "Academy Award for Best Original Screenplay; core text in race and horror studies." },
-      { year: 2022, kind: "academic", label: "Peele retrospective: canonized as defining work of 2010s American cinema." },
+      { year: 2022, kind: "academic", label: "Peele retrospective: canonized as defining work of 2010s American media." },
     ],
     factions: [
       { name: "The Racial Allegory Readers", share: 0.52, voice: "“The most precise satirical dissection of white liberal racism ever put on film.”" },
@@ -2922,7 +2922,7 @@ const CURATED: Artifact[] = [
     metrics: { consensus: 90, friction: 52, obsession: 80, haunting: 97, symbolic: 94, cult: 48, formal: 97, voltage: 90, accessibility: 42, reach: 62, progeny: 28, arc: 18, transgression: 55 },
     notes: {
       haunting: "What is not shown haunts more completely than any direct depiction could. The wall becomes a permanent presence in the viewer's mind.",
-      formal: "The absence as technique — the offscreen atrocity — is the most radical formal choice in recent Holocaust cinema.",
+      formal: "The absence as technique — the offscreen atrocity — is the most radical formal choice in recent Holocaust media.",
     },
     afterlife: [
       { year: 2023, kind: "release", label: "Cannes Grand Prix; Academy Award for Best International Feature." },
@@ -2930,7 +2930,7 @@ const CURATED: Artifact[] = [
       { year: 2024, kind: "academic", label: "Glazer's acceptance speech generates political controversy; the film's discourse expands." },
     ],
     factions: [
-      { name: "The Formal Readers", share: 0.48, voice: "“The wall is the most important compositional choice in recent cinema.”" },
+      { name: "The Formal Readers", share: 0.48, voice: "“The wall is the most important compositional choice in recent media.”" },
       { name: "The Ethical Readers", share: 0.34, voice: "“It answers Lanzmann's challenge: representation without voyeurism.”" },
       { name: "The Skeptics", share: 0.18, voice: "“The restraint becomes its own aesthetic pleasure — is that the right feeling to produce?”" },
     ],
@@ -2954,7 +2954,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2011, kind: "release", label: "Cannes Best Actress (Dunst); immediate critical embrace." },
-      { year: 2015, kind: "academic", label: "Core text in depression cinema, ecological cinema, and Trier corpus studies." },
+      { year: 2015, kind: "academic", label: "Core text in depression media, ecological media, and Trier corpus studies." },
       { year: 2020, kind: "rediscovery", label: "Pandemic discourse: the film's vision of civilizational end is revisited." },
     ],
     factions: [
@@ -2974,7 +2974,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-090",
     epigraph: "I have come to ask for your help.",
     reading:
-      "A bare stage. Chalk lines indicate walls. Houses have names painted on the ground. Grace arrives and the town of Dogville, Nebraska accommodates her, then exploits her, then destroys her. Von Trier strips cinema of every visual pleasure and leaves pure narrative and moral argument — the absence of sets forces the viewer to complete the world and implicates them in it. The ending, in which the town is destroyed, plays over photographs of American poverty.",
+      "A bare stage. Chalk lines indicate walls. Houses have names painted on the ground. Grace arrives and the town of Dogville, Nebraska accommodates her, then exploits her, then destroys her. Von Trier strips media of every visual pleasure and leaves pure narrative and moral argument — the absence of sets forces the viewer to complete the world and implicates them in it. The ending, in which the town is destroyed, plays over photographs of American poverty.",
     metrics: { consensus: 68, friction: 86, obsession: 80, haunting: 82, symbolic: 94, cult: 72, formal: 97, voltage: 86, accessibility: 22, reach: 45, progeny: 40, arc: 30, transgression: 50 },
     notes: {
       formal: "The radical elimination of sets is not an affectation — it is the argument: the social contract requires only imagined walls to function.",
@@ -2982,11 +2982,11 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2003, kind: "release", label: "Cannes; immediate controversy over its critique of America; US theatrical disappointment." },
-      { year: 2008, kind: "academic", label: "Core text in Brechtian cinema, theatrical adaptation, and political film studies." },
+      { year: 2008, kind: "academic", label: "Core text in Brechtian media, theatrical adaptation, and political film studies." },
       { year: 2020, kind: "rediscovery", label: "BLM discourse brings its critique of American moral hypocrisy back into currency." },
     ],
     factions: [
-      { name: "The Political Readers", share: 0.46, voice: "“The most complete critique of American moral exceptionalism in cinema.”" },
+      { name: "The Political Readers", share: 0.46, voice: "“The most complete critique of American moral exceptionalism in media.”" },
       { name: "The Formalists", share: 0.34, voice: "“The blank stage is the bravest formal choice in Trier's career.”" },
       { name: "The Skeptics", share: 0.20, voice: "“Anti-Americanism as formal innovation — the politics overwhelm the drama.”" },
     ],
@@ -3010,7 +3010,7 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 2005, kind: "release", label: "Cannes Best Director; immediate critical consecration." },
-      { year: 2010, kind: "academic", label: "Core text in French colonial guilt studies and surveillance cinema." },
+      { year: 2010, kind: "academic", label: "Core text in French colonial guilt studies and surveillance media." },
       { year: 2022, kind: "academic", label: "Algerian War de-secrecy in France revives the film's specific historical argument." },
     ],
     factions: [
@@ -3058,7 +3058,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-093",
     epigraph: "She is not crazy. She just loves too much.",
     reading:
-      "Mabel Longhetti is institutionalized for behavior that is unconventional and exhausting and that a man would never be hospitalized for. Cassavetes and Gena Rowlands produced the most forensic portrait of female psychological experience being diagnosed as mental illness in American cinema — and did so with what appears to be documentary intimacy. The film's discomfort is indistinguishable from compassion. It takes two hours and thirty-five minutes and does not feel long.",
+      "Mabel Longhetti is institutionalized for behavior that is unconventional and exhausting and that a man would never be hospitalized for. Cassavetes and Gena Rowlands produced the most forensic portrait of female psychological experience being diagnosed as mental illness in American media — and did so with what appears to be documentary intimacy. The film's discomfort is indistinguishable from compassion. It takes two hours and thirty-five minutes and does not feel long.",
     metrics: { consensus: 86, friction: 44, obsession: 74, haunting: 90, symbolic: 82, cult: 62, formal: 84, voltage: 94, accessibility: 58, reach: 38, progeny: 60, arc: 52, transgression: 30 },
     notes: {
       voltage: "Rowlands' performance produces sustained physiological response — the discomfort is real, not stylized.",
@@ -3066,8 +3066,8 @@ const CURATED: Artifact[] = [
     },
     afterlife: [
       { year: 1974, kind: "release", label: "Self-distributed by Cassavetes; immediate critical acclaim; Oscar nominations." },
-      { year: 1990, kind: "criterion", label: "Criterion release; independent cinema canonical text established." },
-      { year: 2010, kind: "academic", label: "Core text in feminist psychology and American independent cinema studies." },
+      { year: 1990, kind: "criterion", label: "Criterion release; independent media canonical text established." },
+      { year: 2010, kind: "academic", label: "Core text in feminist psychology and American independent media studies." },
     ],
     factions: [
       { name: "The Feminist Readers", share: 0.48, voice: "“Mabel is not ill — she is punished for existing in a way that inconveniences men.”" },
@@ -3086,7 +3086,7 @@ const CURATED: Artifact[] = [
     catalogue: "ARTX-094",
     epigraph: "Was I false to you?",
     reading:
-      "A Texas childhood in the 1950s is bracketed by the creation of the universe and the resurrection of the dead. Malick's most ambitious film is also his most literal statement of purpose: cinema as prayer, as cosmogenesis, as the attempt to find grace inside ordinary daylight. The dinosaur scene is not a mistake or an indulgence; it is the argument. Walk of life — way of nature versus way of grace — structures every moment.",
+      "A Texas childhood in the 1950s is bracketed by the creation of the universe and the resurrection of the dead. Malick's most ambitious film is also his most literal statement of purpose: media as prayer, as cosmogenesis, as the attempt to find grace inside ordinary daylight. The dinosaur scene is not a mistake or an indulgence; it is the argument. Walk of life — way of nature versus way of grace — structures every moment.",
     metrics: { consensus: 68, friction: 88, obsession: 84, haunting: 90, symbolic: 96, cult: 80, formal: 95, voltage: 84, accessibility: 28, reach: 62, progeny: 42, arc: 42, transgression: 12 },
     notes: {
       friction: "The Cannes audience booed and awarded it the Palme d'Or simultaneously. The dinosaur scene remains the primary battleground.",
@@ -3098,7 +3098,7 @@ const CURATED: Artifact[] = [
       { year: 2021, kind: "academic", label: "Ecological and theological readings intensify; Malick's philosophical project recognized." },
     ],
     factions: [
-      { name: "The Believers", share: 0.44, voice: "“The only film that has made me feel the presence of something beyond cinema.”" },
+      { name: "The Believers", share: 0.44, voice: "“The only film that has made me feel the presence of something beyond media.”" },
       { name: "The Skeptics", share: 0.38, voice: "“Cosmic ambition poorly calibrated to domestic drama — the scales never harmonize.”" },
       { name: "The Formalists", share: 0.18, voice: "“Lubezki's cinematography is the film's most coherent statement.”" },
     ],
@@ -3122,7 +3122,7 @@ const CURATED: Artifact[] = [
       accessibility: "Low. Requires deep familiarity with Roman history, Coppola's biography, and a tolerance for Theatrical Absurdism.",
     },
     afterlife: [
-      { year: 2024, kind: "release", label: "Cannes premiere creates a Cultural Schism that defines the year in cinema." },
+      { year: 2024, kind: "release", label: "Cannes premiere creates a Cultural Schism that defines the year in media." },
       { year: 2025, kind: "academic", label: "Becomes the primary case study for 'Late-Style' and 'Unfiltered Auteurism'." },
       { year: 2026, kind: "meme", label: "Screenings begin to take on a participatory, ritualistic quality similar to The Room but with high-art gravity." },
     ],
@@ -3182,7 +3182,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2022, kind: "release", label: "Cannes premiere creates a quiet ripple that turns into a global tidal wave of acclaim." },
       { year: 2023, kind: "meme", label: "The Under Pressure sequence becomes the gold standard for the Needle Drop in film discourse." },
-      { year: 2025, kind: "academic", label: "Becomes the primary text for 'The Cinema of Resignation' and memory-mapping." },
+      { year: 2025, kind: "academic", label: "Becomes the primary text for 'The Media of Resignation' and memory-mapping." },
     ],
     factions: [
       { name: "The Grief-Mappers", share: 0.65, voice: "“It's the most accurate depiction of how we remember the people we've lost — fragmented and heartbreakingly close.”" },
@@ -3230,7 +3230,7 @@ const CURATED: Artifact[] = [
     catalogue: "WND-001",
     epigraph: "I don't want to be the Joker anymore.",
     reading:
-      "Folie à Deux is a Structural Sabotage. Its cultural life is defined by high Friction and a massive Negative Arc. Unlike its predecessor, which unified a specific subculture, the sequel was designed to antagonize its own core audience. It scores high on Transgression — not through violence, but through the violation of franchise expectations. It is a work of high Symbolic Density regarding the performance of identity, yet it suffered a complete collapse of Consensus, becoming a primary Wound in the comic-book-cinema timeline.",
+      "Folie à Deux is a Structural Sabotage. Its cultural life is defined by high Friction and a massive Negative Arc. Unlike its predecessor, which unified a specific subculture, the sequel was designed to antagonize its own core audience. It scores high on Transgression — not through violence, but through the violation of franchise expectations. It is a work of high Symbolic Density regarding the performance of identity, yet it suffered a complete collapse of Consensus, becoming a primary Wound in the comic-book-media timeline.",
     metrics: { consensus: 15, friction: 98, obsession: 62, haunting: 45, symbolic: 82, cult: 12, formal: 78, voltage: 55, accessibility: 60, reach: 75, progeny: 20, arc: 92, transgression: 85 },
     notes: {
       friction: "Near-maximum. The film acts as a Rorschach test for whether an auteur has the right to destroy his own mythos.",
@@ -3267,7 +3267,7 @@ const CURATED: Artifact[] = [
       accessibility: "Very low; the film refuses to subtitle spiritual internalizations, requiring total surrender to the image.",
     },
     afterlife: [
-      { year: 2026, kind: "release", label: "Cannes Grand Prix; hailed as the New Frontier of haptic cinema." },
+      { year: 2026, kind: "release", label: "Cannes Grand Prix; hailed as the New Frontier of haptic media." },
       { year: 2026, kind: "meme", label: "The White Screen sequence becomes a visual test for high-end display technology." },
     ],
     factions: [
@@ -3325,7 +3325,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2025, kind: "release", label: "Global premiere; becomes the first Post-AI-Anxiety blockbuster to achieve critical dominance." },
       { year: 2026, kind: "meme", label: "The Multiple Mickeys become a universal visual shorthand for digital burnout." },
-      { year: 2026, kind: "academic", label: "Primary text for 'The Biopolitics of the Expendable Body' in 21st-century cinema." },
+      { year: 2026, kind: "academic", label: "Primary text for 'The Biopolitics of the Expendable Body' in 21st-century media." },
     ],
     factions: [
       { name: "The Political Satirists", share: 0.50, voice: "“Bong Joon-ho has made the ultimate movie about the modern worker: we are all just Mickeys to our employers.”" },
@@ -3413,7 +3413,7 @@ const CURATED: Artifact[] = [
     afterlife: [
       { year: 2024, kind: "release", label: "Theatrical debut triggers massive discourse regarding 'The Ethics of Neutrality'." },
       { year: 2025, kind: "meme", label: "The 'What kind of American are you?' quote is co-opted across the political spectrum." },
-      { year: 2026, kind: "academic", label: "Becomes the definitive case study for 'The Cinema of the Objective Lens'." },
+      { year: 2026, kind: "academic", label: "Becomes the definitive case study for 'The Media of the Objective Lens'." },
     ],
     factions: [
       { name: "The Objective Journalists", share: 0.40, voice: "“A chilling, necessary look at how war looks when the good guy narrative is removed. It's about the camera, not the cause.”" },
@@ -3461,7 +3461,7 @@ const CURATED: Artifact[] = [
     catalogue: "SCAR-007",
     epigraph: "Architecture is the art of wasting space beautifully.",
     reading:
-      "The Brutalist is a Monolith Artifact. Its primary feature is its Mass — a 70mm, nearly four-hour epic that demands total physical surrender from the viewer. It holds a high score for Formal Risk due to its intermission-structure and its refusal of modern Fast-Cinema editing. Its cultural position is defined by Awe; it is discussed as a Grand System of immigration, architecture, and the American Wound. It has a high Obsession score in academic and architectural circles, where its Visual Mathematics are dissected frame-by-frame.",
+      "The Brutalist is a Monolith Artifact. Its primary feature is its Mass — a 70mm, nearly four-hour epic that demands total physical surrender from the viewer. It holds a high score for Formal Risk due to its intermission-structure and its refusal of modern Fast-Media editing. Its cultural position is defined by Awe; it is discussed as a Grand System of immigration, architecture, and the American Wound. It has a high Obsession score in academic and architectural circles, where its Visual Mathematics are dissected frame-by-frame.",
     metrics: { consensus: 75, friction: 42, obsession: 94, haunting: 68, symbolic: 98, cult: 58, formal: 99, voltage: 72, accessibility: 15, reach: 35, progeny: 62, arc: 45, transgression: 40 },
     notes: {
       formal: "The 100-limit is tested by the use of 70mm VistaVision and the Built-In Intermission as a narrative device.",
@@ -3551,7 +3551,7 @@ const CURATED: Artifact[] = [
       "My Own Private Idaho is the Poetic Ghost of New Queer Cinema. Its cultural position is defined by high Residual Haunting, tied inextricably to the real-world death of River Phoenix, which has merged the actor and the character into a singular Spectral Archetype. Its Formal Risk is high, blending Shakespearean dialogue with street-level narcoleptic dream-logic. It maintains high Symbolic Density as a work of Road-Movie Surrealism and is an obsessed-over object for its depiction of unrequited love and class displacement.",
     metrics: { consensus: 78, friction: 25, obsession: 92, haunting: 98, symbolic: 88, cult: 95, formal: 91, voltage: 84, accessibility: 45, reach: 62, progeny: 85, arc: 60, transgression: 72 },
     notes: {
-      haunting: "Near-ceiling. The image of Mike asleep on the highway is a foundational Intrusive Image in independent cinema.",
+      haunting: "Near-ceiling. The image of Mike asleep on the highway is a foundational Intrusive Image in independent media.",
       cult: "Maximum score; the film created a community of devotion that transcends the medium, influencing fashion and queer identity.",
       formal: "The Time-Lapse clouds and the Living Magazine covers were radical formal risks for a 1991 studio-adjacent film.",
     },
@@ -3578,7 +3578,7 @@ const CURATED: Artifact[] = [
     catalogue: "LONE-003",
     epigraph: "She was dead. She was just laying there.",
     reading:
-      "River's Edge is the Moral Void of the 1980s. It stands in direct Friction with the John Hughes era of teen cinema; it is the dark, nihilistic shadow of the American suburbs. Its cultural footprint is defined by Anesthetized Voltage — the shocking lack of reaction from its characters to a murder. It holds a high Transgression score for its depiction of youth apathy and has a high Residual Haunting tied to the blow-up doll and the raw, unpolished performance of Crispin Glover. It is a Wound that refuses to heal, representing the moment the Small Town dream was exposed as a hollow shell.",
+      "River's Edge is the Moral Void of the 1980s. It stands in direct Friction with the John Hughes era of teen media; it is the dark, nihilistic shadow of the American suburbs. Its cultural footprint is defined by Anesthetized Voltage — the shocking lack of reaction from its characters to a murder. It holds a high Transgression score for its depiction of youth apathy and has a high Residual Haunting tied to the blow-up doll and the raw, unpolished performance of Crispin Glover. It is a Wound that refuses to heal, representing the moment the Small Town dream was exposed as a hollow shell.",
     metrics: { consensus: 72, friction: 48, obsession: 55, haunting: 86, symbolic: 65, cult: 82, formal: 62, voltage: 78, accessibility: 75, reach: 50, progeny: 74, arc: 45, transgression: 91 },
     notes: {
       transgression: "High score for the casual nature of the murder and the moral numbness that still feels radical and uncomfortable.",
