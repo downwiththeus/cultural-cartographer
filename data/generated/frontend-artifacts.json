@@ -546,7 +546,7 @@
       "slug": "possession",
       "title": "Possession",
       "year": 1981,
-      "director": "Andrzej Żuławski",
+      "director": "Andrzej \u017bu\u0142awski",
       "runtime": 124,
       "catalogue": "ARTX-010",
       "metrics": {
@@ -593,7 +593,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Possession (1981) directed by Andrzej Żuławski. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Possession (1981) directed by Andrzej \u017bu\u0142awski. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -664,7 +664,7 @@
     },
     {
       "slug": "tar",
-      "title": "Tár",
+      "title": "T\u00e1r",
       "year": 2022,
       "director": "Todd Field",
       "runtime": 158,
@@ -713,7 +713,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Tár (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "T\u00e1r (2022) directed by Todd Field. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -1129,7 +1129,7 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauhtémoc, Chihuahua State, Northern Mexic"
+          "voice": "Silent Light (Plautdietsch: Stellet Licht) is a 2007 film written and directed by Carlos Reygadas. Filmed in a Mennonite colony close to Cuauht\u00e9moc, Chihuahua State, Northern Mexic"
         }
       ],
       "afterlife": [
@@ -1262,14 +1262,14 @@
         {
           "name": "devoted",
           "share": 0.5,
-          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
+          "voice": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fantasy drama film written, produced, and directed by Apichatpong"
         }
       ],
       "afterlife": [
         {
           "occurredAt": "2026-05-12T05:55:31.285Z",
           "kind": "release",
-          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: ลุงบุญมีระลึกชาติ; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
+          "label": "Uncle Boonmee Who Can Recall His Past Lives (Thai: \u0e25\u0e38\u0e07\u0e1a\u0e38\u0e0d\u0e21\u0e35\u0e23\u0e30\u0e25\u0e36\u0e01\u0e0a\u0e32\u0e15\u0e34; RTGS: Lung Bunmi Raluek Chat) is a 2010 Thai fanta",
           "evidenceUrl": "https://en.wikipedia.org/wiki/Uncle_Boonmee_Who_Can_Recall_His_Past_Lives",
           "evidenceMentionId": "uncle-boonmee:wikipedia:26978753"
         }
@@ -1851,7 +1851,7 @@
         {
           "name": "The Blue-Collar Believers",
           "share": 0.33,
-          "voice": "Focus on the small business aspect—the idea of ghosts as a plumbing problem."
+          "voice": "Focus on the small business aspect\u2014the idea of ghosts as a plumbing problem."
         },
         {
           "name": "The Gozerian Occultists",
@@ -1917,7 +1917,7 @@
         {
           "name": "The Aesthetic Revivalists",
           "share": 0.5,
-          "voice": "Focused on the visual language—cosplay, decor, and Burton's German Expressionist-for-kids gamble."
+          "voice": "Focused on the visual language\u2014cosplay, decor, and Burton's German Expressionist-for-kids gamble."
         },
         {
           "name": "The Death-Bureaucrats",
@@ -2429,7 +2429,7 @@
       "slug": "enter-the-void-2009",
       "title": "Enter the Void",
       "year": 2009,
-      "director": "Gaspar Noé",
+      "director": "Gaspar No\u00e9",
       "runtime": 161,
       "catalogue": "ARTX-038",
       "metrics": {
@@ -2472,7 +2472,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Enter the Void (2009) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Enter the Void (2009) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -2597,7 +2597,7 @@
       "slug": "climax-2018",
       "title": "Climax",
       "year": 2018,
-      "director": "Gaspar Noé",
+      "director": "Gaspar No\u00e9",
       "runtime": 96,
       "catalogue": "ARTX-041",
       "metrics": {
@@ -2640,7 +2640,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Climax (2018) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Climax (2018) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -2768,7 +2768,7 @@
         {
           "name": "The Stunt-Veritists",
           "share": 0.33,
-          "voice": "A faction that ignores the plot to focus on the reality of the production—valuing the film as a historical document of physical risk."
+          "voice": "A faction that ignores the plot to focus on the reality of the production\u2014valuing the film as a historical document of physical risk."
         }
       ],
       "afterlife": [
@@ -3022,7 +3022,7 @@
         {
           "name": "The Temporal Nostalgics",
           "share": 0.5,
-          "voice": "Viewers who report a longing for a 1955 that never existed—the film generates nostalgia for a past no one lived."
+          "voice": "Viewers who report a longing for a 1955 that never existed\u2014the film generates nostalgia for a past no one lived."
         }
       ],
       "afterlife": [
@@ -3853,7 +3853,7 @@
     },
     {
       "slug": "cache-2005",
-      "title": "Caché",
+      "title": "Cach\u00e9",
       "year": 2005,
       "director": "Michael Haneke",
       "runtime": 117,
@@ -3893,7 +3893,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Caché (2005) directed by Michael Haneke. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Cach\u00e9 (2005) directed by Michael Haneke. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -4047,57 +4047,6 @@
           "name": "analytical",
           "share": 1,
           "voice": "Drive (2011) directed by Nicolas Winding Refn. Curated baseline artifact for metric calibration and systematic scoring initialization."
-        }
-      ],
-      "afterlife": [],
-      "freshness": {
-        "lastCollectedAt": "2026-05-15T00:00:00.000Z",
-        "lastComputedAt": "2026-05-15T00:00:00.000Z"
-      }
-    },
-    {
-      "slug": "eternal-sunshine-2004",
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "year": 2004,
-      "director": "Michel Gondry",
-      "runtime": 108,
-      "catalogue": "ARTX-087",
-      "metrics": {
-        "consensus": 100,
-        "friction": 0,
-        "obsession": 16,
-        "haunting": 16,
-        "symbolic": 72,
-        "cult": 25,
-        "formal": 12,
-        "voltage": 0,
-        "accessibility": 66
-      },
-      "metricConfidence": {
-        "consensus": 0.18,
-        "friction": 0.18,
-        "obsession": 0.18,
-        "haunting": 0.18,
-        "symbolic": 0.18,
-        "cult": 0.18,
-        "formal": 0.18,
-        "voltage": 0.18,
-        "accessibility": 0.18
-      },
-      "reviewGate": {
-        "status": "needs_review",
-        "reasons": [
-          "evidence_below_threshold:1<5",
-          "source_diversity_below_threshold:1<2",
-          "confidence_below_threshold:0.18<0.55"
-        ]
-      },
-      "symbols": [],
-      "factions": [
-        {
-          "name": "analytical",
-          "share": 1,
-          "voice": "Eternal Sunshine of the Spotless Mind (2004) directed by Michel Gondry. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -4363,9 +4312,9 @@
     },
     {
       "slug": "irreversible-2002",
-      "title": "Irréversible",
+      "title": "Irr\u00e9versible",
       "year": 2002,
-      "director": "Gaspar Noé",
+      "director": "Gaspar No\u00e9",
       "runtime": 97,
       "catalogue": "ARTX-085",
       "metrics": {
@@ -4403,7 +4352,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Irréversible (2002) directed by Gaspar Noé. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Irr\u00e9versible (2002) directed by Gaspar No\u00e9. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -4722,7 +4671,7 @@
       "slug": "portrait-of-a-lady-on-fire-2019",
       "title": "Portrait of a Lady on Fire",
       "year": 2019,
-      "director": "Céline Sciamma",
+      "director": "C\u00e9line Sciamma",
       "runtime": 122,
       "catalogue": "ARTX-050",
       "metrics": {
@@ -4760,7 +4709,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Portrait of a Lady on Fire (2019) directed by Céline Sciamma. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Portrait of a Lady on Fire (2019) directed by C\u00e9line Sciamma. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -5232,7 +5181,7 @@
       "slug": "the-blair-witch-project-1999",
       "title": "The Blair Witch Project",
       "year": 1999,
-      "director": "Daniel Myrick & Eduardo Sánchez",
+      "director": "Daniel Myrick & Eduardo S\u00e1nchez",
       "runtime": 81,
       "catalogue": "ARTX-049",
       "metrics": {
@@ -5270,7 +5219,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "The Blair Witch Project (1999) directed by Daniel Myrick & Eduardo Sánchez. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "The Blair Witch Project (1999) directed by Daniel Myrick & Eduardo S\u00e1nchez. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -5436,7 +5385,7 @@
       "slug": "the-revenant-2015",
       "title": "The Revenant",
       "year": 2015,
-      "director": "Alejandro González Iñárritu",
+      "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu",
       "runtime": 156,
       "catalogue": "ARTX-100",
       "metrics": {
@@ -5474,7 +5423,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "The Revenant (2015) directed by Alejandro González Iñárritu. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "The Revenant (2015) directed by Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
@@ -5793,7 +5742,7 @@
       "slug": "three-colors-red-1994",
       "title": "Three Colors: Red",
       "year": 1994,
-      "director": "Krzysztof Kieślowski",
+      "director": "Krzysztof Kie\u015blowski",
       "runtime": 99,
       "catalogue": "ARTX-080",
       "metrics": {
@@ -5831,7 +5780,7 @@
         {
           "name": "analytical",
           "share": 1,
-          "voice": "Three Colors: Red (1994) directed by Krzysztof Kieślowski. Curated baseline artifact for metric calibration and systematic scoring initialization."
+          "voice": "Three Colors: Red (1994) directed by Krzysztof Kie\u015blowski. Curated baseline artifact for metric calibration and systematic scoring initialization."
         }
       ],
       "afterlife": [],
