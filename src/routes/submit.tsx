@@ -1,9 +1,11 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import type { MovieRecord, ApiUsage } from "@/lib/green";
 import { useUserFilms } from "@/lib/user-films-context";
 import { Sigil } from "@/components/Sigil";
+import { ARTIFACTS } from "@/data/artifacts";
+import type { Artifact } from "@/data/artifacts";
 
 export const Route = createFileRoute("/submit")({
   component: Submit,
@@ -36,22 +38,90 @@ const AXIS_LABELS: Record<string, string> = {
   transgression: "Transgression",
 };
 
+function normalize(t: string) {
+  return t.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function artifactToRecord(a: Artifact): MovieRecord {
+  return {
+    slug: a.slug,
+    title: a.title,
+    year: a.year,
+    director: a.director,
+    runtime: a.runtime,
+    catalogue: a.catalogue,
+    epigraph: a.epigraph,
+    reading: a.reading,
+    metrics: a.metrics,
+    notes: (a.notes ?? {}) as Record<string, string>,
+    afterlife: a.afterlife,
+    factions: a.factions,
+    symbols: a.symbols,
+    medium: a.medium,
+    pos: a.pos,
+  };
+}
+
 function Submit() {
   const [title, setTitle] = useState("");
   const [status, setStatus] = useState<Status>("idle");
   const [result, setResult] = useState<MovieRecord | null>(null);
   const [usage, setUsage] = useState<ApiUsage | null>(null);
   const [errorMsg, setErrorMsg] = useState("");
+  const [isExisting, setIsExisting] = useState(false);
+  const [suggestions, setSuggestions] = useState<Artifact[]>([]);
+  const [showSuggestions, setShowSuggestions] = useState(false);
   const { addUserFilm } = useUserFilms();
+  const suggestionsRef = useRef<HTMLDivElement>(null);
+
+  function handleTitleChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const val = e.target.value;
+    setTitle(val);
+    const q = normalize(val);
+    if (q.length < 2) {
+      setSuggestions([]);
+      setShowSuggestions(false);
+      return;
+    }
+    const matches = ARTIFACTS.filter((a) => normalize(a.title).includes(q)).slice(0, 8);
+    setSuggestions(matches);
+    setShowSuggestions(matches.length > 0);
+  }
+
+  function selectExisting(artifact: Artifact) {
+    setTitle(artifact.title);
+    setShowSuggestions(false);
+    setSuggestions([]);
+    setResult(artifactToRecord(artifact));
+    setIsExisting(true);
+    setUsage(null);
+    setStatus("done");
+  }
+
+  function handleInputBlur() {
+    // Delay so click on suggestion fires first
+    setTimeout(() => setShowSuggestions(false), 150);
+  }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!title.trim()) return;
 
+    setShowSuggestions(false);
+
+    // Surface exact match rather than re-submitting
+    const q = normalize(title.trim());
+    const exact = ARTIFACTS.find((a) => normalize(a.title) === q);
+    if (exact) {
+      selectExisting(exact);
+      return;
+    }
+
     setStatus("loading");
     setResult(null);
     setUsage(null);
     setErrorMsg("");
+    setIsExisting(false);
 
     try {
       const res = await fetch("/api/scrape", {
@@ -118,17 +188,44 @@ function Submit() {
             Media title
           </label>
           <div className="flex gap-4">
-            <input
-              type="text"
-              value={title}
-              onChange={(e) => setTitle(e.target.value)}
-              placeholder="e.g. Inland Empire"
-              disabled={status === "loading"}
-              className={
-                "flex-1 border border-border bg-transparent px-4 py-3 font-display text-xl text-vellum placeholder:text-vellum-dim/40 " +
-                "focus:border-oxblood focus:outline-none disabled:opacity-40"
-              }
-            />
+            <div className="relative flex-1">
+              <input
+                type="text"
+                value={title}
+                onChange={handleTitleChange}
+                onBlur={handleInputBlur}
+                onFocus={() => suggestions.length > 0 && setShowSuggestions(true)}
+                placeholder="e.g. Inland Empire"
+                disabled={status === "loading"}
+                className={
+                  "w-full border border-border bg-transparent px-4 py-3 font-display text-xl text-vellum placeholder:text-vellum-dim/40 " +
+                  "focus:border-oxblood focus:outline-none disabled:opacity-40"
+                }
+              />
+              {showSuggestions && (
+                <div
+                  ref={suggestionsRef}
+                  className="absolute top-full left-0 right-0 z-50 border border-border border-t-0 bg-umber shadow-lg"
+                >
+                  {suggestions.map((a) => (
+                    <button
+                      key={a.slug}
+                      type="button"
+                      onMouseDown={() => selectExisting(a)}
+                      className="flex w-full items-baseline gap-3 px-4 py-2.5 text-left hover:bg-oxblood/10 transition-colors"
+                    >
+                      <span className="font-display text-base text-vellum">{a.title}</span>
+                      <span className="font-mono text-[10px] text-vellum-dim smallcaps shrink-0">
+                        {a.director} · {a.year}
+                      </span>
+                      <span className="ml-auto font-mono text-[9px] text-oxblood smallcaps shrink-0">
+                        already indexed
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
             <button
               type="submit"
               disabled={status === "loading" || !title.trim()}
@@ -172,7 +269,9 @@ function Submit() {
                 </p>
               )}
               <div className="mt-4 flex gap-6 font-mono text-[10px] smallcaps">
-                <span className="text-oxblood">Added to the index ·</span>
+                <span className="text-oxblood">
+                  {isExisting ? "Already in the index ·" : "Added to the index ·"}
+                </span>
                 <Link to="/" className="text-vellum-dim hover:text-vellum transition-colors">
                   View on map →
                 </Link>
@@ -336,6 +435,9 @@ function Submit() {
                   setResult(null);
                   setUsage(null);
                   setTitle("");
+                  setIsExisting(false);
+                  setSuggestions([]);
+                  setShowSuggestions(false);
                 }}
                 className="font-mono text-[11px] smallcaps text-vellum-dim hover:text-vellum transition-colors"
               >

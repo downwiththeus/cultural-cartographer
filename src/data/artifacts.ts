@@ -4177,7 +4177,6 @@ const GENERATED_EPIGRAPHS: Record<string, string> = {
   "drive-2011": "You give me a time and a place, I give you a five-minute window.",
   "enemy": "Chaos is order yet undeciphered.",
   "enter-the-void-2009": "Never abandon your sister.",
-  "eternal-sunshine-2004": "Meet me in Montauk.",
   "first-reformed": "Will God forgive us for what we've done to this world?",
   "ghostbusters-1984": "Back off, man. I'm a scientist.",
   "gone-girl-2014": "What are you thinking? How are you feeling? What have we done to each other?",
