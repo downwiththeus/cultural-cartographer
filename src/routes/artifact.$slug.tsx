@@ -215,13 +215,13 @@ function Dossier() {
             Lexicon ↗
           </Link>
         </div>
-        <div className="grid grid-cols-1 gap-x-12 gap-y-2 md:grid-cols-2">
+        <div className="grid grid-cols-1 gap-x-12 gap-y-0 md:grid-cols-2">
           {AXES.map((axis) => {
             const v = a.metrics[axis.key];
             const note = a.notes[axis.key];
             const band = getAxisBand(axis.key, v);
             return (
-              <div key={axis.key} className="border-b border-border py-5">
+              <div key={axis.key} className="border-b border-border py-6">
                 <div className="flex items-baseline justify-between">
                   <div className="font-display text-lg text-vellum">{axis.label}</div>
                   <div className="flex items-baseline gap-3">
@@ -231,15 +231,15 @@ function Dossier() {
                     </span>
                   </div>
                 </div>
-                <div className="mt-2 h-px w-full bg-vellum/10">
+                <div className="mt-3 h-px w-full bg-vellum/10">
                   <div
                     className="h-px bg-oxblood"
                     style={{ width: `${v}%` }}
                   />
                 </div>
-                <p className="mt-2 text-[11px] text-vellum/50">{band.description}</p>
+                <p className="mt-3 text-[12px] leading-relaxed text-vellum/50">{band.description}</p>
                 {note && (
-                  <p className="mt-2 font-display text-sm italic text-vellum-dim">{note}</p>
+                  <p className="mt-3 font-display text-sm italic text-vellum-dim">{note}</p>
                 )}
               </div>
             );
