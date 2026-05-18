@@ -8,7 +8,7 @@
     "medium": "tv",
     "catalogue": "TV-001",
     "epigraph": "We hope your time here will be a welcome reprieve from the problems of your personal life.",
-    "reading": "Severance arrived in 2022 as the most precise corporate-dread object the culture had produced since the pandemic reorganized how people relate to work. Its central conceit \u2014 a surgical procedure that cleaves an employee's work memories from their outside life \u2014 is so clean and so terrible that it lodged immediately. The show's production design, Ben Stiller's glacially patient direction, and the ensemble's commitment to deadpan dissociation produced a viewing experience that felt like being trapped inside a Kafka story that occasionally contained very good jokes. The discourse is dominated by theory, by the question of whether the 'outies' should feel guilt for their 'innies,' and by grief for what the series withholds. It is the rare genre work that turns workplace alienation into something that approaches the uncanny.",
+    "reading": "Severance arrived in 2022 as the most precise corporate-dread object the culture had produced since the pandemic reorganized how people relate to work. Its central conceit — a surgical procedure that cleaves an employee's work memories from their outside life — is so clean and so terrible that it lodged immediately. The show's production design, Ben Stiller's glacially patient direction, and the ensemble's commitment to deadpan dissociation produced a viewing experience that felt like being trapped inside a Kafka story that occasionally contained very good jokes. The discourse is dominated by theory, by the question of whether the 'outies' should feel guilt for their 'innies,' and by grief for what the series withholds. It is the rare genre work that turns workplace alienation into something that approaches the uncanny.",
     "metrics": {
       "consensus": 75,
       "friction": 72,
@@ -25,7 +25,7 @@
       "transgression": 70
     },
     "notes": {
-      "symbolic": "The severed floor as pure corporate logic made spatial \u2014 no windows, no clocks, no exit.",
+      "symbolic": "The severed floor as pure corporate logic made spatial — no windows, no clocks, no exit.",
       "formal": "Each episode is constructed around withheld information; the form mirrors the premise.",
       "haunting": "The 'innie/outie' structure produces a recursive horror: which self is watching the show?"
     },
@@ -89,7 +89,7 @@
     "medium": "tv",
     "catalogue": "TV-002",
     "epigraph": "I am the FBI.",
-    "reading": "Twin Peaks: The Return is the most formally radical work ever broadcast on American television \u2014 a statement that becomes less hyperbolic the longer it sits. Lynch returned to the franchise not to close it but to shatter its container entirely. Part 8, which suspends narrative for twenty minutes of avant-garde cinema set to Nine Inch Nails and depicts the atomic origins of evil as a kind of cosmic exhalation, stands as one of the most singular hours in the history of moving images. The revival's ending \u2014 which refuses resolution, loops backward, and leaves its protagonist suspended in a recursion that may be infinite \u2014 prompted a rupture in the audience that has never healed. Some experienced it as abandonment; others as the most honest finale imaginable, a refusal to pretend that grief and trauma resolve. The Return is not a television show. It is a cinema-length experience that happened to air on Showtime in eighteen installments.",
+    "reading": "Twin Peaks: The Return is the most formally radical work ever broadcast on American television — a statement that becomes less hyperbolic the longer it sits. Lynch returned to the franchise not to close it but to shatter its container entirely. Part 8, which suspends narrative for twenty minutes of avant-garde cinema set to Nine Inch Nails and depicts the atomic origins of evil as a kind of cosmic exhalation, stands as one of the most singular hours in the history of moving images. The revival's ending — which refuses resolution, loops backward, and leaves its protagonist suspended in a recursion that may be infinite — prompted a rupture in the audience that has never healed. Some experienced it as abandonment; others as the most honest finale imaginable, a refusal to pretend that grief and trauma resolve. The Return is not a television show. It is a cinema-length experience that happened to air on Showtime in eighteen installments.",
     "metrics": {
       "consensus": 35,
       "friction": 96,
@@ -106,7 +106,7 @@
       "transgression": 98
     },
     "notes": {
-      "consensus": "The lowest consensus in the index \u2014 genuinely no shared account of what the work is.",
+      "consensus": "The lowest consensus in the index — genuinely no shared account of what the work is.",
       "formal": "Part 8 alone justifies a 99. Nothing on broadcast television has attempted this.",
       "accessibility": "Requires: original series, Fire Walk With Me, tolerance for extended abstraction.",
       "transgression": "Violates every convention of the sequel, the revival, and the finale simultaneously."
@@ -176,7 +176,7 @@
     "medium": "tv",
     "catalogue": "TV-003",
     "epigraph": "He could touch them once to wake them, and once to kill them again.",
-    "reading": "Pushing Daisies is a cult object defined by its cancellation. Bryan Fuller constructed something so formally distinctive \u2014 a candy-colored, death-saturated fairy tale with a literary narrator and a visual grammar borrowed equally from Amelie and Edward Scissorhands \u2014 that ABC could neither market it properly nor let it breathe. Two seasons and a mid-sentence ending produced the kind of frozen longing that is specific to cancelled television: the grief is not for what the show was but for what it would have been. The devotion it attracted is disproportionate to its audience size; it is one of those works that found exactly its people, who in turn feel they discovered something private. Fuller's subsequent output \u2014 Hannibal, American Gods \u2014 has brought successive waves back to Pushing Daisies, where they encounter a show that has not aged but that the world was never ready for.",
+    "reading": "Pushing Daisies is a cult object defined by its cancellation. Bryan Fuller constructed something so formally distinctive — a candy-colored, death-saturated fairy tale with a literary narrator and a visual grammar borrowed equally from Amelie and Edward Scissorhands — that ABC could neither market it properly nor let it breathe. Two seasons and a mid-sentence ending produced the kind of frozen longing that is specific to cancelled television: the grief is not for what the show was but for what it would have been. The devotion it attracted is disproportionate to its audience size; it is one of those works that found exactly its people, who in turn feel they discovered something private. Fuller's subsequent output — Hannibal, American Gods — has brought successive waves back to Pushing Daisies, where they encounter a show that has not aged but that the world was never ready for.",
     "metrics": {
       "consensus": 68,
       "friction": 38,
@@ -194,7 +194,7 @@
     },
     "notes": {
       "cult": "Canonical cancelled-too-soon cult object. The incompleteness is the wound.",
-      "formal": "The visual grammar is entirely its own \u2014 no other show has successfully cloned it.",
+      "formal": "The visual grammar is entirely its own — no other show has successfully cloned it.",
       "arc": "Its cultural arc is frozen at the cancellation. No revival has arrived to reopen it."
     },
     "afterlife": [
@@ -284,18 +284,55 @@
       "symbolic": "Lower than Lynch or Tarkovsky, as the film functions as a hyper-literal system of data collection rather than a poetic/metaphorical sandbox, though the 'basement' acts as a clear descent-into-hell motif."
     },
     "afterlife": [
-      { "year": 2007, "kind": "release", "label": "Initial theatrical run; underperforms commercially as audiences expected a fast-paced thriller like Se7en." },
-      { "year": 2012, "kind": "rediscovery", "label": "Eminent film critics and internet communities organize a massive wave of reappraisal, labeling it one of the best films of the 2000s." },
-      { "year": 2017, "kind": "academic", "label": "Becomes a cornerstone text in film schools for its early, pioneering use of high-definition digital video (Thomson Viper) and invisible CGI worldbuilding." },
-      { "year": 2022, "kind": "meme", "label": "The 'Arthur Leigh Allen interview scene' and the basement sequence achieve legendary status on social media platforms as shorthand for maximum, claustrophobic tension." }
+      {
+        "year": 2007,
+        "kind": "release",
+        "label": "Initial theatrical run; underperforms commercially as audiences expected a fast-paced thriller like Se7en."
+      },
+      {
+        "year": 2012,
+        "kind": "rediscovery",
+        "label": "Eminent film critics and internet communities organize a massive wave of reappraisal, labeling it one of the best films of the 2000s."
+      },
+      {
+        "year": 2017,
+        "kind": "academic",
+        "label": "Becomes a cornerstone text in film schools for its early, pioneering use of high-definition digital video (Thomson Viper) and invisible CGI worldbuilding."
+      },
+      {
+        "year": 2022,
+        "kind": "meme",
+        "label": "The 'Arthur Leigh Allen interview scene' and the basement sequence achieve legendary status on social media platforms as shorthand for maximum, claustrophobic tension."
+      }
     ],
     "factions": [
-      { "name": "The Procedural Purists", "share": 0.55, "voice": "It is the greatest movie ever made about work, bureaucratic exhaustion, and how the pursuit of an objective truth can slowly destroy a human life." },
-      { "name": "The Aesthetic Archivists", "share": 0.32, "voice": "Fincher's digital precision creates a flawless time capsule; the movie doesn't just recreate the 1970s, it feels like it is haunted by the ghosts of San Francisco's past." },
-      { "name": "The Anti-Climactic Skeptics", "share": 0.13, "voice": "An exhausting, overly long slog that builds up massive amounts of tension only to end with a whimper and a series of title cards." }
+      {
+        "name": "The Procedural Purists",
+        "share": 0.55,
+        "voice": "It is the greatest movie ever made about work, bureaucratic exhaustion, and how the pursuit of an objective truth can slowly destroy a human life."
+      },
+      {
+        "name": "The Aesthetic Archivists",
+        "share": 0.32,
+        "voice": "Fincher's digital precision creates a flawless time capsule; the movie doesn't just recreate the 1970s, it feels like it is haunted by the ghosts of San Francisco's past."
+      },
+      {
+        "name": "The Anti-Climactic Skeptics",
+        "share": 0.13,
+        "voice": "An exhausting, overly long slog that builds up massive amounts of tension only to end with a whimper and a series of title cards."
+      }
     ],
-    "symbols": ["crossed-circle cipher", "Lake Berryessa executioner hood", "yellow legal pads", "basement footsteps", "San Francisco Chronicle mailroom"],
-    "pos": { "x": 0.81, "y": 0.59 }
+    "symbols": [
+      "crossed-circle cipher",
+      "Lake Berryessa executioner hood",
+      "yellow legal pads",
+      "basement footsteps",
+      "San Francisco Chronicle mailroom"
+    ],
+    "pos": {
+      "x": 0.81,
+      "y": 0.59
+    }
   },
   {
     "slug": "nashville-1975",
@@ -328,18 +365,55 @@
       "accessibility": "Relatively low for a major studio production; the lack of a singular protagonist or standard cause-and-effect narrative framework resists casual, passive viewing."
     },
     "afterlife": [
-      { "year": 1975, "kind": "release", "label": "Theatrical premiere; meets widespread critical rhapsody and receives five Academy Award nominations." },
-      { "year": 1975, "kind": "wound", "label": "The country music capital intensely disowns the film, with stars like Webb Pierce actively protesting its depiction of the industry." },
-      { "year": 2000, "kind": "criterion", "label": "The film enters prestigious home video preservation tracks, sealing its canonization for the turn of the century." },
-      { "year": 2010, "kind": "academic", "label": "Becomes a fundamental text in academic syllabi covering post-Watergate disillusionment and the anatomy of the American political spectacle." }
+      {
+        "year": 1975,
+        "kind": "release",
+        "label": "Theatrical premiere; meets widespread critical rhapsody and receives five Academy Award nominations."
+      },
+      {
+        "year": 1975,
+        "kind": "wound",
+        "label": "The country music capital intensely disowns the film, with stars like Webb Pierce actively protesting its depiction of the industry."
+      },
+      {
+        "year": 2000,
+        "kind": "criterion",
+        "label": "The film enters prestigious home video preservation tracks, sealing its canonization for the turn of the century."
+      },
+      {
+        "year": 2010,
+        "kind": "academic",
+        "label": "Becomes a fundamental text in academic syllabi covering post-Watergate disillusionment and the anatomy of the American political spectacle."
+      }
     ],
     "factions": [
-      { "name": "The Polyphonic Structuralists", "share": 0.52, "voice": "It is a miraculous, sprawling tapestry that perfectly mirrors the messy, simultaneous reality of human life; a masterclass in direct, democratic filmmaking where every character is humanized." },
-      { "name": "The Cynical Satire Dissidents", "share": 0.31, "voice": "Altman is operating from a position of coastal condescension, treating working-class culture and Middle America as a collection of petty, shallow, and pathetic caricatures." },
-      { "name": "The Technical Formalists", "share": 0.17, "voice": "The narrative is second to the auditory experiment; it is a film that must be heard and decoded like a live radio broadcast rather than watched as a traditional movie." }
+      {
+        "name": "The Polyphonic Structuralists",
+        "share": 0.52,
+        "voice": "It is a miraculous, sprawling tapestry that perfectly mirrors the messy, simultaneous reality of human life; a masterclass in direct, democratic filmmaking where every character is humanized."
+      },
+      {
+        "name": "The Cynical Satire Dissidents",
+        "share": 0.31,
+        "voice": "Altman is operating from a position of coastal condescension, treating working-class culture and Middle America as a collection of petty, shallow, and pathetic caricatures."
+      },
+      {
+        "name": "The Technical Formalists",
+        "share": 0.17,
+        "voice": "The narrative is second to the auditory experiment; it is a film that must be heard and decoded like a live radio broadcast rather than watched as a traditional movie."
+      }
     ],
-    "symbols": ["The Replacement Party van", "tricycle motorcycle", "glowing political billboard", "impromptu highway pileup", "white cowboy hat"],
-    "pos": { "x": 0.43, "y": 0.67 }
+    "symbols": [
+      "The Replacement Party van",
+      "tricycle motorcycle",
+      "glowing political billboard",
+      "impromptu highway pileup",
+      "white cowboy hat"
+    ],
+    "pos": {
+      "x": 0.43,
+      "y": 0.67
+    }
   },
   {
     "slug": "alien-1979",
@@ -373,18 +447,55 @@
       "progeny": "Nearing absolute saturation. The film effectively birthed the entire 'used future' aesthetic of science fiction and the survival-horror genre across all media platforms."
     },
     "afterlife": [
-      { "year": 1979, "kind": "release", "label": "Original theatrical release; widespread audience panic, box-office dominance, and immediate pop-culture saturation." },
-      { "year": 2002, "kind": "academic", "label": "Becomes a cornerstone text in feminist film theory, heavily analyzed for its subversion of traditional slasher tropes and male vulnerability." },
-      { "year": 2003, "kind": "reissue", "label": "Ridley Scott releases a 'Director's Cut' theatrical restoration, keeping the conversation actively fixed in theaters." },
-      { "year": 2014, "kind": "meme", "label": "Jonesy the cat and the Nostromo's neon green CRT interfaces become highly aestheticized fixtures across Tumblr, Pinterest, and synthwave subcultures." }
+      {
+        "year": 1979,
+        "kind": "release",
+        "label": "Original theatrical release; widespread audience panic, box-office dominance, and immediate pop-culture saturation."
+      },
+      {
+        "year": 2002,
+        "kind": "academic",
+        "label": "Becomes a cornerstone text in feminist film theory, heavily analyzed for its subversion of traditional slasher tropes and male vulnerability."
+      },
+      {
+        "year": 2003,
+        "kind": "reissue",
+        "label": "Ridley Scott releases a 'Director's Cut' theatrical restoration, keeping the conversation actively fixed in theaters."
+      },
+      {
+        "year": 2014,
+        "kind": "meme",
+        "label": "Jonesy the cat and the Nostromo's neon green CRT interfaces become highly aestheticized fixtures across Tumblr, Pinterest, and synthwave subcultures."
+      }
     ],
     "factions": [
-      { "name": "The Psychosexual Industrialists", "share": 0.58, "voice": "The film is an absolute, terrifyingly pure manifestations of birth trauma, reproductive horror, and sexual violation, designed specifically to strip away human hubris." },
-      { "name": "The Blue-Collar Materialists", "share": 0.32, "voice": "It's the ultimate movie about bad working conditions; the true monster isn't the Xenomorph, it's Weyland-Yutani treating human lives as expendable for their quarterly profit margins." },
-      { "name": "The Pure Rollercoaster Stylists", "share": 0.10, "voice": "An incredibly well-crafted, atmospheric haunted house movie set in space that works purely on a physiological level without needing deep intellectual parsing." }
+      {
+        "name": "The Psychosexual Industrialists",
+        "share": 0.58,
+        "voice": "The film is an absolute, terrifyingly pure manifestations of birth trauma, reproductive horror, and sexual violation, designed specifically to strip away human hubris."
+      },
+      {
+        "name": "The Blue-Collar Materialists",
+        "share": 0.32,
+        "voice": "It's the ultimate movie about bad working conditions; the true monster isn't the Xenomorph, it's Weyland-Yutani treating human lives as expendable for their quarterly profit margins."
+      },
+      {
+        "name": "The Pure Rollercoaster Stylists",
+        "share": 0.1,
+        "voice": "An incredibly well-crafted, atmospheric haunted house movie set in space that works purely on a physiological level without needing deep intellectual parsing."
+      }
     ],
-    "symbols": ["glowing green egg chamber", "hydraulic drop ceiling slime", "the cat carrier", "CRT monochrome radar blinking", "the self-destruct steam venting"],
-    "pos": { "x": 0.92, "y": 0.41 }
+    "symbols": [
+      "glowing green egg chamber",
+      "hydraulic drop ceiling slime",
+      "the cat carrier",
+      "CRT monochrome radar blinking",
+      "the self-destruct steam venting"
+    ],
+    "pos": {
+      "x": 0.92,
+      "y": 0.41
+    }
   },
   {
     "slug": "the-thing-1982",
@@ -417,19 +528,60 @@
       "arc": "A perfect 99. The database registers this as the gold standard for a complete 180-degree turn in critical and cultural valuation over a forty-year timeline."
     },
     "afterlife": [
-      { "year": 1982, "kind": "release", "label": "Theatrical premiere; catastrophic box office bomb, universally trashed by critics who called it 'instant junk' and 'morbid.'" },
-      { "year": 1982, "kind": "rejection", "label": "John Carpenter is dropped from future studio contracts due to the film's financial and critical failure." },
-      { "year": 1990, "kind": "rediscovery", "label": "A massive wave of appreciation builds via late-night cable television and VHS rentals, establishing its underground legendary status." },
-      { "year": 2011, "kind": "academic", "label": "Enters standard film curricula as a premier text for cold-war paranoia, body horror, and toxic masculinity studies." },
-      { "year": 2020, "kind": "meme", "label": "The 'Wilford Brimley computer simulation' and 'MacReady with a flamethrower' images become omnipresent internet reaction macros during global periods of isolation." }
+      {
+        "year": 1982,
+        "kind": "release",
+        "label": "Theatrical premiere; catastrophic box office bomb, universally trashed by critics who called it 'instant junk' and 'morbid.'"
+      },
+      {
+        "year": 1982,
+        "kind": "rejection",
+        "label": "John Carpenter is dropped from future studio contracts due to the film's financial and critical failure."
+      },
+      {
+        "year": 1990,
+        "kind": "rediscovery",
+        "label": "A massive wave of appreciation builds via late-night cable television and VHS rentals, establishing its underground legendary status."
+      },
+      {
+        "year": 2011,
+        "kind": "academic",
+        "label": "Enters standard film curricula as a premier text for cold-war paranoia, body horror, and toxic masculinity studies."
+      },
+      {
+        "year": 2020,
+        "kind": "meme",
+        "label": "The 'Wilford Brimley computer simulation' and 'MacReady with a flamethrower' images become omnipresent internet reaction macros during global periods of isolation."
+      }
     ],
     "factions": [
-      { "name": "The Deductive Sleuths", "share": 0.46, "voice": "The movie is a perfect clockwork puzzle; Carpenter left explicit visual clues (breath, clothing, eye reflections) that reveal exactly when Childs or Palmer were turned if you look closely enough." },
-      { "name": "The Nihilistic Paranoiacs", "share": 0.36, "voice": "It's a terrifying, unmatched look at the total breakdown of social trust; it proves that when survival is on the line, isolation and suspicion will destroy us faster than any alien creature." },
-      { "name": "The Practical Effects Purists", "share": 0.18, "voice": "A beautiful, tactile monument to the absolute peak of analog makeup and practical special effects before CGI arrived to turn everything sterile and weightless." }
+      {
+        "name": "The Deductive Sleuths",
+        "share": 0.46,
+        "voice": "The movie is a perfect clockwork puzzle; Carpenter left explicit visual clues (breath, clothing, eye reflections) that reveal exactly when Childs or Palmer were turned if you look closely enough."
+      },
+      {
+        "name": "The Nihilistic Paranoiacs",
+        "share": 0.36,
+        "voice": "It's a terrifying, unmatched look at the total breakdown of social trust; it proves that when survival is on the line, isolation and suspicion will destroy us faster than any alien creature."
+      },
+      {
+        "name": "The Practical Effects Purists",
+        "share": 0.18,
+        "voice": "A beautiful, tactile monument to the absolute peak of analog makeup and practical special effects before CGI arrived to turn everything sterile and weightless."
+      }
     ],
-    "symbols": ["petri dish and hot wire", "flamethrower in the snow", "shattered kennel cage", "dog silhouette in a doorway", "two men drinking in the dark"],
-    "pos": { "x": 0.21, "y": 0.88 }
+    "symbols": [
+      "petri dish and hot wire",
+      "flamethrower in the snow",
+      "shattered kennel cage",
+      "dog silhouette in a doorway",
+      "two men drinking in the dark"
+    ],
+    "pos": {
+      "x": 0.21,
+      "y": 0.88
+    }
   },
   {
     "slug": "eternal-sunshine-of-the-spotless-mind-2004",
@@ -462,18 +614,55 @@
       "voltage": "Maintained by the sheer physiological weight of the third act, particularly the crumbling beach house sequence, which regularly logs high-intensity vocabulary surrounding grief and romantic futility."
     },
     "afterlife": [
-      { "year": 2004, "kind": "release", "label": "Theatrical release; immediate critical rhapsody and surprise box-office resilience for an avant-garde romantic narrative." },
-      { "year": 2005, "kind": "academic", "label": "Wins the Academy Award for Best Original Screenplay, instantly solidifying Charlie Kaufman's work in screenwriting syllabi worldwide." },
-      { "year": 2014, "kind": "meme", "label": "The image of Joel and Clementine lying on the frozen Charles River achieves permanent, viral status as an internet shorthand for fragile, doomed intimacy." },
-      { "year": 2024, "kind": "reissue", "label": "20th-anniversary retrospective essays and 4K restorations spark a massive wave of cultural reappraisal focusing on the ethics of technological memory manipulation." }
+      {
+        "year": 2004,
+        "kind": "release",
+        "label": "Theatrical release; immediate critical rhapsody and surprise box-office resilience for an avant-garde romantic narrative."
+      },
+      {
+        "year": 2005,
+        "kind": "academic",
+        "label": "Wins the Academy Award for Best Original Screenplay, instantly solidifying Charlie Kaufman's work in screenwriting syllabi worldwide."
+      },
+      {
+        "year": 2014,
+        "kind": "meme",
+        "label": "The image of Joel and Clementine lying on the frozen Charles River achieves permanent, viral status as an internet shorthand for fragile, doomed intimacy."
+      },
+      {
+        "year": 2024,
+        "kind": "reissue",
+        "label": "20th-anniversary retrospective essays and 4K restorations spark a massive wave of cultural reappraisal focusing on the ethics of technological memory manipulation."
+      }
     ],
     "factions": [
-      { "name": "The Hopeful Fatalists", "share": 0.54, "voice": "The ending is beautiful because it embraces the pain; knowing that a relationship will fail or cause immense grief doesn't make the lived experience of loving someone any less vital." },
-      { "name": "The Tragic Realists", "share": 0.34, "voice": "It's a deeply tragic, cyclical horror film disguised as a romance; they are fundamentally incompatible and destined to inflict the exact same psychological wounds on each other forever." },
-      { "name": "The Technical Romantics", "share": 0.12, "voice": "The emotional core only lands because of Gondry's whimsical, handmade practical effects, which ground Kaufman's hyper-intellectual cynicism in something human and warm." }
+      {
+        "name": "The Hopeful Fatalists",
+        "share": 0.54,
+        "voice": "The ending is beautiful because it embraces the pain; knowing that a relationship will fail or cause immense grief doesn't make the lived experience of loving someone any less vital."
+      },
+      {
+        "name": "The Tragic Realists",
+        "share": 0.34,
+        "voice": "It's a deeply tragic, cyclical horror film disguised as a romance; they are fundamentally incompatible and destined to inflict the exact same psychological wounds on each other forever."
+      },
+      {
+        "name": "The Technical Romantics",
+        "share": 0.12,
+        "voice": "The emotional core only lands because of Gondry's whimsical, handmade practical effects, which ground Kaufman's hyper-intellectual cynicism in something human and warm."
+      }
     ],
-    "symbols": ["frozen Charles River", "orange hoodie", "fading book titles in a library", "shattering Montauk beach house", "cassette tapes of erased confessions"],
-    "pos": { "x": 0.86, "y": 0.32 }
+    "symbols": [
+      "frozen Charles River",
+      "orange hoodie",
+      "fading book titles in a library",
+      "shattering Montauk beach house",
+      "cassette tapes of erased confessions"
+    ],
+    "pos": {
+      "x": 0.86,
+      "y": 0.32
+    }
   },
   {
     "slug": "there-will-be-blood-2007",
@@ -506,18 +695,55 @@
       "cult": "Low cult score. It was immediately canonized by major institutions, film critics, and festivals at launch, bypassing the need for an underground reclamation arc."
     },
     "afterlife": [
-      { "year": 2007, "kind": "release", "label": "Theatrical premiere; instantly hailed as an American masterpiece, setting up a legendary critical showdown with No Country for Old Men." },
-      { "year": 2008, "kind": "wound", "label": "Daniel Day-Lewis wins Best Actor; the 'I drink your milkshake!' line explodes into a massive, uncoordinated mainstream pop-culture meme that nearly threatens to overshadow the film's gravity." },
-      { "year": 2015, "kind": "academic", "label": "Widely cited in academic literature as the definitive film of the 2000s, heavily analyzed through the lenses of eco-criticism, extraction capitalism, and frontier hostility." },
-      { "year": 2022, "kind": "meme", "label": "Plainview's hyper-misanthropic monologues experience a massive resurgence on TikTok and Twitter as aestheticized reaction audio representing absolute exhaustion or spiteful ambition." }
+      {
+        "year": 2007,
+        "kind": "release",
+        "label": "Theatrical premiere; instantly hailed as an American masterpiece, setting up a legendary critical showdown with No Country for Old Men."
+      },
+      {
+        "year": 2008,
+        "kind": "wound",
+        "label": "Daniel Day-Lewis wins Best Actor; the 'I drink your milkshake!' line explodes into a massive, uncoordinated mainstream pop-culture meme that nearly threatens to overshadow the film's gravity."
+      },
+      {
+        "year": 2015,
+        "kind": "academic",
+        "label": "Widely cited in academic literature as the definitive film of the 2000s, heavily analyzed through the lenses of eco-criticism, extraction capitalism, and frontier hostility."
+      },
+      {
+        "year": 2022,
+        "kind": "meme",
+        "label": "Plainview's hyper-misanthropic monologues experience a massive resurgence on TikTok and Twitter as aestheticized reaction audio representing absolute exhaustion or spiteful ambition."
+      }
     ],
     "factions": [
-      { "name": "The Systemic Capital Analysts", "share": 0.58, "voice": "It is the ultimate macro-critique of the American project; Plainview isn't a monster because he's evil, he's a monster because he is the perfect, logical manifestation of unchecked extraction capitalism." },
-      { "name": "The Character Studies Purists", "share": 0.30, "voice": "The film works purely as a Shakespearean tragedy of an absolute misanthrope who achieves total material victory at the cost of his own humanity, dying completely alone in a prison of his own making." },
-      { "name": "The Aesthetic Formalists", "share": 0.12, "voice": "The narrative is a scaffolding for Robert Elswit's natural-light cinematography and Jonny Greenwood's terrifyingly discordant score, which make the landscape feel ancient and cursed." }
+      {
+        "name": "The Systemic Capital Analysts",
+        "share": 0.58,
+        "voice": "It is the ultimate macro-critique of the American project; Plainview isn't a monster because he's evil, he's a monster because he is the perfect, logical manifestation of unchecked extraction capitalism."
+      },
+      {
+        "name": "The Character Studies Purists",
+        "share": 0.3,
+        "voice": "The film works purely as a Shakespearean tragedy of an absolute misanthrope who achieves total material victory at the cost of his own humanity, dying completely alone in a prison of his own making."
+      },
+      {
+        "name": "The Aesthetic Formalists",
+        "share": 0.12,
+        "voice": "The narrative is a scaffolding for Robert Elswit's natural-light cinematography and Jonny Greenwood's terrifyingly discordant score, which make the landscape feel ancient and cursed."
+      }
     ],
-    "symbols": ["burning wooden oil derrick", "silver bowling pin", "milkshake straw", "handwritten baptism ledger", "mud-covered oil slick on a face"],
-    "pos": { "x": 0.89, "y": 0.73 }
+    "symbols": [
+      "burning wooden oil derrick",
+      "silver bowling pin",
+      "milkshake straw",
+      "handwritten baptism ledger",
+      "mud-covered oil slick on a face"
+    ],
+    "pos": {
+      "x": 0.89,
+      "y": 0.73
+    }
   },
   {
     "slug": "anatomy-of-a-fall-2023",
@@ -550,18 +776,55 @@
       "accessibility": "Relatively high; it functions smoothly as an engaging, high-stakes legal thriller even as it actively deconstructs and subverts the genre's typical clean resolutions."
     },
     "afterlife": [
-      { "year": 2023, "kind": "release", "label": "Premieres at the Cannes Film Festival, winning the Palme d'Or and setting off an international wave of critical acclaim." },
-      { "year": 2024, "kind": "wound", "label": "France's Oscar selection committee controversially passes over the film for the Best International Feature category, sparking intense cultural and political debate within the French film establishment." },
-      { "year": 2024, "kind": "academic", "label": "Wins the Academy Award for Best Original Screenplay; immediately integrated into legal-studies and feminist film theory curricula analyzing the translation of domestic life into criminal evidence." },
-      { "year": 2025, "kind": "meme", "label": "Snoop the Border Collie's 'performance' and attendance at Hollywood awards shows becomes a widespread, enduring wholesome meme template across TikTok and Instagram." }
+      {
+        "year": 2023,
+        "kind": "release",
+        "label": "Premieres at the Cannes Film Festival, winning the Palme d'Or and setting off an international wave of critical acclaim."
+      },
+      {
+        "year": 2024,
+        "kind": "wound",
+        "label": "France's Oscar selection committee controversially passes over the film for the Best International Feature category, sparking intense cultural and political debate within the French film establishment."
+      },
+      {
+        "year": 2024,
+        "kind": "academic",
+        "label": "Wins the Academy Award for Best Original Screenplay; immediately integrated into legal-studies and feminist film theory curricula analyzing the translation of domestic life into criminal evidence."
+      },
+      {
+        "year": 2025,
+        "kind": "meme",
+        "label": "Snoop the Border Collie's 'performance' and attendance at Hollywood awards shows becomes a widespread, enduring wholesome meme template across TikTok and Instagram."
+      }
     ],
     "factions": [
-      { "name": "The Textual Deconstructionists", "share": 0.48, "voice": "The film is a brilliant critique of how the legal system and society demand a neat, clean story from chaos; it proves that a marriage cannot be accurately translated or judged through isolated fragments of evidence." },
-      { "name": "The Domestic Moral Realists", "share": 0.38, "voice": "It's an incredibly raw, devastatingly accurate look at creative envy, professional resentment, and the exhausting mental load of a modern bisexual woman operating under the patriarchal gaze." },
-      { "name": "The Procedural Sleuths", "share": 0.14, "voice": "An excellent, highly suspenseful whodunit that leaves just enough breadcrumbs to suggest a calculated, perfect murder if you analyze the blood-spatter geometry carefully." }
+      {
+        "name": "The Textual Deconstructionists",
+        "share": 0.48,
+        "voice": "The film is a brilliant critique of how the legal system and society demand a neat, clean story from chaos; it proves that a marriage cannot be accurately translated or judged through isolated fragments of evidence."
+      },
+      {
+        "name": "The Domestic Moral Realists",
+        "share": 0.38,
+        "voice": "It's an incredibly raw, devastatingly accurate look at creative envy, professional resentment, and the exhausting mental load of a modern bisexual woman operating under the patriarchal gaze."
+      },
+      {
+        "name": "The Procedural Sleuths",
+        "share": 0.14,
+        "voice": "An excellent, highly suspenseful whodunit that leaves just enough breadcrumbs to suggest a calculated, perfect murder if you analyze the blood-spatter geometry carefully."
+      }
     ],
-    "symbols": ["blood splatters on white snow", "steel-drum instrumental loop", "audio recorder hidden in a pocket", "blind boy's tape recorder", "the aspirin-sick Border Collie"],
-    "pos": { "x": 0.58, "y": 0.81 }
+    "symbols": [
+      "blood splatters on white snow",
+      "steel-drum instrumental loop",
+      "audio recorder hidden in a pocket",
+      "blind boy's tape recorder",
+      "the aspirin-sick Border Collie"
+    ],
+    "pos": {
+      "x": 0.58,
+      "y": 0.81
+    }
   },
   {
     "slug": "another-earth-2011",
@@ -593,17 +856,50 @@
       "cult": "High cult slope. The film serves as the foundational origin story for Brit Marling's fiercely loyal multi-hyphenate fanbase, establishing her signature brand of philosophical empathy."
     },
     "afterlife": [
-      { "year": 2011, "kind": "release", "label": "Premieres at the Sundance Film Festival, winning the Alfred P. Sloan Prize and sparking an immediate studio bidding war." },
-      { "year": 2012, "kind": "academic", "label": "Integrated into screenwriting and independent production syllabi as a masterclass in scale-hacking—using micro-budget aesthetics to convey cosmic ideas." },
-      { "year": 2018, "kind": "rediscovery", "label": "Following the cult explosion of The OA, fans aggressively trace Marling's metaphysical motifs back to this text, causing a massive streaming renaissance." }
+      {
+        "year": 2011,
+        "kind": "release",
+        "label": "Premieres at the Sundance Film Festival, winning the Alfred P. Sloan Prize and sparking an immediate studio bidding war."
+      },
+      {
+        "year": 2012,
+        "kind": "academic",
+        "label": "Integrated into screenwriting and independent production syllabi as a masterclass in scale-hacking—using micro-budget aesthetics to convey cosmic ideas."
+      },
+      {
+        "year": 2018,
+        "kind": "rediscovery",
+        "label": "Following the cult explosion of The OA, fans aggressively trace Marling's metaphysical motifs back to this text, causing a massive streaming renaissance."
+      }
     ],
     "factions": [
-      { "name": "The Metaphysical Realists", "share": 0.52, "voice": "It is a beautifully devastating masterpiece about forgiveness; the sci-fi element is brilliant because it asks whether we can ever truly face ourselves and our mistakes." },
-      { "name": "The Hard Sci-Fi Dissidents", "share": 0.32, "voice": "The central premise is scientifically absurd and distracting; the movie completely ignores orbital mechanics and gravity just to tell a standard, slow indie melodrama about grief." },
-      { "name": "The Ambiguous Finalists", "share": 0.16, "voice": "The entire text serves purely as a delivery mechanism for that final, haunting five-second encounter, which recontextualizes the narrative into an infinite psychological loop." }
+      {
+        "name": "The Metaphysical Realists",
+        "share": 0.52,
+        "voice": "It is a beautifully devastating masterpiece about forgiveness; the sci-fi element is brilliant because it asks whether we can ever truly face ourselves and our mistakes."
+      },
+      {
+        "name": "The Hard Sci-Fi Dissidents",
+        "share": 0.32,
+        "voice": "The central premise is scientifically absurd and distracting; the movie completely ignores orbital mechanics and gravity just to tell a standard, slow indie melodrama about grief."
+      },
+      {
+        "name": "The Ambiguous Finalists",
+        "share": 0.16,
+        "voice": "The entire text serves purely as a delivery mechanism for that final, haunting five-second encounter, which recontextualizes the narrative into an infinite psychological loop."
+      }
     ],
-    "symbols": ["Earth 2 in the daytime sky", "golden ticket to space", "shattered windshield frost", "musical saw performance", "monochrome cleaning uniform"],
-    "pos": { "x": 0.26, "y": 0.89 }
+    "symbols": [
+      "Earth 2 in the daytime sky",
+      "golden ticket to space",
+      "shattered windshield frost",
+      "musical saw performance",
+      "monochrome cleaning uniform"
+    ],
+    "pos": {
+      "x": 0.26,
+      "y": 0.89
+    }
   },
   {
     "slug": "i-origins-2014",
@@ -635,17 +931,50 @@
       "haunting": "Sustained by macro-photography visual markers of the human iris, which viewers report noticing with obsessive scrutiny in their own lives post-viewing."
     },
     "afterlife": [
-      { "year": 2014, "kind": "release", "label": "Premieres at Sundance to highly polarized reactions; wins the Alfred P. Sloan Prize, matching Cahill's previous debut." },
-      { "year": 2016, "kind": "meme", "label": "The multi-colored, macro iris posters and the numerical coincidence sequence ('11:11') become heavily aestheticized fixtures across Tumblr and Pinterest spiritual subcultures." },
-      { "year": 2021, "kind": "rediscovery", "label": "Discussions surrounding real-world biometric data tracking and iris-scanning technology trigger a wave of tech-paranoia articles referencing the film's predictive subtext." }
+      {
+        "year": 2014,
+        "kind": "release",
+        "label": "Premieres at Sundance to highly polarized reactions; wins the Alfred P. Sloan Prize, matching Cahill's previous debut."
+      },
+      {
+        "year": 2016,
+        "kind": "meme",
+        "label": "The multi-colored, macro iris posters and the numerical coincidence sequence ('11:11') become heavily aestheticized fixtures across Tumblr and Pinterest spiritual subcultures."
+      },
+      {
+        "year": 2021,
+        "kind": "rediscovery",
+        "label": "Discussions surrounding real-world biometric data tracking and iris-scanning technology trigger a wave of tech-paranoia articles referencing the film's predictive subtext."
+      }
     ],
     "factions": [
-      { "name": "The Cosmic Romantics", "share": 0.48, "voice": "A deeply moving, breathtaking masterpiece that beautifully bridges the gap between science and faith, proving that love is a permanent data imprint across multiple lifetimes." },
-      { "name": "The Analytical Rationalists", "share": 0.38, "voice": "An unearned, frustratingly manipulative narrative that forces a highly trained, rational scientist to abandon his intellect for the sake of mystical, sentimental coincidences." },
-      { "name": "The Visceral Mourners", "share": 0.14, "voice": "The movie is defined entirely by the overwhelming grief of its mid-point twist; it operates as a devastating study of how sudden loss shatters a logical mind." }
+      {
+        "name": "The Cosmic Romantics",
+        "share": 0.48,
+        "voice": "A deeply moving, breathtaking masterpiece that beautifully bridges the gap between science and faith, proving that love is a permanent data imprint across multiple lifetimes."
+      },
+      {
+        "name": "The Analytical Rationalists",
+        "share": 0.38,
+        "voice": "An unearned, frustratingly manipulative narrative that forces a highly trained, rational scientist to abandon his intellect for the sake of mystical, sentimental coincidences."
+      },
+      {
+        "name": "The Visceral Mourners",
+        "share": 0.14,
+        "voice": "The movie is defined entirely by the overwhelming grief of its mid-point twist; it operates as a devastating study of how sudden loss shatters a logical mind."
+      }
     ],
-    "symbols": ["macro photograph of a hazel iris", "the number 11 billboard", "broken elevator doors", "biometric database scan", "hotel room doorway in New Delhi"],
-    "pos": { "x": 0.71, "y": 0.91 }
+    "symbols": [
+      "macro photograph of a hazel iris",
+      "the number 11 billboard",
+      "broken elevator doors",
+      "biometric database scan",
+      "hotel room doorway in New Delhi"
+    ],
+    "pos": {
+      "x": 0.71,
+      "y": 0.91
+    }
   },
   {
     "slug": "the-east-2013",
@@ -677,17 +1006,50 @@
       "transgression": "High parameter. The film forces a mainstream multiplex audience into deep, uncomfortable empathy with characters committing radical, illegal acts of domestic sabotage."
     },
     "afterlife": [
-      { "year": 2013, "kind": "release", "label": "Premieres at Sundance as the closing night film, drawing strong reviews for its suspense mechanics and ensemble cast." },
-      { "year": 2015, "kind": "academic", "label": "Integrated into political science, eco-criticism, and late-capitalism cinema syllabi analyzing the intersection of activism and corporate survival." },
-      { "year": 2023, "kind": "rediscovery", "label": "Amid escalating real-world climate activism and corporate boycotts, the film experiences a major retrospective wave on social media celebrating its prescient political edges." }
+      {
+        "year": 2013,
+        "kind": "release",
+        "label": "Premieres at Sundance as the closing night film, drawing strong reviews for its suspense mechanics and ensemble cast."
+      },
+      {
+        "year": 2015,
+        "kind": "academic",
+        "label": "Integrated into political science, eco-criticism, and late-capitalism cinema syllabi analyzing the intersection of activism and corporate survival."
+      },
+      {
+        "year": 2023,
+        "kind": "rediscovery",
+        "label": "Amid escalating real-world climate activism and corporate boycotts, the film experiences a major retrospective wave on social media celebrating its prescient political edges."
+      }
     ],
     "factions": [
-      { "name": "The Eco-Political Realists", "share": 0.54, "voice": "It is a brilliant, razor-sharp autopsy of corporate accountability; it doesn't shy away from the messiness of radical activism while accurately capturing the absolute moral bankruptcy of modern industry." },
-      { "name": "The Tension Proceduralists", "share": 0.31, "voice": "A taut, beautifully acted, and incredibly suspenseful undercover thriller that updates the classic Klute or No Way Out paranoia blueprint for the 21st-century corporate world." },
-      { "name": "The Ideological Centrists", "share": 0.15, "voice": "The film flirts with radical ideas but ultimately backs away into a safe, conventional Hollywood morality tale about personal ethics rather than systemic revolution." }
+      {
+        "name": "The Eco-Political Realists",
+        "share": 0.54,
+        "voice": "It is a brilliant, razor-sharp autopsy of corporate accountability; it doesn't shy away from the messiness of radical activism while accurately capturing the absolute moral bankruptcy of modern industry."
+      },
+      {
+        "name": "The Tension Proceduralists",
+        "share": 0.31,
+        "voice": "A taut, beautifully acted, and incredibly suspenseful undercover thriller that updates the classic Klute or No Way Out paranoia blueprint for the 21st-century corporate world."
+      },
+      {
+        "name": "The Ideological Centrists",
+        "share": 0.15,
+        "voice": "The film flirts with radical ideas but ultimately backs away into a safe, conventional Hollywood morality tale about personal ethics rather than systemic revolution."
+      }
     ],
-    "symbols": ["straitjacket dinner table scene", "poisoned corporate wine bottle", "dumpster-dived organic feast", "underground forest bunker", "corporate access badge"],
-    "pos": { "x": 0.74, "y": 0.79 }
+    "symbols": [
+      "straitjacket dinner table scene",
+      "poisoned corporate wine bottle",
+      "dumpster-dived organic feast",
+      "underground forest bunker",
+      "corporate access badge"
+    ],
+    "pos": {
+      "x": 0.74,
+      "y": 0.79
+    }
   },
   {
     "slug": "the-oa-2016",
@@ -721,18 +1083,55 @@
       "consensus": "An exceptionally low score reflecting the violent, polarizing split at launch between mainstream viewers bewildered by the usage of modern dance to stop a tragedy and devoted formalists who viewed it as a breathtaking, transcendent evolution of television grammar."
     },
     "afterlife": [
-      { "year": 2016, "kind": "release", "label": "Part I drops on Netflix with zero warning or traditional marketing, instantly triggering a massive, highly polarized viral wildfire online." },
-      { "year": 2019, "kind": "release", "label": "Part II releases to soaring, nearly unanimous critical rhapsody, radically expanding the show's scope into a brilliant, techno-noir multiverse." },
-      { "year": 2019, "kind": "wound", "label": "Netflix abruptly cancels the series on a massive meta-cliffhanger; fans organize intense, unprecedented global protests, hunger strikes, and Times Square billboards under the #SaveTheOA movement." },
-      { "year": 2023, "kind": "rediscovery", "label": "Marling and Batmanglij's follow-up series A Murder at the End of the World sparks an immense, renewed wave of retroactive parsing, with fans mapping out hidden, cross-textual links back to the OA universe." }
+      {
+        "year": 2016,
+        "kind": "release",
+        "label": "Part I drops on Netflix with zero warning or traditional marketing, instantly triggering a massive, highly polarized viral wildfire online."
+      },
+      {
+        "year": 2019,
+        "kind": "release",
+        "label": "Part II releases to soaring, nearly unanimous critical rhapsody, radically expanding the show's scope into a brilliant, techno-noir multiverse."
+      },
+      {
+        "year": 2019,
+        "kind": "wound",
+        "label": "Netflix abruptly cancels the series on a massive meta-cliffhanger; fans organize intense, unprecedented global protests, hunger strikes, and Times Square billboards under the #SaveTheOA movement."
+      },
+      {
+        "year": 2023,
+        "kind": "rediscovery",
+        "label": "Marling and Batmanglij's follow-up series A Murder at the End of the World sparks an immense, renewed wave of retroactive parsing, with fans mapping out hidden, cross-textual links back to the OA universe."
+      }
     ],
     "factions": [
-      { "name": "The True Believers", "share": 0.55, "voice": "The show is a profound, transcendent masterpiece about the power of storytelling to heal trauma; the cancellation itself is just a meta-hurdle, and the text will eventually find a way to complete its five-season destiny because it is too spiritually vital to die." },
-      { "name": "The Puzzle Box Decoders", "share": 0.33, "voice": "It is a flawless, mathematically precise sci-fi masterpiece; every frame, aspect ratio shift, and background noise is a literal clue mapping out the mechanics of dimensional travel, the collective unconscious, and quantum branching paths." },
-      { "name": "The Cynical Skeptics", "share": 0.12, "voice": "An overly pretentious, self-indulgent, and deeply goofy exercise that sets up a fascinating mystery box only to rely on absurd interpretive dance movements and heavy-handed New Age metaphors instead of clean narrative logic." }
+      {
+        "name": "The True Believers",
+        "share": 0.55,
+        "voice": "The show is a profound, transcendent masterpiece about the power of storytelling to heal trauma; the cancellation itself is just a meta-hurdle, and the text will eventually find a way to complete its five-season destiny because it is too spiritually vital to die."
+      },
+      {
+        "name": "The Puzzle Box Decoders",
+        "share": 0.33,
+        "voice": "It is a flawless, mathematically precise sci-fi masterpiece; every frame, aspect ratio shift, and background noise is a literal clue mapping out the mechanics of dimensional travel, the collective unconscious, and quantum branching paths."
+      },
+      {
+        "name": "The Cynical Skeptics",
+        "share": 0.12,
+        "voice": "An overly pretentious, self-indulgent, and deeply goofy exercise that sets up a fascinating mystery box only to rely on absurd interpretive dance movements and heavy-handed New Age metaphors instead of clean narrative logic."
+      }
     ],
-    "symbols": ["The Five Movements", "underground glass stream cages", "giant telepathic octopus Old Night", "rose stained-glass attic window", "maroon Crestwood hoodies"],
-    "pos": { "x": 0.11, "y": 0.99 }
+    "symbols": [
+      "The Five Movements",
+      "underground glass stream cages",
+      "giant telepathic octopus Old Night",
+      "rose stained-glass attic window",
+      "maroon Crestwood hoodies"
+    ],
+    "pos": {
+      "x": 0.11,
+      "y": 0.99
+    }
   },
   {
     "slug": "resolution-2012",
@@ -764,16 +1163,45 @@
       "symbolic": "Highly dense. The old projector slides, the VHS tapes, and the title 'Resolution' itself are treated as a multi-layered commentary on the predatory nature of the audience demanding a clean ending from a story."
     },
     "afterlife": [
-      { "year": 2012, "kind": "release", "label": "Premieres at the Tribeca Film Festival, immediately stunning genre critics with its unique meta-textual cosmic horror." },
-      { "year": 2018, "kind": "rediscovery", "label": "The release of The Endless serves as a massive retroactive signal flare, causing thousands of fans to hunt down this film to map out the interlocking lore paths." }
+      {
+        "year": 2012,
+        "kind": "release",
+        "label": "Premieres at the Tribeca Film Festival, immediately stunning genre critics with its unique meta-textual cosmic horror."
+      },
+      {
+        "year": 2018,
+        "kind": "rediscovery",
+        "label": "The release of The Endless serves as a massive retroactive signal flare, causing thousands of fans to hunt down this film to map out the interlocking lore paths."
+      }
     ],
     "factions": [
-      { "name": "The Meta-Textual Decoders", "share": 0.58, "voice": "The entity in the film is literally us, the audience; it demands a structured story with a violent resolution, and the movie is a brilliant critique of our own voyeuristic desires." },
-      { "name": "The Cosmic Realists", "share": 0.30, "voice": "It's an incredibly raw, terrifyingly grounded look at male friendship and the agony of trying to save a friend from addiction, wrapped inside a pitch-perfect Lovecraftian mythos." },
-      { "name": "The Anti-Climactic Dissidents", "share": 0.12, "voice": "A fascinating, atmospheric setup that spends too much time wandering around the woods only to resolve on an abrupt, frustrating meta-gimmick." }
+      {
+        "name": "The Meta-Textual Decoders",
+        "share": 0.58,
+        "voice": "The entity in the film is literally us, the audience; it demands a structured story with a violent resolution, and the movie is a brilliant critique of our own voyeuristic desires."
+      },
+      {
+        "name": "The Cosmic Realists",
+        "share": 0.3,
+        "voice": "It's an incredibly raw, terrifyingly grounded look at male friendship and the agony of trying to save a friend from addiction, wrapped inside a pitch-perfect Lovecraftian mythos."
+      },
+      {
+        "name": "The Anti-Climactic Dissidents",
+        "share": 0.12,
+        "voice": "A fascinating, atmospheric setup that spends too much time wandering around the woods only to resolve on an abrupt, frustrating meta-gimmick."
+      }
     ],
-    "symbols": ["handcuffs on a cabin pipe", "unmarked VHS tape", "old projector slide of a skull", "french bilingual book", "red-beaded countdown string"],
-    "pos": { "x": 0.14, "y": 0.93 }
+    "symbols": [
+      "handcuffs on a cabin pipe",
+      "unmarked VHS tape",
+      "old projector slide of a skull",
+      "french bilingual book",
+      "red-beaded countdown string"
+    ],
+    "pos": {
+      "x": 0.14,
+      "y": 0.93
+    }
   },
   {
     "slug": "spring-2014",
@@ -804,16 +1232,45 @@
       "voltage": "Maintained by the shocking, organic body-horror transformations (sprouting tentacles, shifting bone structures) which are shot with an intimate, naturalistic camera that heightens the physical tension."
     },
     "afterlife": [
-      { "year": 2014, "kind": "release", "label": "Premieres at TIFF; immediately receives a massive validation boost when Guillermo del Toro publicly champions it as a beautiful Lovecraftian romance." },
-      { "year": 2021, "kind": "meme", "label": "The iconic, sweeping drone shots of the Italian coastal cliffs and Louise's striking, multi-faceted eyes become romantic aesthetic staples across cinematic Tumblr blogs." }
+      {
+        "year": 2014,
+        "kind": "release",
+        "label": "Premieres at TIFF; immediately receives a massive validation boost when Guillermo del Toro publicly champions it as a beautiful Lovecraftian romance."
+      },
+      {
+        "year": 2021,
+        "kind": "meme",
+        "label": "The iconic, sweeping drone shots of the Italian coastal cliffs and Louise's striking, multi-faceted eyes become romantic aesthetic staples across cinematic Tumblr blogs."
+      }
     ],
     "factions": [
-      { "name": "The Romantic Teratologists", "share": 0.62, "voice": "It's a breathtakingly beautiful, unique masterpiece; it uses the literal mechanics of ancient, horrific mutation as a gorgeous metaphor for the terrifying vulnerability of opening your heart to someone." },
-      { "name": "The Body-Horror Purists", "share": 0.24, "voice": "The film works best because of its grounded, evolutionary take on immortality; it treats monsters not as magical demons, but as a fascinating, messy biological reality." },
-      { "name": "The Pacing Dissidents", "share": 0.14, "voice": "The chemistry between the leads is great, but the movie slow-burns its romance to such a degree that it frequently stalls the momentum of its sci-fi mysteries." }
+      {
+        "name": "The Romantic Teratologists",
+        "share": 0.62,
+        "voice": "It's a breathtakingly beautiful, unique masterpiece; it uses the literal mechanics of ancient, horrific mutation as a gorgeous metaphor for the terrifying vulnerability of opening your heart to someone."
+      },
+      {
+        "name": "The Body-Horror Purists",
+        "share": 0.24,
+        "voice": "The film works best because of its grounded, evolutionary take on immortality; it treats monsters not as magical demons, but as a fascinating, messy biological reality."
+      },
+      {
+        "name": "The Pacing Dissidents",
+        "share": 0.14,
+        "voice": "The chemistry between the leads is great, but the movie slow-burns its romance to such a degree that it frequently stalls the momentum of its sci-fi mysteries."
+      }
     ],
-    "symbols": ["ancient stone steps in Italy", "syringe of stem cells", "sprouting underwater tentacle", "ruined church over the sea", "a piece of fossilized amber"],
-    "pos": { "x": 0.68, "y": 0.81 }
+    "symbols": [
+      "ancient stone steps in Italy",
+      "syringe of stem cells",
+      "sprouting underwater tentacle",
+      "ruined church over the sea",
+      "a piece of fossilized amber"
+    ],
+    "pos": {
+      "x": 0.68,
+      "y": 0.81
+    }
   },
   {
     "slug": "the-endless-2018",
@@ -844,16 +1301,45 @@
       "progeny": "Massive legacy footprint within the genre. The film's critical success and narrative scale-hacking directly landed the duo major institutional directing jobs, including Marvel's Moon Knight and Loki Season 2."
     },
     "afterlife": [
-      { "year": 2017, "kind": "release", "label": "Premieres at Tribeca to universal critical acclaim, instantly recognized as a towering achievement in indie sci-fi worldbuilding." },
-      { "year": 2019, "kind": "academic", "label": "Frequently integrated into independent film production syllabi to analyze how a micro-budget feature can generate immense, cosmic scale through conceptual execution rather than expensive CGI." }
+      {
+        "year": 2017,
+        "kind": "release",
+        "label": "Premieres at Tribeca to universal critical acclaim, instantly recognized as a towering achievement in indie sci-fi worldbuilding."
+      },
+      {
+        "year": 2019,
+        "kind": "academic",
+        "label": "Frequently integrated into independent film production syllabi to analyze how a micro-budget feature can generate immense, cosmic scale through conceptual execution rather than expensive CGI."
+      }
     ],
     "factions": [
-      { "name": "The Jigsaw Chronologists", "share": 0.54, "voice": "A flawless, mind-bending sci-fi puzzle; the way the film maps out different characters trapped in 3-second, 10-second, or 100-year time loops by an unseen sky-god is absolute genius." },
-      { "name": "The Co-Dependent Realists", "share": 0.34, "voice": "The cosmic horror is just scaffolding; at its heart, it's a deeply moving, beautiful story about brotherhood, family trauma, and breaking free from the toxic comfort of your own loops." },
-      { "name": "The Lore Skeptics", "share": 0.12, "voice": "It relies a bit too heavily on the viewer having seen Resolution to land its emotional and narrative payoff, making it slightly insular for casual viewers." }
+      {
+        "name": "The Jigsaw Chronologists",
+        "share": 0.54,
+        "voice": "A flawless, mind-bending sci-fi puzzle; the way the film maps out different characters trapped in 3-second, 10-second, or 100-year time loops by an unseen sky-god is absolute genius."
+      },
+      {
+        "name": "The Co-Dependent Realists",
+        "share": 0.34,
+        "voice": "The cosmic horror is just scaffolding; at its heart, it's a deeply moving, beautiful story about brotherhood, family trauma, and breaking free from the toxic comfort of your own loops."
+      },
+      {
+        "name": "The Lore Skeptics",
+        "share": 0.12,
+        "voice": "It relies a bit too heavily on the viewer having seen Resolution to land its emotional and narrative payoff, making it slightly insular for casual viewers."
+      }
     ],
-    "symbols": ["three moons in a night sky", "unbreakable monofilament rope", "man running inside a literal 3-second bubble", "tug-of-war rope disappearing into the sky", "home-brewed craft beer bottle"],
-    "pos": { "x": 0.71, "y": 0.92 }
+    "symbols": [
+      "three moons in a night sky",
+      "unbreakable monofilament rope",
+      "man running inside a literal 3-second bubble",
+      "tug-of-war rope disappearing into the sky",
+      "home-brewed craft beer bottle"
+    ],
+    "pos": {
+      "x": 0.71,
+      "y": 0.92
+    }
   },
   {
     "slug": "synchronic-2019",
@@ -884,16 +1370,45 @@
       "haunting": "Driven by the bleak, swampy New Orleans atmosphere and the haunting historical ghosts (conquistadors, klansmen) that inhabit the physical coordinates of the city across time."
     },
     "afterlife": [
-      { "year": 2019, "kind": "release", "label": "Premieres at the Toronto International Film Festival, drawing strong reviews for its visual style and Anthony Mackie's soulful performance." },
-      { "year": 2021, "kind": "rediscovery", "label": "Hits streaming platforms during the pandemic, exploding into a massive digital crossover hit for a wider, mainstream audience unfamiliar with their indie origins." }
+      {
+        "year": 2019,
+        "kind": "release",
+        "label": "Premieres at the Toronto International Film Festival, drawing strong reviews for its visual style and Anthony Mackie's soulful performance."
+      },
+      {
+        "year": 2021,
+        "kind": "rediscovery",
+        "label": "Hits streaming platforms during the pandemic, exploding into a massive digital crossover hit for a wider, mainstream audience unfamiliar with their indie origins."
+      }
     ],
     "factions": [
-      { "name": "The Historical Fatalists", "share": 0.52, "voice": "It's a brilliant, tragic subversion of time travel; by using a black protagonist, the film exposes that the past isn't a fun sandbox adventure, but a deeply hostile, dangerous graveyard." },
-      { "name": "The Procedural Stylists", "share": 0.32, "voice": "A beautifully shot, atmospheric New Orleans noir that uses a great paramedic setup to ground an incredibly inventive, rules-based sci-fi concept." },
-      { "name": "The Studio-Scale Skeptics", "share": 0.16, "voice": "The ideas are great, but the higher production budget and conventional studio pacing polish away some of the raw, dangerous indie weirdness that made The Endless feel special." }
+      {
+        "name": "The Historical Fatalists",
+        "share": 0.52,
+        "voice": "It's a brilliant, tragic subversion of time travel; by using a black protagonist, the film exposes that the past isn't a fun sandbox adventure, but a deeply hostile, dangerous graveyard."
+      },
+      {
+        "name": "The Procedural Stylists",
+        "share": 0.32,
+        "voice": "A beautifully shot, atmospheric New Orleans noir that uses a great paramedic setup to ground an incredibly inventive, rules-based sci-fi concept."
+      },
+      {
+        "name": "The Studio-Scale Skeptics",
+        "share": 0.16,
+        "voice": "The ideas are great, but the higher production budget and conventional studio pacing polish away some of the raw, dangerous indie weirdness that made The Endless feel special."
+      }
     ],
-    "symbols": ["glowing designer pill wrapper", "pet dog trapped in the past", "three-headed coin", "pineal gland x-ray scan", "battlefield muddy trenches"],
-    "pos": { "x": 0.81, "y": 0.84 }
+    "symbols": [
+      "glowing designer pill wrapper",
+      "pet dog trapped in the past",
+      "three-headed coin",
+      "pineal gland x-ray scan",
+      "battlefield muddy trenches"
+    ],
+    "pos": {
+      "x": 0.81,
+      "y": 0.84
+    }
   },
   {
     "slug": "wild-at-heart-1990",
@@ -925,17 +1440,50 @@
       "transgression": "Highly transgressive. It pushes the boundaries of mid-tier studio cinema through its raw, unpolished depiction of sleaze, systemic rot, and deep psychological deformity."
     },
     "afterlife": [
-      { "year": 1990, "kind": "release", "label": "Premieres at the Cannes Film Festival, winning the Palme d'Or amid a historic wave of critical shouting matches and theatrical walkouts." },
-      { "year": 1991, "kind": "wound", "label": "The film faces intense censorship battles in the United States, requiring digital smoke effects to obscure explicit sex scenes to secure an R rating." },
-      { "year": 2018, "kind": "rediscovery", "label": "Shout! Factory releases a pristine collector's edition, sparking a massive wave of internet reappraisal celebrating its status as the bridge between Blue Velvet and Twin Peaks." }
+      {
+        "year": 1990,
+        "kind": "release",
+        "label": "Premieres at the Cannes Film Festival, winning the Palme d'Or amid a historic wave of critical shouting matches and theatrical walkouts."
+      },
+      {
+        "year": 1991,
+        "kind": "wound",
+        "label": "The film faces intense censorship battles in the United States, requiring digital smoke effects to obscure explicit sex scenes to secure an R rating."
+      },
+      {
+        "year": 2018,
+        "kind": "rediscovery",
+        "label": "Shout! Factory releases a pristine collector's edition, sparking a massive wave of internet reappraisal celebrating its status as the bridge between Blue Velvet and Twin Peaks."
+      }
     ],
     "factions": [
-      { "name": "The Operatic Romantics", "share": 0.48, "voice": "It is an incredibly electric, beautiful, and hyper-stylized modern fairy tale; Sailor and Lula are the ultimate icons of pure, innocent love fighting its way through an absolutely sick and grotesque universe." },
-      { "name": "The Grotesque Skeptics", "share": 0.38, "voice": "An ugly, exhausting, and self-indulgent misfire where Lynch trades genuine psychological mystery for cheap shock tactics, heavy metal music, and hollow cartoon vulgarity." },
-      { "name": "The Oz Structuralists", "share": 0.14, "voice": "The film is a brilliant, post-modern deconstruction of American mythology; the explicit Wizard of Oz references turn the road trip into a literal spiritual quest through a decaying landscape." }
+      {
+        "name": "The Operatic Romantics",
+        "share": 0.48,
+        "voice": "It is an incredibly electric, beautiful, and hyper-stylized modern fairy tale; Sailor and Lula are the ultimate icons of pure, innocent love fighting its way through an absolutely sick and grotesque universe."
+      },
+      {
+        "name": "The Grotesque Skeptics",
+        "share": 0.38,
+        "voice": "An ugly, exhausting, and self-indulgent misfire where Lynch trades genuine psychological mystery for cheap shock tactics, heavy metal music, and hollow cartoon vulgarity."
+      },
+      {
+        "name": "The Oz Structuralists",
+        "share": 0.14,
+        "voice": "The film is a brilliant, post-modern deconstruction of American mythology; the explicit Wizard of Oz references turn the road trip into a literal spiritual quest through a decaying landscape."
+      }
     ],
-    "symbols": ["snakeskin jacket as a symbol of individuality", "striking a wooden match in extreme close-up", "the Good Witch floating in a bubble", "shattered car crash highway headlights", "Bobby Peru's nylon stocking face warp"],
-    "pos": { "x": 0.38, "y": 0.88 }
+    "symbols": [
+      "snakeskin jacket as a symbol of individuality",
+      "striking a wooden match in extreme close-up",
+      "the Good Witch floating in a bubble",
+      "shattered car crash highway headlights",
+      "Bobby Peru's nylon stocking face warp"
+    ],
+    "pos": {
+      "x": 0.38,
+      "y": 0.88
+    }
   },
   {
     "slug": "seinfeld-1989",
@@ -968,17 +1516,50 @@
       "cult": "Near-zero cult score. It was a globally dominant, multi-billion dollar ratings titan; it never required an underground group to rescue it from institutional abandonment, as the institution itself was built around it."
     },
     "afterlife": [
-      { "year": 1998, "kind": "release", "label": "The massive, hyper-hyped series finale draws over 76 million viewers, triggering a historic, highly public critical dispute regarding its cynical, prison-bound conclusion." },
-      { "year": 2015, "kind": "academic", "label": "Enters elite television and cultural sociology syllabi globally, analyzed as the definitive text on post-modern nihilism and the deconstruction of traditional family structures." },
-      { "year": 2021, "kind": "meme", "label": "The complete series hits Netflix for nine figures, sparking an immense, unstoppable wave of Gen-Z memetic translation across TikTok." }
+      {
+        "year": 1998,
+        "kind": "release",
+        "label": "The massive, hyper-hyped series finale draws over 76 million viewers, triggering a historic, highly public critical dispute regarding its cynical, prison-bound conclusion."
+      },
+      {
+        "year": 2015,
+        "kind": "academic",
+        "label": "Enters elite television and cultural sociology syllabi globally, analyzed as the definitive text on post-modern nihilism and the deconstruction of traditional family structures."
+      },
+      {
+        "year": 2021,
+        "kind": "meme",
+        "label": "The complete series hits Netflix for nine figures, sparking an immense, unstoppable wave of Gen-Z memetic translation across TikTok."
+      }
     ],
     "factions": [
-      { "name": "The Clockwork Formalists", "share": 0.58, "voice": "It is a flawless, mathematically perfect narrative machine; the way Larry David interlocks four entirely separate, petty storylines into a singular, devastating punchline by the end of 22 minutes is an unmatched writing achievement." },
-      { "name": "The Nihilistic Social Realists", "share": 0.30, "voice": "The show is the ultimate, honest depiction of modern human sociology; it correctly assumes that people are inherently selfish, neurotic, and petty, providing a comforting, mirror-like sanctuary where we don't have to pretend to be good." },
-      { "name": "The Final-Act Dissidents", "share": 0.12, "voice": "While the individual episodes are brilliant, the show's underlying cynicism eventually curdles into a repetitive, mean-spirited vacuum that limits its emotional shelf-life." }
+      {
+        "name": "The Clockwork Formalists",
+        "share": 0.58,
+        "voice": "It is a flawless, mathematically perfect narrative machine; the way Larry David interlocks four entirely separate, petty storylines into a singular, devastating punchline by the end of 22 minutes is an unmatched writing achievement."
+      },
+      {
+        "name": "The Nihilistic Social Realists",
+        "share": 0.3,
+        "voice": "The show is the ultimate, honest depiction of modern human sociology; it correctly assumes that people are inherently selfish, neurotic, and petty, providing a comforting, mirror-like sanctuary where we don't have to pretend to be good."
+      },
+      {
+        "name": "The Final-Act Dissidents",
+        "share": 0.12,
+        "voice": "While the individual episodes are brilliant, the show's underlying cynicism eventually curdles into a repetitive, mean-spirited vacuum that limits its emotional shelf-life."
+      }
     ],
-    "symbols": ["monochrome diner booth", "slap-bass musical punctuation", "oversized puffy white shirt", "Junior Mint falling into an open chest cavity", "unmarked soup kitchen line rules"],
-    "pos": { "x": 0.96, "y": 0.14 }
+    "symbols": [
+      "monochrome diner booth",
+      "slap-bass musical punctuation",
+      "oversized puffy white shirt",
+      "Junior Mint falling into an open chest cavity",
+      "unmarked soup kitchen line rules"
+    ],
+    "pos": {
+      "x": 0.96,
+      "y": 0.14
+    }
   },
   {
     "slug": "mommie-dearest-1981",
@@ -1010,18 +1591,55 @@
       "arc": "A perfect 99. The system marks this as a legendary, absolute 180-degree turn in cultural framing; a work built for prestige Oscars that migrated permanently into midnight movie immortality."
     },
     "afterlife": [
-      { "year": 1981, "kind": "release", "label": "Theatrical premiere; savaged by mainstream critics who call it grotesque and unhinged, while audiences begin laughing out loud during intense dramatic scenes." },
-      { "year": 1981, "kind": "reissue", "label": "Paramount leans entirely into the audience's reaction, altering their print ads to read: 'Meet the biggest mother of them all!' and leaning into the camp phenomenon." },
-      { "year": 1982, "kind": "rejection", "label": "Dominates the Razzie Awards with nine nominations and five wins, solidifying its status as an institutional failure and an underground triumph." },
-      { "year": 2000, "kind": "meme", "label": "The 'wire hanger sequence' achieves permanent, viral immortality across drag subcultures, film schools, and internet forums as the absolute, universal shorthand for high-camp psychodrama." }
+      {
+        "year": 1981,
+        "kind": "release",
+        "label": "Theatrical premiere; savaged by mainstream critics who call it grotesque and unhinged, while audiences begin laughing out loud during intense dramatic scenes."
+      },
+      {
+        "year": 1981,
+        "kind": "reissue",
+        "label": "Paramount leans entirely into the audience's reaction, altering their print ads to read: 'Meet the biggest mother of them all!' and leaning into the camp phenomenon."
+      },
+      {
+        "year": 1982,
+        "kind": "rejection",
+        "label": "Dominates the Razzie Awards with nine nominations and five wins, solidifying its status as an institutional failure and an underground triumph."
+      },
+      {
+        "year": 2000,
+        "kind": "meme",
+        "label": "The 'wire hanger sequence' achieves permanent, viral immortality across drag subcultures, film schools, and internet forums as the absolute, universal shorthand for high-camp psychodrama."
+      }
     ],
     "factions": [
-      { "name": "The Midnight Camp Liturgists", "share": 0.58, "voice": "It is an accidental masterpiece of pure, unfiltered operatic horror; Faye Dunaway isn't overacting, she is delivering a transcendent, kabuki-style performance that captures the grotesque nightmare of Hollywood ego and generational abuse." },
-      { "name": "The Hollywood Tragedy Realists", "share": 0.28, "voice": "The film works best as a deeply disturbing, fascinating look behind the porcelain mask of classic studio stardom, exposing the violent paranoia and emotional starvation required to maintain the illusion of glamour." },
-      { "name": "The Exploitative Skeptics", "share": 0.14, "voice": "A trashy, mean-spirited, and unintentionally hilarious melodrama that reduces complex real-life trauma into a loud, screeching caricature that insults both Crawford and her children." }
+      {
+        "name": "The Midnight Camp Liturgists",
+        "share": 0.58,
+        "voice": "It is an accidental masterpiece of pure, unfiltered operatic horror; Faye Dunaway isn't overacting, she is delivering a transcendent, kabuki-style performance that captures the grotesque nightmare of Hollywood ego and generational abuse."
+      },
+      {
+        "name": "The Hollywood Tragedy Realists",
+        "share": 0.28,
+        "voice": "The film works best as a deeply disturbing, fascinating look behind the porcelain mask of classic studio stardom, exposing the violent paranoia and emotional starvation required to maintain the illusion of glamour."
+      },
+      {
+        "name": "The Exploitative Skeptics",
+        "share": 0.14,
+        "voice": "A trashy, mean-spirited, and unintentionally hilarious melodrama that reduces complex real-life trauma into a loud, screeching caricature that insults both Crawford and her children."
+      }
     ],
-    "symbols": ["rusted wire hanger", "cold face-cream mask", "uprooted rose bushes in the dark", "golden Oscar statuette on a dresser", "scrub brush and cleansing powder"],
-    "pos": { "x": 0.21, "y": 0.97 }
+    "symbols": [
+      "rusted wire hanger",
+      "cold face-cream mask",
+      "uprooted rose bushes in the dark",
+      "golden Oscar statuette on a dresser",
+      "scrub brush and cleansing powder"
+    ],
+    "pos": {
+      "x": 0.21,
+      "y": 0.97
+    }
   },
   {
     "slug": "but-im-a-cheerleader-1999",
@@ -1053,17 +1671,50 @@
       "formal": "Highly dense color theory. The strict, binary segregation of the production design (aggressive pinks for girls, muted blues for boys) acts as a literal, hostile character that mirrors the psychological cage of True Directions."
     },
     "afterlife": [
-      { "year": 1999, "kind": "release", "label": "Premieres at the Toronto International Film Festival; heavily penalized by the MPAA with a hostile NC-17 rating, forcing edits to secure an R for theatrical release." },
-      { "year": 2000, "kind": "rejection", "label": "Mainstream critics largely dismiss the film as overly broad, shallow, and cartoonish, completely missing its subversive intent." },
-      { "year": 2020, "kind": "criterion", "label": "A pristine 20th Anniversary Director's Cut release firmly seals its canonical historical importance across elite cinephile archives." }
+      {
+        "year": 1999,
+        "kind": "release",
+        "label": "Premieres at the Toronto International Film Festival; heavily penalized by the MPAA with a hostile NC-17 rating, forcing edits to secure an R for theatrical release."
+      },
+      {
+        "year": 2000,
+        "kind": "rejection",
+        "label": "Mainstream critics largely dismiss the film as overly broad, shallow, and cartoonish, completely missing its subversive intent."
+      },
+      {
+        "year": 2020,
+        "kind": "criterion",
+        "label": "A pristine 20th Anniversary Director's Cut release firmly seals its canonical historical importance across elite cinephile archives."
+      }
     ],
     "factions": [
-      { "name": "The Queer Satirists", "share": 0.62, "voice": "It is a brilliant, subversive masterpiece; using Barbie-doll camp and pastel aesthetics to mock the absurd, performative nature of heteronormativity is a stroke of pure political genius." },
-      { "name": "The Romantic Essentialists", "share": 0.26, "voice": "At its heart, it is one of the most tender, beautiful, and authentic lesbian romance stories ever filmed; the chemistry between Megan and Graham is electric and timeless." },
-      { "name": "The Tonal Dissidents", "share": 0.12, "voice": "While well-intentioned, the film's hyper-cartoonish, broad comedic style occasionally undercuts the very real, dark psychological horror of conversion therapy." }
+      {
+        "name": "The Queer Satirists",
+        "share": 0.62,
+        "voice": "It is a brilliant, subversive masterpiece; using Barbie-doll camp and pastel aesthetics to mock the absurd, performative nature of heteronormativity is a stroke of pure political genius."
+      },
+      {
+        "name": "The Romantic Essentialists",
+        "share": 0.26,
+        "voice": "At its heart, it is one of the most tender, beautiful, and authentic lesbian romance stories ever filmed; the chemistry between Megan and Graham is electric and timeless."
+      },
+      {
+        "name": "The Tonal Dissidents",
+        "share": 0.12,
+        "voice": "While well-intentioned, the film's hyper-cartoonish, broad comedic style occasionally undercuts the very real, dark psychological horror of conversion therapy."
+      }
     ],
-    "symbols": ["hyper-saturated pink cheerleader megaphone", "True Directions step-by-step gender manual", "artificial plastic backyard grass", "root-beer float date", "navy blue mechanic uniform jumpsuit"],
-    "pos": { "x": 0.24, "y": 0.99 }
+    "symbols": [
+      "hyper-saturated pink cheerleader megaphone",
+      "True Directions step-by-step gender manual",
+      "artificial plastic backyard grass",
+      "root-beer float date",
+      "navy blue mechanic uniform jumpsuit"
+    ],
+    "pos": {
+      "x": 0.24,
+      "y": 0.99
+    }
   },
   {
     "slug": "slums-of-beverly-hills-1998",
@@ -1094,16 +1745,45 @@
       "transgression": "Maintained by its refreshingly honest, completely un-glamorous approach to teenage female sexuality, puberty, and bodily changes, which bypassed traditional Hollywood sanitization."
     },
     "afterlife": [
-      { "year": 1998, "kind": "release", "label": "Premieres at the Cannes Film Festival in the Un Certain Regard section, drawing immediate praise for its sharp script and breakout performances." },
-      { "year": 2018, "kind": "rediscovery", "label": "The 20th anniversary prompts a wave of critical retrospectives framing it as an unsung masterclass in 90s class-conscious independent cinema, paving the way for Lady Bird." }
+      {
+        "year": 1998,
+        "kind": "release",
+        "label": "Premieres at the Cannes Film Festival in the Un Certain Regard section, drawing immediate praise for its sharp script and breakout performances."
+      },
+      {
+        "year": 2018,
+        "kind": "rediscovery",
+        "label": "The 20th anniversary prompts a wave of critical retrospectives framing it as an unsung masterclass in 90s class-conscious independent cinema, paving the way for Lady Bird."
+      }
     ],
     "factions": [
-      { "name": "The Class-Conscious Realists", "share": 0.54, "voice": "It is one of the few American films that understands the exhausting, day-to-day anxiety of being lower-middle class; it brilliantly uses Beverly Hills as a cruel backdrop for economic survival." },
-      { "name": "The Coming-of-Age Purists", "share": 0.32, "voice": "Natasha Lyonne delivers a phenomenal, fiercely funny, and deeply vulnerable performance that perfectly captures the awkward, hyper-tactile reality of teenage girlhood without any Hollywood gloss." },
-      { "name": "The Melodramatic Dissidents", "share": 0.14, "voice": "An accurately performed but occasionally exhausting exercise in watching a deeply dysfunctional family make chaotic decisions across a series of ugly apartments." }
+      {
+        "name": "The Class-Conscious Realists",
+        "share": 0.54,
+        "voice": "It is one of the few American films that understands the exhausting, day-to-day anxiety of being lower-middle class; it brilliantly uses Beverly Hills as a cruel backdrop for economic survival."
+      },
+      {
+        "name": "The Coming-of-Age Purists",
+        "share": 0.32,
+        "voice": "Natasha Lyonne delivers a phenomenal, fiercely funny, and deeply vulnerable performance that perfectly captures the awkward, hyper-tactile reality of teenage girlhood without any Hollywood gloss."
+      },
+      {
+        "name": "The Melodramatic Dissidents",
+        "share": 0.14,
+        "voice": "An accurately performed but occasionally exhausting exercise in watching a deeply dysfunctional family make chaotic decisions across a series of ugly apartments."
+      }
     ],
-    "symbols": ["vibrator wrapped in a box", "flat-roofed stucco apartment pool", "oversized medical breast forms", "station wagon packed with luggage", "eviction notice on a door"],
-    "pos": { "x": 0.65, "y": 0.83 }
+    "symbols": [
+      "vibrator wrapped in a box",
+      "flat-roofed stucco apartment pool",
+      "oversized medical breast forms",
+      "station wagon packed with luggage",
+      "eviction notice on a door"
+    ],
+    "pos": {
+      "x": 0.65,
+      "y": 0.83
+    }
   },
   {
     "slug": "russian-doll-2019",
@@ -1136,17 +1816,50 @@
       "haunting": "Driven heavily by the cyclical, Pavlovian auditory trigger of Harry Nilsson's 'Gotta Get Up' blaring at the start of every single loop resurrection, which viewers report installing itself permanently in their brains."
     },
     "afterlife": [
-      { "year": 2019, "kind": "release", "label": "Season 1 drops on Netflix to an absolute explosion of critical rhapsody, securing 13 Emmy nominations and instant cultural canonization." },
-      { "year": 2022, "kind": "release", "label": "Season 2 radically shifts gears, transforming the loop into a 1980s New York subway time-travel device to directly unpack ancestral Holocaust trauma." },
-      { "year": 2025, "kind": "meme", "label": "Nadia's thick East Coast accent deliveries maintain permanent status as high-frequency reaction audios across all social media platforms." }
+      {
+        "year": 2019,
+        "kind": "release",
+        "label": "Season 1 drops on Netflix to an absolute explosion of critical rhapsody, securing 13 Emmy nominations and instant cultural canonization."
+      },
+      {
+        "year": 2022,
+        "kind": "release",
+        "label": "Season 2 radically shifts gears, transforming the loop into a 1980s New York subway time-travel device to directly unpack ancestral Holocaust trauma."
+      },
+      {
+        "year": 2025,
+        "kind": "meme",
+        "label": "Nadia's thick East Coast accent deliveries maintain permanent status as high-frequency reaction audios across all social media platforms."
+      }
     ],
     "factions": [
-      { "name": "The Existential Traumatologists", "share": 0.52, "voice": "The loop isn't a sci-fi gimmick; it is a perfect, brilliant metaphor for psychological trauma. You are doomed to repeat your worst, most self-sabotaging days until you stop running and actively choose to heal with others." },
-      { "name": "The Puzzle-Box Formalists", "share": 0.34, "voice": "A flawlessly constructed masterpiece of narrative engineering; the way Alan and Nadia's loops interlock, degrade, and mirror a broken video game engine is absolute genius." },
-      { "name": "The Season-Two Dissidents", "share": 0.14, "voice": "While the first season is a self-contained, perfect miracle of pacing, the second season's shift into literal lineage time-travel stretches the show's established internal logic a bit too thin." }
+      {
+        "name": "The Existential Traumatologists",
+        "share": 0.52,
+        "voice": "The loop isn't a sci-fi gimmick; it is a perfect, brilliant metaphor for psychological trauma. You are doomed to repeat your worst, most self-sabotaging days until you stop running and actively choose to heal with others."
+      },
+      {
+        "name": "The Puzzle-Box Formalists",
+        "share": 0.34,
+        "voice": "A flawlessly constructed masterpiece of narrative engineering; the way Alan and Nadia's loops interlock, degrade, and mirror a broken video game engine is absolute genius."
+      },
+      {
+        "name": "The Season-Two Dissidents",
+        "share": 0.14,
+        "voice": "While the first season is a self-contained, perfect miracle of pacing, the second season's shift into literal lineage time-travel stretches the show's established internal logic a bit too thin."
+      }
     ],
-    "symbols": ["glowing circle bathroom mirror", "Harry Nilsson's 'Gotta Get Up' cassette tape", "rotting orange on a counter", "Krugerrand gold coin necklace", "East Village subway train doors"],
-    "pos": { "x": 0.89, "y": 0.93 }
+    "symbols": [
+      "glowing circle bathroom mirror",
+      "Harry Nilsson's 'Gotta Get Up' cassette tape",
+      "rotting orange on a counter",
+      "Krugerrand gold coin necklace",
+      "East Village subway train doors"
+    ],
+    "pos": {
+      "x": 0.89,
+      "y": 0.93
+    }
   },
   {
     "slug": "the-oak-room-2020",
@@ -1177,16 +1890,45 @@
       "haunting": "Sustained by the claustrophobic, amber-lit atmosphere of the deserted bar and the howling blizzard outside, creating a heavy sense of inescapable domestic purgatory."
     },
     "afterlife": [
-      { "year": 2020, "kind": "release", "label": "Premieres at Fantasia International Film Festival to strong critical praise for its tight script and claustrophobic tension." },
-      { "year": 2021, "kind": "rediscovery", "label": "Hits streaming platforms during the tail end of pandemic isolation, finding a quiet, highly appreciative audience among fans of tight, single-location chamber pieces." }
+      {
+        "year": 2020,
+        "kind": "release",
+        "label": "Premieres at Fantasia International Film Festival to strong critical praise for its tight script and claustrophobic tension."
+      },
+      {
+        "year": 2021,
+        "kind": "rediscovery",
+        "label": "Hits streaming platforms during the tail end of pandemic isolation, finding a quiet, highly appreciative audience among fans of tight, single-location chamber pieces."
+      }
     ],
     "factions": [
-      { "name": "The Narrative Structuralists", "share": 0.54, "voice": "It is a brilliant, masterfully written exercise in pure storytelling; the way the film treats nested bar talk as a literal weapon of psychological suspense is absolute genius." },
-      { "name": "The Neo-Noir Purists", "share": 0.32, "voice": "A wonderfully atmospheric, bleak, and low-key Canadian crime thriller that captures the exact cold grit and desperate sociology of a dying small town." },
-      { "name": "The Action Materialists", "share": 0.14, "voice": "An overly static, dialogue-heavy stage play masquerading as a thriller that spends far too much time telling stories instead of showing real narrative progression." }
+      {
+        "name": "The Narrative Structuralists",
+        "share": 0.54,
+        "voice": "It is a brilliant, masterfully written exercise in pure storytelling; the way the film treats nested bar talk as a literal weapon of psychological suspense is absolute genius."
+      },
+      {
+        "name": "The Neo-Noir Purists",
+        "share": 0.32,
+        "voice": "A wonderfully atmospheric, bleak, and low-key Canadian crime thriller that captures the exact cold grit and desperate sociology of a dying small town."
+      },
+      {
+        "name": "The Action Materialists",
+        "share": 0.14,
+        "voice": "An overly static, dialogue-heavy stage play masquerading as a thriller that spends far too much time telling stories instead of showing real narrative progression."
+      }
     ],
-    "symbols": ["amber-lit wooden bar counter", "raging blizzard window frost", "cracked beer pint glass", "old sports coat on a hook", "unlit cigarette between fingers"],
-    "pos": { "x": 0.14, "y": 0.89 }
+    "symbols": [
+      "amber-lit wooden bar counter",
+      "raging blizzard window frost",
+      "cracked beer pint glass",
+      "old sports coat on a hook",
+      "unlit cigarette between fingers"
+    ],
+    "pos": {
+      "x": 0.14,
+      "y": 0.89
+    }
   },
   {
     "slug": "clown-2014",
@@ -1217,16 +1959,45 @@
       "transgression": "Elevated score driven entirely by the script's rigid refusal to blink during the third act, directly executing extreme taboo genre violations involving the hunting of children."
     },
     "afterlife": [
-      { "year": 2014, "kind": "release", "label": "Theatrical rollout delayed significantly due to distribution hurdles and censorship concerns over its graphic, taboo content." },
-      { "year": 2017, "kind": "rediscovery", "label": "Following Jon Watts' massive mainstream selection to direct Spider-Man: Homecoming, genre fans aggressively retro-scan this debut, turning it into a high-demand cult curiosity." }
+      {
+        "year": 2014,
+        "kind": "release",
+        "label": "Theatrical rollout delayed significantly due to distribution hurdles and censorship concerns over its graphic, taboo content."
+      },
+      {
+        "year": 2017,
+        "kind": "rediscovery",
+        "label": "Following Jon Watts' massive mainstream selection to direct Spider-Man: Homecoming, genre fans aggressively retro-scan this debut, turning it into a high-demand cult curiosity."
+      }
     ],
     "factions": [
-      { "name": "The Somatic Mutation Purists", "share": 0.48, "voice": "It is a phenomenal, deeply unsettling body-horror film; treating a clown costume as a literal, ancient skin parasite that slowly alters a loving father's biology is an incredible concept executed with zero compromise." },
-      { "name": "The Tragic Slasher Fans", "share": 0.38, "voice": "The movie works beautifully as a dark, tragic psychological drama; watching Kent desperately fight against the hunger of the demon to protect his own family gives the horror a genuine emotional weight." },
-      { "name": "The High-Concept Skeptics", "share": 0.14, "voice": "A well-made but ultimately predictable, mean-spirited slasher that takes a funny fake trailer concept and stretches it a bit too thin over a standard runtime." }
+      {
+        "name": "The Somatic Mutation Purists",
+        "share": 0.48,
+        "voice": "It is a phenomenal, deeply unsettling body-horror film; treating a clown costume as a literal, ancient skin parasite that slowly alters a loving father's biology is an incredible concept executed with zero compromise."
+      },
+      {
+        "name": "The Tragic Slasher Fans",
+        "share": 0.38,
+        "voice": "The movie works beautifully as a dark, tragic psychological drama; watching Kent desperately fight against the hunger of the demon to protect his own family gives the horror a genuine emotional weight."
+      },
+      {
+        "name": "The High-Concept Skeptics",
+        "share": 0.14,
+        "voice": "A well-made but ultimately predictable, mean-spirited slasher that takes a funny fake trailer concept and stretches it a bit too thin over a standard runtime."
+      }
     ],
-    "symbols": ["porcelain white clown makeup fused to skin", "wig hairs rooted into a scalp", "plastic indoor playground tube slide", "red foam nose bleeding", "ancient European demon scroll sketch"],
-    "pos": { "x": 0.81, "y": 0.74 }
+    "symbols": [
+      "porcelain white clown makeup fused to skin",
+      "wig hairs rooted into a scalp",
+      "plastic indoor playground tube slide",
+      "red foam nose bleeding",
+      "ancient European demon scroll sketch"
+    ],
+    "pos": {
+      "x": 0.81,
+      "y": 0.74
+    }
   },
   {
     "slug": "vulgar-2000",
@@ -1258,16 +2029,786 @@
       "consensus": "An absolute low-water mark, pointing directly to the total lack of any shared, comfortable public account regarding the film's artistic validity."
     },
     "afterlife": [
-      { "year": 2000, "kind": "release", "label": "Premieres at the Toronto International Film Festival, sparking immediate walkouts, audience horror, and a wave of critical condemnation." },
-      { "year": 2002, "kind": "wound", "label": "Released on home video with an MPAA R rating after extensive edits to tone down its central assault sequence, keeping the text heavily contested in censorship circles." },
-      { "year": 2018, "kind": "rediscovery", "label": "Cult film podcasts and transgressive archive blogs organize retrospective autopsies, analyzing the film as a fascinating, pitch-black counter-signal to the cozy slack-comedy of Clerks." }
+      {
+        "year": 2000,
+        "kind": "release",
+        "label": "Premieres at the Toronto International Film Festival, sparking immediate walkouts, audience horror, and a wave of critical condemnation."
+      },
+      {
+        "year": 2002,
+        "kind": "wound",
+        "label": "Released on home video with an MPAA R rating after extensive edits to tone down its central assault sequence, keeping the text heavily contested in censorship circles."
+      },
+      {
+        "year": 2018,
+        "kind": "rediscovery",
+        "label": "Cult film podcasts and transgressive archive blogs organize retrospective autopsies, analyzing the film as a fascinating, pitch-black counter-signal to the cozy slack-comedy of Clerks."
+      }
     ],
     "factions": [
-      { "name": "The Transgressive Apologists", "share": 0.44, "voice": "The film is an incredibly raw, brave, and deeply misunderstood look at trauma and redemption; it uses extreme, shocking sleaze to tell a tragic story about a man fighting to reclaim his dignity after being utterly destroyed." },
-      { "name": "The Exploitation Critics", "share": 0.42, "voice": "An amateurish, incredibly ugly, and mean-spirited piece of shock-cinema that completely mishandles its severe trauma elements for a trashy, low-brow indie thriller plot." },
-      { "name": "The View-Askew Completionists", "share": 0.14, "voice": "A fascinating, deeply bizarre historical curiosity; watching the cozy, friendly cast of Kevin Smith's universe drop into a pitch-black psychological nightmare is completely surreal." }
+      {
+        "name": "The Transgressive Apologists",
+        "share": 0.44,
+        "voice": "The film is an incredibly raw, brave, and deeply misunderstood look at trauma and redemption; it uses extreme, shocking sleaze to tell a tragic story about a man fighting to reclaim his dignity after being utterly destroyed."
+      },
+      {
+        "name": "The Exploitation Critics",
+        "share": 0.42,
+        "voice": "An amateurish, incredibly ugly, and mean-spirited piece of shock-cinema that completely mishandles its severe trauma elements for a trashy, low-brow indie thriller plot."
+      },
+      {
+        "name": "The View-Askew Completionists",
+        "share": 0.14,
+        "voice": "A fascinating, deeply bizarre historical curiosity; watching the cozy, friendly cast of Kevin Smith's universe drop into a pitch-black psychological nightmare is completely surreal."
+      }
     ],
-    "symbols": ["ragged purple clown dress", "unmarked videotape package", "dingy New Jersey storage locker", "rusted fireplace poker", "battered yellow birthday cake"],
-    "pos": { "x": 0.44, "y": 0.65 }
+    "symbols": [
+      "ragged purple clown dress",
+      "unmarked videotape package",
+      "dingy New Jersey storage locker",
+      "rusted fireplace poker",
+      "battered yellow birthday cake"
+    ],
+    "pos": {
+      "x": 0.44,
+      "y": 0.65
+    }
+  },
+  {
+    "slug": "under-the-silver-lake",
+    "title": "Under the Silver Lake",
+    "year": 2018,
+    "director": "David Robert Mitchell",
+    "runtime": 139,
+    "catalogue": "ARTX-068",
+    "epigraph": "Beware the dog killer.",
+    "reading": "David Robert Mitchell's sun-drenched, paranoid neo-noir was actively smothered by its distributor upon arrival, only to immediately curdle into a pure, obsessive digital text. The film's ecosystem exists almost entirely in the obsessive-compulsive margins of Reddit threads and YouTube video essays where users pause frame-by-frame to decode real, hidden cryptograms baked into the production design. It is a work whose meta-narrative about the futility of seeking meaning in pop culture has ironized itself; its audience has bypassed the film's cynical thesis to fulfill its exact premise, transforming the artifact into a living puzzle box that refuses to settle into a stable critical consensus.",
+    "metrics": {
+      "consensus": 31,
+      "friction": 78,
+      "obsession": 94,
+      "haunting": 72,
+      "symbolic": 98,
+      "cult": 91,
+      "formal": 68,
+      "voltage": 55,
+      "accessibility": 42,
+      "reach": 35,
+      "progeny": 48,
+      "arc": 85,
+      "transgression": 40
+    },
+    "notes": {
+      "consensus": "An intense bimodal distribution: dismissed at Cannes as a bloated sophomore misfire, yet treated by a fiercely dedicated faction as a misunderstood masterpiece of millennial malaise.",
+      "obsession": "Scores in the highest percentiles for long-tail digital forensics. Mention density remains extraordinarily high years after its dead-on-arrival theatrical release.",
+      "symbolic": "Driven to near-maximum metrics by the literal inclusion of real Morse code, hobo signals, and musical cryptograms that demand active translation from the viewer.",
+      "accessibility": "While it wears the clothing of a standard LA detective story, its ballooning runtime, surreal logic shifts, and deep-cut pop culture references alienate casual viewers looking for a clean mystery resolution."
+    },
+    "afterlife": [
+      {
+        "year": 2018,
+        "kind": "release",
+        "label": "Cannes premiere meets polarizing reviews; A24 delays domestic release indefinitely."
+      },
+      {
+        "year": 2019,
+        "kind": "rejection",
+        "label": "Dumped into limited theaters and VOD with zero marketing push."
+      },
+      {
+        "year": 2019,
+        "kind": "rediscovery",
+        "label": "r/UnderTheSilverLake sub-reddit forms, successfully decoding the 'Balloon Girl' wall code within months."
+      },
+      {
+        "year": 2021,
+        "kind": "meme",
+        "label": "The 'Jesus and the Brides of Dracula' pop song sequence achieves viral TikTok status among indie-cinephile circles."
+      },
+      {
+        "year": 2024,
+        "kind": "academic",
+        "label": "Widespread adoption into film studies curricula as the definitive text on post-internet paranoia and late-capitalist exhaustion."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Cryptographers",
+        "share": 0.45,
+        "voice": "Every pixel is intentional. The Morse code in the bathroom window coordinates perfectly with the map on the cereal box. The film is a map to its own production."
+      },
+      {
+        "name": "The Exhausted Cynics",
+        "share": 0.35,
+        "voice": "It's an overlong, self-indulgent exercise in male entitlement that mistakes empty references for profound cultural commentary."
+      },
+      {
+        "name": "The Neo-Noir Vibeists",
+        "share": 0.2,
+        "voice": "The plot doesn't matter. It perfectly captures the specific, sweaty, terrifying emptiness of modern Los Angeles under a permanent heatwave."
+      }
+    ],
+    "symbols": [
+      "Nintendo Power Magazine",
+      "Hobo Signs",
+      "The Songwriter",
+      "Zine Culture",
+      "Hollywood Forever Cemetery"
+    ],
+    "pos": {
+      "x": -0.68,
+      "y": 0.74
+    }
+  },
+  {
+    "slug": "the-room",
+    "title": "The Room",
+    "year": 2003,
+    "director": "Tommy Wiseau",
+    "runtime": 99,
+    "catalogue": "ARTX-033",
+    "epigraph": "You're tearing me apart, Lisa!",
+    "reading": "Tommy Wiseau's anti-masterpiece represents the absolute singularity of inverted cinematic metrics, where institutional rejection was so total that it folded space-time to create an indestructible parallel ecosystem. The film is parsed entirely through an unwritten liturgy of interactive audience rituals—throwing spoons, shouting structural corrections, tossing footballs at close range—that has completely replaced the text itself. It remains the ultimate modern monument to accidental expressionism; a deeply private, deeply wounded psychic portrait of its creator that the world transformed into a raucous, permanent carnival.",
+    "metrics": {
+      "consensus": 95,
+      "friction": 12,
+      "obsession": 96,
+      "haunting": 64,
+      "symbolic": 15,
+      "cult": 100,
+      "formal": 88,
+      "voltage": 92,
+      "accessibility": 85,
+      "reach": 88,
+      "progeny": 74,
+      "arc": 98,
+      "transgression": 35
+    },
+    "notes": {
+      "consensus": "Paradoxically massive consensus score: everyone completely agrees on what this object is, even if that agreement is based entirely on a collective, ironized reading.",
+      "friction": "Virtually zero interpretive friction remains. The war over whether it is 'good' or 'bad' ended decades ago, hardening into a shared, stable cultural monument.",
+      "formal": "The extreme score reflects an accidental refusal of standard cinematic form. The narrative non-sequiturs, floating green screens, and unmotivated establishing shots constitute a totally unique, feral grammar.",
+      "symbolic": "Near-zero interpretive depth. The film does not hide systems or codes; its surface is perfectly, bewilderingly literal, frustrating any traditional academic methodology."
+    },
+    "afterlife": [
+      {
+        "year": 2003,
+        "kind": "release",
+        "label": "Initial two-theater LA run grossing under ,000; kept alive via Wiseau paying to retain a single billboard."
+      },
+      {
+        "year": 2004,
+        "kind": "rediscovery",
+        "label": "LA film students and comedians discover the film, initiating the midnight-movie interactive screening scripts."
+      },
+      {
+        "year": 2013,
+        "kind": "academic",
+        "label": "Co-star Greg Sestero publishes 'The Disaster Artist', shifting discourse from ironic mockery to tragic biographical analysis."
+      },
+      {
+        "year": 2017,
+        "kind": "meme",
+        "label": "James Franco's Hollywood adaptation brings the text into mainstream awards-season consciousness, completing the inversion arc."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Midnight Liturgists",
+        "share": 0.65,
+        "voice": "Water, spoon, football! This isn't a movie to watch alone; it's a rocky horror framework for a rowdy communal theater experience."
+      },
+      {
+        "name": "The Outsider Art Curators",
+        "share": 0.25,
+        "voice": "It's an unfiltered look directly into one man's profoundly alienated subconscious. It's as raw and legitimate as any Ed Wood or Henry Darger piece."
+      },
+      {
+        "name": "The Exhausted Traditionalists",
+        "share": 0.1,
+        "voice": "Celebrating incompetence this thoroughly is cynical and tiresome. The joke wore off twenty years ago."
+      }
+    ],
+    "symbols": [
+      "Plastic Spoons",
+      "Tuxedo Football",
+      "Framed Picture of a Pewter Spoon",
+      "The Rooftop Green-Screen",
+      "Red Dress"
+    ],
+    "pos": {
+      "x": 0.92,
+      "y": -0.85
+    }
+  },
+  {
+    "slug": "showgirls",
+    "title": "Showgirls",
+    "year": 1995,
+    "director": "Paul Verhoeven",
+    "runtime": 131,
+    "catalogue": "ARTX-025",
+    "epigraph": "There's always someone younger and hungrier coming down the stairs after you.",
+    "reading": "Paul Verhoeven's neon-drenched, high-camp satirical blitzkrieg is the premier reclamation project of modern American cinema. Initially treated as a toxic, historic catastrophe that destroyed careers and broke studios, the text's conversational trajectory has completely inverted over three decades. What was once universally reviled as an accidental, brainless display of exploitation has been aggressively re-coded by queer spaces and radical film critics as a calculated, hyper-realist eviction of the American Dream—a masterpiece of absolute, blinding artifice where the current of physiological repulsion and camp ecstasy are entirely indistinguishable.",
+    "metrics": {
+      "consensus": 44,
+      "friction": 89,
+      "obsession": 87,
+      "haunting": 69,
+      "symbolic": 82,
+      "cult": 99,
+      "formal": 74,
+      "voltage": 95,
+      "accessibility": 78,
+      "reach": 84,
+      "progeny": 66,
+      "arc": 97,
+      "transgression": 88
+    },
+    "notes": {
+      "consensus": "The metrics reflect a profound generational and institutional split; traditional legacy critics hold fast to their 1995 revulsion, while modern cinephilia treats it as a holy text.",
+      "friction": "An unresolved interpretive battlefield. The dispute over whether Verhoeven's hyper-stylization is an intentional satire of American capitalism or an unironic embrace of trash aesthetic remains wide open.",
+      "voltage": "Maximum physiological impact. The film moves bodies through its manic editorial rhythm, piercing color palette, and aggressively un-erotic, thrashing physical choreography.",
+      "symbolic": "High density driven by queer and feminist theory revisionism, tracking motifs of reflection, performance artifice, and ice cubes to parse the movie as a systemic critique rather than a narrative."
+    },
+    "afterlife": [
+      {
+        "year": 1995,
+        "kind": "release",
+        "label": "Devastating NC-17 theatrical run; met with historical, near-unanimous critical hostility and box office failure."
+      },
+      {
+        "year": 1996,
+        "kind": "rejection",
+        "label": "Dominates the Golden Raspberry Awards; Paul Verhoeven famously becomes the first director to accept his Razzies in person."
+      },
+      {
+        "year": 2000,
+        "kind": "rediscovery",
+        "label": "Becomes a massive home-video cult phenomenon for MGM, driven by midnight movie screenings and ironic gay bar viewings."
+      },
+      {
+        "year": 2013,
+        "kind": "academic",
+        "label": "French publication Les Cahiers du Cinéma champions the film, solidifying its prestige auteur reappraisal in high-art circles."
+      },
+      {
+        "year": 2020,
+        "kind": "criterion",
+        "label": "The documentary 'You Don't Nomi' analyzes the film's complex cultural afterlife, cementing its status as an untouchable masterwork of camp."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Satirical Auteurists",
+        "share": 0.45,
+        "voice": "Verhoeven is a genius who knew exactly what he was doing. It is a terrifyingly accurate, deliberate caricature of corporate American greed disguised as a trashy melodrama."
+      },
+      {
+        "name": "The Traditional Moralists",
+        "share": 0.35,
+        "voice": "It's a misogynistic, poorly acted, vulgar disaster. Trying to intellectualize this garbage after the fact is ultimate hipster revisionism."
+      },
+      {
+        "name": "The Camp Celebrants",
+        "share": 0.2,
+        "voice": "Intentional or not, it's an flawless piece of entertainment. Every single line reading is a masterpiece of surreal comedy."
+      }
+    ],
+    "symbols": [
+      "Versayce Dress",
+      "Ice Cubes",
+      "The Volcano Pool",
+      "Goddess Billboard",
+      "Stardust Casino Marquee"
+    ],
+    "pos": {
+      "x": 0.76,
+      "y": -0.52
+    }
+  },
+  {
+    "slug": "pink-flamingos",
+    "title": "Pink Flamingos",
+    "year": 1972,
+    "director": "John Waters",
+    "runtime": 93,
+    "catalogue": "ARTX-001",
+    "epigraph": "An exercise in poor taste.",
+    "reading": "John Waters' midnight-movie standard-bearer remains a uniquely pristine monument of transgressive cinema, notable because its cultural footprint has neither diminished nor been fully house-trained by the academy. Decades after Divine strutted through the slums of Baltimore, the work maintains an extraordinary conversational force that bypasses traditional aesthetic critique entirely. It is a text that was built to weaponize revulsion, creating a hard linguistic boundary line between those who can stomach its celluloid terrorisms and those who flee them. Because its central taboos are biological and absolute rather than purely political, the film cannot comfortably age into a harmless, historic relic; it continues to function as an active, volatile assault on middle-class sensory hygiene.",
+    "metrics": {
+      "consensus": 82,
+      "friction": 35,
+      "obsession": 89,
+      "haunting": 85,
+      "symbolic": 54,
+      "cult": 100,
+      "formal": 70,
+      "voltage": 98,
+      "accessibility": 25,
+      "reach": 62,
+      "progeny": 91,
+      "arc": 94,
+      "transgression": 100
+    },
+    "notes": {
+      "consensus": "The high consensus score denotes a stable, long-settled agreement across all critical generations regarding exactly what this film is and what it set out to accomplish.",
+      "haunting": "An incredibly high score driven by the involuntary, permanent visual imprinting of its infamous final scene, which functions as an un-evictable memory-wound for anyone who views it.",
+      "voltage": "Near-maximum physical current. The text explicitly demands a somatic response—gagging, hysterical laughter, visceral shock—forcing the viewer's body to participate directly in the broadcast.",
+      "transgression": "The baseline 100 on this axis. It represents the absolute standard against which modern cinematic violation and underground shock tactics are structurally calibrated."
+    },
+    "afterlife": [
+      {
+        "year": 1972,
+        "kind": "release",
+        "label": "Elgin Theater midnight premiere launches a multi-year underground theatrical run through word-of-mouth notoriety."
+      },
+      {
+        "year": 1973,
+        "kind": "wound",
+        "label": "Banned in multiple municipalities and countries; seized by police in Australia under strict obscenity laws."
+      },
+      {
+        "year": 1997,
+        "kind": "reissue",
+        "label": "25th-anniversary theatrical restoration brings the film to a new generation of indie-cinephiles, proving its power to shock remains intact."
+      },
+      {
+        "year": 2021,
+        "kind": "criterion",
+        "label": "Inducted into the National Film Registry and receives a lavish Criterion Collection spine number, completing its institutional ascension."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Filth Devotees",
+        "share": 0.6,
+        "voice": "It's a joyous, liberating celebration of outsider art and total queer anarchy that completely blows up bourgeois morality."
+      },
+      {
+        "name": "The Academic Historians",
+        "share": 0.25,
+        "voice": "A vital, structurally crucial piece of American avant-garde cinema that weaponizes camp and abjection to deconstruct post-war atomic family ideals."
+      },
+      {
+        "name": "The Viscerally Repulsed",
+        "share": 0.15,
+        "voice": "It's an amateurish, genuinely disgusting piece of exploitation that mistakes biological degradation for artistic rebellion."
+      }
+    ],
+    "symbols": [
+      "Dog Feces",
+      "The Red Fishtail Dress",
+      "Singing Anus",
+      "Mobile Home",
+      "Meat Cleaver"
+    ],
+    "pos": {
+      "x": 0.88,
+      "y": -0.94
+    }
+  },
+  {
+    "slug": "mad-max",
+    "title": "Mad Max",
+    "year": 1979,
+    "director": "George Miller",
+    "runtime": 88,
+    "catalogue": "ARTX-002",
+    "epigraph": "The Bronze take liberties... but we do it to defend the law.",
+    "reading": "George Miller's micro-budget Ozploitation milestone sits at a structural pivot point in action cinema, marking the precise moment where classical narrative framing dissolved into pure, kinetic, high-octane sensory violence. Unlike its monolithic, fully mythologized sequels, the 1979 original occupies a strange, liminal cultural space: it is not a post-apocalyptic film, but a film tracking the sweaty, agonizing, low-frequency vibration of a society actively coming apart at the welds. Its discourse is defined by an ongoing fascination with its feral production history, its revolutionary use of wide-angle anamorphic lenses to capture raw speed, and its long-tail influence on the international grammar of cinematic car crashes and institutional decay.",
+    "metrics": {
+      "consensus": 88,
+      "friction": 22,
+      "obsession": 81,
+      "haunting": 65,
+      "symbolic": 58,
+      "cult": 85,
+      "formal": 79,
+      "voltage": 91,
+      "accessibility": 80,
+      "reach": 93,
+      "progeny": 98,
+      "arc": 89,
+      "transgression": 62
+    },
+    "notes": {
+      "consensus": "An incredibly stable global reading. Critics and audiences alike recognize the film as the foundational text of a multi-billion dollar cinematic mythos, even if its specific pre-apocalyptic tone is wildly different from its successors.",
+      "progeny": "An elite score reflecting how deeply the film's visual shorthand—leather, asphalt, modified interceptors, desolation—has completely colonized the global pop-cultural imagination regarding the end of the world.",
+      "formal": "High score driven by Miller's hyper-kinetic editing patterns and death-defying stunt choreography, which rejected the sluggish studio action templates of the late 1970s in favor of an unhinged, speed-addicted visual style."
+    },
+    "afterlife": [
+      {
+        "year": 1979,
+        "kind": "release",
+        "label": "Becomes an astronomical financial success globally, holding the Guinness World Record for most profitable film relative to budget for decades."
+      },
+      {
+        "year": 1980,
+        "kind": "rejection",
+        "label": "American distributor AIP dubs the entire film with American voices, stripping the text of its raw Australian cadence and muting its initial US impact."
+      },
+      {
+        "year": 2002,
+        "kind": "reissue",
+        "label": "MGM releases the original, restored Australian audio track theatrically in the West, igniting a widespread critical reappraisal of its specific national identity."
+      },
+      {
+        "year": 2015,
+        "kind": "academic",
+        "label": "The release of 'Fury Road' prompts major retrospectives, forcing scholars to trace the theological and ecological anxieties of the franchise back to this raw, grounded 1979 root."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Genre Mechanics",
+        "share": 0.5,
+        "voice": "It's a masterclass in kinetic engineering. Miller uses editing and cameras like a precision mechanic to generate maximum physical impact out of bare asphalt and cheap steel."
+      },
+      {
+        "name": "The Cultural Revisionists",
+        "share": 0.3,
+        "voice": "The real power is the pre-collapse setting. It's a terrifyingly accurate portrait of white Australian masculinity fracturing under the weight of resource depletion and colonial isolation."
+      },
+      {
+        "name": "The Sequel Traditionalists",
+        "share": 0.2,
+        "voice": "It's an impressive calling card, but it feels like a rough draft. The franchise doesn't truly achieve its transcendent, mythic status until the wasteland geometry of 'The Road Warrior'."
+      }
+    ],
+    "symbols": [
+      "The Pursuit Special (V8 Interceptor)",
+      "Anamorphic Lens Flare",
+      "The Hacksaw",
+      "Shattered Highway White Lines",
+      "Leather Police Uniforms"
+    ],
+    "pos": {
+      "x": 0.64,
+      "y": -0.15
+    }
+  },
+  {
+    "slug": "blade-runner",
+    "title": "Blade Runner",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "runtime": 117,
+    "catalogue": "ARTX-003",
+    "epigraph": "All those moments will be lost in time, like tears in rain.",
+    "reading": "Ridley Scott's neo-noir monolith is the premier case study in how editorial destabilization can fuel a perpetual-motion machine of cultural discourse. The film's conversational trajectory is permanently bound to its own structural mutability, surviving a disastrous, studio-mandated theatrical cut to emerge through successive restorations as the definitive visual blueprint for the modern cyber-metropolis. It is a work that transitioned from a misunderstood box-office failure into an untouchable academic and creative holy text, largely because its central thematic binary—what constitutes human life versus synthetic imitation—is mirrored exactly in the audience's endless, forty-year forensic interrogation of the film's competing cuts.",
+    "metrics": {
+      "consensus": 52,
+      "friction": 86,
+      "obsession": 99,
+      "haunting": 94,
+      "symbolic": 96,
+      "cult": 95,
+      "formal": 88,
+      "voltage": 84,
+      "accessibility": 65,
+      "reach": 96,
+      "progeny": 100,
+      "arc": 96,
+      "transgression": 45
+    },
+    "notes": {
+      "consensus": "The low-to-mid score reflects a permanent schism: while its status as a masterpiece is universally settled, there remains zero consensus on which version of the text is definitive, or whether Deckard is definitively a replicant.",
+      "obsession": "Near-maximum score. Decades after its release, its hyper-dense, rain-slicked frames are still subjected to frame-by-frame cyber-archaeology across forums and video essays.",
+      "haunting": "An elite rating driven by Vangelis's melancholic synthesizer score and Jordan Cronenweth's shafts of neon light, which have permanently colonized the nocturnal subconscious of global cinephilia.",
+      "progeny": "A baseline 100. Virtually every depiction of a dystopian, neon-soaked, corporate-dominated future in media over the last four decades is an explicit descendant of this film's production design."
+    },
+    "afterlife": [
+      {
+        "year": 1982,
+        "kind": "release",
+        "label": "Theatrical release is a critical and commercial failure, smothered by a clunky voiceover and a forced happy ending."
+      },
+      {
+        "year": 1992,
+        "kind": "rediscovery",
+        "label": "The 'Director's Cut' is rushed to theaters, removing the narration and adding the unicorn dream sequence, completely shifting the text's interpretive framework."
+      },
+      {
+        "year": 1999,
+        "kind": "academic",
+        "label": "Becomes an inescapable cornerstone of post-modern film theory, cyberpunk literary studies, and urban architecture syllabi."
+      },
+      {
+        "year": 2007,
+        "kind": "reissue",
+        "label": "Scott releases 'The Final Cut', providing a pristine, definitive edit that secures its legacy as an untouchable masterpiece of the medium."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Replicant Truthers",
+        "share": 0.45,
+        "voice": "The unicorn dream and the glowing eyes are absolute proof. Deckard is a Nexus-6, and the film is a tragic loop of manufactured memories hunting manufactured memories."
+      },
+      {
+        "name": "The Humanist Traditionalists",
+        "share": 0.35,
+        "voice": "Deckard must be human for the narrative to work. The entire emotional weight of Roy Batty's final speech relies on a machine teaching a cold, broken human how to feel alive again."
+      },
+      {
+        "name": "The Vibe Urbanists",
+        "share": 0.2,
+        "voice": "The plot is just an excuse for the atmosphere. The film's true achievement is its overwhelming, industrial-baroque texture of decay, rain, and synthesized neon grief."
+      }
+    ],
+    "symbols": [
+      "Origami Unicorn",
+      "Voight-Kampff Machine",
+      "Neon Billboard Dragon",
+      "Artificial Owl",
+      "Tears in Rain"
+    ],
+    "pos": {
+      "x": -0.42,
+      "y": 0.88
+    }
+  },
+  {
+    "slug": "scarface",
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "runtime": 170,
+    "catalogue": "ARTX-004",
+    "epigraph": "The world is yours.",
+    "reading": "Brian De Palma's blood-soaked, neon-drenched operatic epic occupies one of the most fascinatingly bifurcated spaces in modern cultural discourse. Initially pulverized by mainstream critics for its vulgarity, structural bloat, and unhinged over-acting, the text underwent a radical, grassroots resurrection, not through arthouse cinephilia, but via the global hip-hop community. It was completely re-coded as the definitive blueprint for hyper-capitalist aspiration, street level ambition, and immigrant survival. The film's conversational trajectory is locked in a permanent ironized loop: it was explicitly designed by Oliver Stone and De Palma as a grotesque, cautionary satire on American greed, yet it has been widely adopted as an unironic, hyper-masculine holy text of entrepreneurial excess, creating a cavernous divide between its authorial intent and its street-level afterlife.",
+    "metrics": {
+      "consensus": 62,
+      "friction": 74,
+      "obsession": 92,
+      "haunting": 70,
+      "symbolic": 64,
+      "cult": 88,
+      "formal": 75,
+      "voltage": 96,
+      "accessibility": 90,
+      "reach": 99,
+      "progeny": 95,
+      "arc": 92,
+      "transgression": 84
+    },
+    "notes": {
+      "friction": "The friction score remains elevated due to the persistent cultural tension between those who see the film as a masterclass in grand-guignol excess and those who dismiss it as an exhausting, cartoonish glorification of toxic machismo.",
+      "obsession": "Driven to the highest percentiles by its near-ubiquitous adoption in pop culture, posters lining college dorm rooms, and sample density across three generations of rap music.",
+      "voltage": "Maximum physiological current. Driven by Al Pacino's unhinged, high-decibel performance, Giorgio Moroder's pounding synthesizer score, and explosions of visceral chainsaw and firearm violence that keep the body in a state of high tension.",
+      "accessibility": "Exceedingly high. It requires absolutely no cinematic glossary or prior contextual knowledge to enter; its narrative arc is a direct, classical line of tragic ascent and descent."
+    },
+    "afterlife": [
+      {
+        "year": 1983,
+        "kind": "release",
+        "label": "Premieres to widespread critical hostility, near-unanimous revulsion over its violence, and a fierce battle with the MPAA over an X rating."
+      },
+      {
+        "year": 1984,
+        "kind": "rejection",
+        "label": "Receives a Razzie nomination for Worst Director, cementing its initial status as an expensive studio misfire."
+      },
+      {
+        "year": 1991,
+        "kind": "rediscovery",
+        "label": "Adopted by the nascent gangsta rap movement; artists like the Geto Boys and Def Jam executives champion it, initializing its multi-platinum cultural rehabilitation."
+      },
+      {
+        "year": 2003,
+        "kind": "meme",
+        "label": "Def Jam releases a video game and MTV produces 'Scarface: Origins of a Hip Hop Classic', cementing its massive, multi-million dollar street-merchandise ecosystem."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Hip-Hop Aspirants",
+        "share": 0.45,
+        "voice": "Tony Montana is the ultimate self-made icon. He came from nothing, took over the world on his own terms, and went down fighting with his eyes wide open."
+      },
+      {
+        "name": "The De Palma Satirists",
+        "share": 0.35,
+        "voice": "It's a brilliant, coke-addled caricature of Reagan-era capitalism. The movie is intentionally ugly, loud, and operatic to mock the very idea of the American Dream."
+      },
+      {
+        "name": "The Aesthetic Detractors",
+        "share": 0.2,
+        "voice": "An exhausting, tacky, three-hour music video that trades De Palma's usual Hitchcockian suspense for cheap shock value and obnoxious over-acting."
+      }
+    ],
+    "symbols": [
+      "The Goodyear Blimp",
+      "M16 Assault Rifle",
+      "The Mountain of Cocaine",
+      "Porcelain Tiger",
+      "The Tiger Tail Chainsaw"
+    ],
+    "pos": {
+      "x": 0.78,
+      "y": -0.36
+    }
+  },
+  {
+    "slug": "a-nightmare-on-elm-street",
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "director": "Wes Craven",
+    "runtime": 91,
+    "catalogue": "ARTX-005",
+    "epigraph": "Whatever you do... don't fall asleep.",
+    "reading": "Wes Craven's surrealist slasher masterpiece fundamentally re-engineered the mechanics of modern horror by dissolving the safe, spatial boundary between the viewer's domestic reality and the cinematic screen. While subsequent corporate exploitation flattened Freddy Krueger into a wisecracking pop-culture mascot, the 1984 text retains a razor-sharp, transgressive edge that deeply occupies the cultural subconscious. Craven tapped into a collective, primal vulnerability—the biological inevitability of sleep—transforming suburban architecture into an unstable, fluid landscape of repressed trauma and patriarchal failure. Its discourse spans from intense technical breakdowns of its mechanical, practical visual effects to sophisticated psychoanalytic readings of mid-80s American teenage isolation, securing its status as an untouchable monument of American gothic cinema.",
+    "metrics": {
+      "consensus": 91,
+      "friction": 18,
+      "obsession": 88,
+      "haunting": 98,
+      "symbolic": 86,
+      "cult": 72,
+      "formal": 84,
+      "voltage": 93,
+      "accessibility": 89,
+      "reach": 98,
+      "progeny": 99,
+      "arc": 82,
+      "transgression": 70
+    },
+    "notes": {
+      "consensus": "An incredibly stable global reading. Both institutional critics and genre enthusiasts universally align on this film as the pinnacle of imaginative 1980s horror filmmaking.",
+      "haunting": "Scores in the absolute highest tier. The film's primary conceit—that the monster attacks when your consciousness slips—functions as a literal psychological virus, invading the viewer's real nocturnal subconscious.",
+      "symbolic": "Driven high by decades of academic, Freudian, and feminist critique parsing the dream logic, the boiler room as a subconscious underworld, and the subtextual failures of the suburban parental class.",
+      "progeny": "Near-maximum score. It gave birth to a multi-billion dollar studio franchise and radically altered the visual grammar of horror, shifting the genre from physical wilderness slashers to metaphysical dreamscapes."
+    },
+    "afterlife": [
+      {
+        "year": 1984,
+        "kind": "release",
+        "label": "Theatrical release becomes an instant commercial phenomenon, single-handedly saving its young distributor, New Line Cinema."
+      },
+      {
+        "year": 1988,
+        "kind": "meme",
+        "label": "The franchise reaches a commercial peak with Part 4; Freddy Krueger becomes a mainstream children's merchandise icon, temporarily muting the original's terror."
+      },
+      {
+        "year": 2014,
+        "kind": "academic",
+        "label": "30th-anniversary retrospectives thoroughly cement Wes Craven's status as a premier American surrealist auteur in academic circles."
+      },
+      {
+        "year": 2021,
+        "kind": "criterion",
+        "label": "Widespread critical reappraisal focuses heavily on Heather Langenkamp's Nancy Thompson as the definitive, hyper-competent 'final girl' blueprint."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Surrealist Auteurists",
+        "share": 0.55,
+        "voice": "Craven is operating at the level of Buñuel or Cocteau here. It's a brilliant, fluid manipulation of cinematic space that exposes the rot underneath the pristine surface of Reagan's suburbs."
+      },
+      {
+        "name": "The Practical Effects Purists",
+        "share": 0.3,
+        "voice": "The film is a masterclass in mechanical engineering. The rotating room, the melting stairs, and the ceiling kill are unmatched triumphs of physical, pre-CGI imagination."
+      },
+      {
+        "name": "The Slasher Traditionalists",
+        "share": 0.15,
+        "voice": "It's a foundational, highly entertaining popcorn movie, but it's hard to separate the terrifying original from the goofy, commercialized sequels that followed."
+      }
+    ],
+    "symbols": [
+      "The Bladed Glove",
+      "Red and Green Striped Sweater",
+      "The Rotating Bedroom Ceiling",
+      "Boiler Room Steam",
+      "Melting Marshmallow Stairs"
+    ],
+    "pos": {
+      "x": 0.52,
+      "y": 0.68
+    }
+  },
+  {
+    "slug": "blood-simple",
+    "title": "Blood Simple",
+    "year": 1984,
+    "director": "Joel Coen & Ethan Coen",
+    "runtime": 99,
+    "catalogue": "ARTX-006",
+    "epigraph": "In Texas, down here, you're on your own.",
+    "reading": "The Coen brothers' calling-card debut established a pristine, clockwork architecture of miscommunication that completely revitalized the modern American neo-noir. While born out of the gritty, independent film movement of the early 1980s, *Blood Simple* possesses an icy, formal precision that feels completely un-accidental, running on a track of tragic irony where the audience possesses all the information and the characters possess none. Discourse around the film acts as a foundational archaeology site for the Coens' entire subsequent career, tracking the birth of their signature dark humor, their collaboration with cinematographer Barry Sonnenfeld, and their absolute mastery of regional linguistic cadences. It remains an untouchable textbook example of the micro-budget thriller operating at peak structural efficiency.",
+    "metrics": {
+      "consensus": 92,
+      "friction": 14,
+      "obsession": 78,
+      "haunting": 70,
+      "symbolic": 80,
+      "cult": 65,
+      "formal": 86,
+      "voltage": 81,
+      "accessibility": 82,
+      "reach": 74,
+      "progeny": 88,
+      "arc": 84,
+      "transgression": 55
+    },
+    "notes": {
+      "consensus": "An exceptionally clean, stable metric. Critics, genre historians, and general audiences completely agree on the film's status as a foundational, immaculate neo-noir blueprint.",
+      "friction": "Virtually zero interpretive friction exists today; the film's structural intent and mechanics are perfectly transparent, leaving no lingering narrative wars open.",
+      "formal": "High score driven by the film's calculated framing, highly expressive camera movements, and hyper-designed sound design—such as the rhythmic thumping of the ceiling fan—which became a signature stylistic element of the directors."
+    },
+    "afterlife": [
+      {
+        "year": 1984,
+        "kind": "release",
+        "label": "Premieres at the Toronto International Film Festival, instantly establishing the Coen brothers as premier independent voices."
+      },
+      {
+        "year": 1985,
+        "kind": "rediscovery",
+        "label": "Wins the Grand Jury Prize at the inaugural Sundance Film Festival, solidifying its arthouse and indie credentials."
+      },
+      {
+        "year": 2000,
+        "kind": "reissue",
+        "label": "The Coens release a theatrical 'Director's Cut' that paradoxically trims several minutes of runtime, tightening its clockwork pacing."
+      },
+      {
+        "year": 2016,
+        "kind": "criterion",
+        "label": "Receives a definitive Criterion Collection restoration, permanently cementing its status as an academic and historical masterpiece of American independent cinema."
+      }
+    ],
+    "factions": [
+      {
+        "name": "The Noir Formalists",
+        "share": 0.6,
+        "voice": "It's an absolute masterclass in narrative economy and visual storytelling. The tragedy stems entirely from the geometry of the frame and information asymmetry."
+      },
+      {
+        "name": "The Coen Archaeologists",
+        "share": 0.3,
+        "voice": "Everything they would master in 'Fargo' and 'No Country for Old Men' is here in embryonic form: the pathetic criminals, the looming violence, and the existential dread."
+      },
+      {
+        "name": "The Traditional Thriller Fans",
+        "share": 0.1,
+        "voice": "An incredibly tense, effective exercise in pulp suspense, though slightly colder and more clinical than the classic noirs it draws inspiration from."
+      }
+    ],
+    "symbols": [
+      "The Rhythmic Ceiling Fan",
+      "Four Wall-Piercing Bullet Holes of Light",
+      "The Yellow Volkswagen Beetle",
+      "The Texas Highway Horizon",
+      "The Fish on the Desk"
+    ],
+    "pos": {
+      "x": -0.24,
+      "y": 0.55
+    }
   }
 ]
