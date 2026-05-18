@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { AXES, getArtifact, ARTIFACTS, type AfterlifeEvent, type Faction, type Metrics, type AxisKey } from "@/data/artifacts";
 import { Sigil } from "@/components/Sigil";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { shareArtifactImage } from "@/lib/screenshot";
+import { useUserFilms } from "@/lib/user-films-context";
 
 type AxisBands = [string, string, string, string]; // subdued, present, elevated, extreme
 
@@ -137,7 +138,13 @@ function metricsDistance(a: Metrics, b: Metrics): number {
 function Dossier() {
   const { artifact: a } = Route.useLoaderData();
   const [sharing, setSharing] = useState(false);
-  const others = ARTIFACTS.filter((x) => x.slug !== a.slug)
+  const { userFilms } = useUserFilms();
+  const allArtifacts = useMemo(() => {
+    const known = new Set(ARTIFACTS.map((x) => x.slug));
+    return [...ARTIFACTS, ...userFilms.filter((u) => !known.has(u.slug))];
+  }, [userFilms]);
+  const others = allArtifacts
+    .filter((x) => x.slug !== a.slug)
     .sort((x, y) => metricsDistance(a.metrics, x.metrics) - metricsDistance(a.metrics, y.metrics))
     .slice(0, 3);
 
