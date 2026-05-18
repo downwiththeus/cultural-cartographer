@@ -7,6 +7,8 @@ import {
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
+import { Analytics } from "@vercel/analytics/react";
+import { UserFilmsProvider } from "@/lib/user-films-context";
 
 import appCss from "../styles.css?url";
 
@@ -107,6 +109,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
       <body>
         {children}
         <Scripts />
+        <Analytics />
       </body>
     </html>
   );
@@ -117,7 +120,9 @@ function RootComponent() {
 
   return (
     <QueryClientProvider client={queryClient}>
-      <Outlet />
+      <UserFilmsProvider>
+        <Outlet />
+      </UserFilmsProvider>
     </QueryClientProvider>
   );
 }
